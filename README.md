@@ -8,8 +8,8 @@
 | 中文名 | 日文名 | 英文名 | TV字幕 |
 | ---- | ---- | ---- |  ---- |
 | 恋如雨止 | 恋は雨上がりのように | Koi wa Ameagari no You ni | 12集正片 / [字幕](https://github.com/Nekomoekissaten/Koi-wa-Ameagari-no-You-ni) |
-| 轻旅轻营/摇曳露营 | ゆるキャン△ | Yuru Camp |  12集正片 / 字幕 |
-| Slow Start | スロウスタート | Slow Start |  12集正片 / 字幕 |
+| 轻旅轻营/摇曳露营 | ゆるキャン△ | Yuru Camp |  12集正片 / [字幕](https://github.com/Nekomoekissaten/Yuru-Camp) |
+| Slow Start | スロウスタート | Slow Start |  12集正片 / [字幕](https://github.com/Nekomoekissaten/Slow-Start) |
 
 - **2017年8月**
 
