@@ -3,10 +3,11 @@
 - **2018年1月**
 
 | 中文名 | 日文名 | 英文名 | 字幕 |
-| ---- | ---- | ---- |  ---- |
+| ---- | ---- | ---- | ---- |
 | 恋如雨止 / 爱在雨过天晴时 | 恋は雨上がりのように | Koi wa Ameagari no You ni | 12集正片 / [TV字幕](https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni) |
 | 轻旅轻营△ / 摇曳露营△ | ゆるキャン△ | Yuru Camp△ |  12集正片 / [TV字幕](https://github.com/Nekomoekissaten-SUB/Yuru-Camp) |
 | Slow Start | スロウスタート | Slow Start |  12集正片 / [TV字幕](https://github.com/Nekomoekissaten-SUB/Slow-Start) |
+| 小木乃伊到我家 / 木乃伊的饲养方法 | ミイラの飼い方 | Miira no Kaikata | 12集正片 / [TV字幕](https://github.com/Nekomoekissaten-SUB/Miira-no-Kaikata) |
 
 - **2017年8月**
 
