@@ -14,4 +14,9 @@
 | 中文名 | 日文名 | 英文名 | 字幕 |
 | ---- | ---- | ---- |  ---- |
 | 终物语 下 | 終物語下（2期） | Owarimonogatari S2 | 7集正片 / [BD字幕](https://github.com/Nekomoekissaten-SUB/Owarimonogatari-S2) |
+
+- **剧场版**
+| 中文名 | 日文名 | 英文名 | 字幕 |
+| ---- | ---- | ---- |  ---- |
+| 魔法少女奈叶 Reflection | 魔法少女リリカルなのは Reflection | Magical Girl Lyrical NANOHA Reflection | 剧场版 / [BD字幕](https://github.com/Nekomoekissaten-SUB/Magical-Girl-Lyrical-NANOHA-Reflection) |
 | 烟花 / 烟花、应该和谁看 / 升空的焰火，从下面看？还是从侧面看？ | 打ち上げ花火、下から見るか?横から見るか? | Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?| 剧场版 / [BD字幕](https://github.com/Nekomoekissaten-SUB/Uchiage-Hanabi) |
