@@ -1,5 +1,11 @@
 # 番剧索引
 
+- **2018年4月**
+
+| 中文名 | 日文名 | 英文名 | 字幕 |
+| ---- | ---- | ---- | ---- |
+| 魔法少女网站 | 魔法少女サイト | Mahou Shoujo Site | 12集正片 / [TV字幕](https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site) |
+
 - **2018年1月**
 
 | 中文名 | 日文名 | 英文名 | 字幕 |
