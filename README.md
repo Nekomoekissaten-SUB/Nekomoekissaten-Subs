@@ -32,8 +32,8 @@
 
 | 中文名 | 日文名 | 英文名 | 字幕 |
 | ---- | ---- | ---- |  ---- |
-| 窈窕淑女 前篇 ～红绪、花样的17岁～ | 劇場版 はいからさんが通る 前編 〜紅緒、花の17歳〜 | Gekijoban Haikara-san ga Toru Zenpen: Benio, Hana no 17-sai |  [BD字幕](https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru) |
-| 想要传达你的声音 | きみの声をとどけたい | Kimi no Koe wo Todoketai | [BD字幕](https://github.com/Nekomoekissaten-SUB/Kimi-no-koe-wo-todoketai) |
-| 魔法少女奈叶 Reflection | 魔法少女リリカルなのは Reflection | Magical Girl Lyrical NANOHA Reflection |  [BD字幕](https://github.com/Nekomoekissaten-SUB/Magical-Girl-Lyrical-NANOHA-Reflection) |
-| 烟花 / 烟花、应该和谁看 / 升空的焰火，从下面看？还是从侧面看？ | 打ち上げ花火、下から見るか?横から見るか? | Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?| [BD字幕](https://github.com/Nekomoekissaten-SUB/Uchiage-Hanabi) |
-| 特工次时代 / 特工次世代 / 探索者！ | ブラム! | Blame! |  [BD字幕](https://github.com/Nekomoekissaten-SUB/Blame) |
+| 窈窕淑女 前篇 ～红绪、花样的17岁～ | 劇場版 はいからさんが通る 前編 〜紅緒、花の17歳〜 | Gekijoban Haikara-san ga Toru Zenpen: Benio, Hana no 17-sai |  [BD<br>字幕](https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru) |
+| 想要传达你的声音 | きみの声をとどけたい | Kimi no Koe wo Todoketai | [BD<br>字幕](https://github.com/Nekomoekissaten-SUB/Kimi-no-koe-wo-todoketai) |
+| 魔法少女奈叶 Reflection | 魔法少女リリカルなのは Reflection | Magical Girl Lyrical NANOHA Reflection |  [BD<br>字幕](https://github.com/Nekomoekissaten-SUB/Magical-Girl-Lyrical-NANOHA-Reflection) |
+| 烟花 / 烟花、应该和谁看 / 升空的焰火，从下面看？还是从侧面看？ | 打ち上げ花火、下から見るか?横から見るか? | Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?| [BD<br>字幕](https://github.com/Nekomoekissaten-SUB/Uchiage-Hanabi) |
+| 特工次时代 / 特工次世代 / 探索者！ | ブラム! | Blame! |  [BD<br>字幕](https://github.com/Nekomoekissaten-SUB/Blame) |
