@@ -110,7 +110,7 @@
 <tr>
 <td>窈窕淑女 前篇 ～红绪、花样的17岁～</td>
 <td>劇場版 はいからさんが通る 前編 〜紅緒、花の17歳〜</td>
-<td>Gekijoban Haikara-san ga Toru Zenpen: Benio, Hana no 17-sai</td>
+<td>Gekijoban Haikara-san ga Tooru Zenpen: Benio, Hana no 17-sai</td>
 <td width="80" align="center"><a href="https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru">BD字幕</a></td>
 </tr>
 <tr>
