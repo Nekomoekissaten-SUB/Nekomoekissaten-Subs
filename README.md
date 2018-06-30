@@ -14,6 +14,12 @@
 </thead>
 <tbody>
 <tr>
+<td>甜心战士 Universe</td>
+<td>Cutie Honey Universe</td>
+<td>Cutie Honey Universe</td>
+<td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Cutie-Honey-Universe">TV字幕</a></td>
+</tr>
+<tr>
 <td>魔法少女网站</td>
 <td>魔法少女サイト</td>
 <td>Mahou Shoujo Site</td>
