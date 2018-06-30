@@ -45,18 +45,21 @@
 <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni">TV字幕</a></td>
 </tr>
 <tr>
-<td>轻旅轻营△ / 摇曳露营△</td>
-<td>ゆるキャン△</td>
-<td>Yuru Camp△</td>
-<td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Yuru-Camp">TV字幕</a><br>BD Vol.1 / <a href="https://github.com/Nekomoekissaten-SUB/Yuru-Camp-BD">字幕</a></td>
+<td rowspan="3">轻旅轻营△ / 摇曳露营△</td>
+<td rowspan="3">ゆるキャン△</td>
+<td rowspan="3">Yuru Camp△</td>
+<td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Yuru-Camp">TV字幕</a></td>
+</tr>
+<tr></tr>
+<tr>
+<td align="center">BD Vol.1 / <a href="https://github.com/Nekomoekissaten-SUB/Yuru-Camp-BD">字幕</a></td>
 </tr>
 <tr>
 <td>Slow Start</td>
 <td>スロウスタート</td>
 <td>Slow Start</td>
 <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Slow-Start">TV字幕</a></td>
-</tr>
-<tr>
+</tr><tr>
 <td>小木乃伊到我家 / 木乃伊的饲养方法</td>
 <td>ミイラの飼い方</td>
 <td>Miira no Kaikata</td>
