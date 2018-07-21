@@ -157,3 +157,30 @@
     </tr>
   </tbody>
 </table>
+<ul>
+  <li><strong>OVA / ONA</strong></li>
+</ul>
+<table>
+  <thead>
+    <tr>
+      <th>中文名</th>
+      <th>日文名</th>
+      <th>英文名</th>
+      <th>字幕</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>某僵尸少女的灾难</td>
+      <td>あるゾンビ少女の災難</td>
+      <td>Aru Zombie Shoujo no Sainan</td>
+      <td><a href="https://github.com/Nekomoekissaten-SUB/Aru-Zombie-Shoujo-no-Sainan">ONA</a></td>
+    </tr>
+    <tr>
+      <td>血界战线&BEYOND</td>
+      <td>血界戦線&BEYOND</td>
+      <td>Kekkai Sensen & Beyond</td>
+      <td><a href="https://github.com/Nekomoekissaten-SUB/Kekkai-Sensen-Beyond">OVA</a></td>
+    </tr>
+  </tbody>
+</table>
