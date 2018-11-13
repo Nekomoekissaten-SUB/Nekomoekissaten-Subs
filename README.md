@@ -14,9 +14,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>One Room</td>
-      <td>One Room</td>
-      <td>One Room</td>
+      <td>One Room 第2季</td>
+      <td>One Room セカンドシーズン</td>
+      <td>One Room S2</td>
       <td>13集短篇 / <a href="https://github.com/Nekomoekissaten-SUB/One-Room-S2">TV字幕</a></td>
     </tr>
     <tr>
