@@ -47,10 +47,14 @@
       <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Cutie-Honey-Universe">TV字幕</a></td>
     </tr>
     <tr>
-      <td>魔法少女网站</td>
-      <td>魔法少女サイト</td>
-      <td>Mahou Shoujo Site</td>
+      <td rowspan="3">魔法少女网站</td>
+      <td rowspan="3">魔法少女サイト</td>
+      <td rowspan="3">Mahou Shoujo Site</td>
       <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site">TV字幕</a></td>
+    </tr>
+	<tr></tr>
+	<tr>
+      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site-BD">BD字幕</a></td>
     </tr>
   </tbody>
 </table>
@@ -68,10 +72,14 @@
   </thead>
   <tbody>
     <tr>
-      <td>恋如雨止 / 爱在雨过天晴时</td>
-      <td>恋は雨上がりのように</td>
-      <td>Koi wa Ameagari no You ni</td>
-      <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni">TV字幕</a></td>
+      <td rowspan="3">恋如雨止 / 爱在雨过天晴时</td>
+      <td rowspan="3">恋は雨上がりのように</td>
+      <td rowspan="3">Koi wa Ameagari no You ni</td>
+      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni">TV字幕</a></td>
+    </tr>
+	<tr></tr>
+	<tr>
+      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni-BD">BD字幕</a></td>
     </tr>
     <tr>
       <td rowspan="3">轻旅轻营△ / 摇曳露营△</td>
