@@ -1,5 +1,4 @@
 # 番剧索引
-
 <ul>
   <li><strong>2018年7月</strong></li>
 </ul>
@@ -50,11 +49,11 @@
       <td rowspan="3">魔法少女网站</td>
       <td rowspan="3">魔法少女サイト</td>
       <td rowspan="3">Mahou Shoujo Site</td>
-      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site">TV字幕</a></td>
+      <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site">TV字幕</a></td>
     </tr>
-	<tr></tr>
-	<tr>
-      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site-BD">BD字幕</a></td>
+    <tr></tr>
+    <tr>
+      <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site-BD">BD字幕</a></td>
     </tr>
   </tbody>
 </table>
@@ -75,11 +74,11 @@
       <td rowspan="3">恋如雨止 / 爱在雨过天晴时</td>
       <td rowspan="3">恋は雨上がりのように</td>
       <td rowspan="3">Koi wa Ameagari no You ni</td>
-      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni">TV字幕</a></td>
+      <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni">TV字幕</a></td>
     </tr>
-	<tr></tr>
-	<tr>
-      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni-BD">BD字幕</a></td>
+    <tr></tr>
+    <tr>
+      <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni-BD">BD字幕</a></td>
     </tr>
     <tr>
       <td rowspan="3">轻旅轻营△ / 摇曳露营△</td>
@@ -92,10 +91,14 @@
       <td align="center">BD Vol.1 / <a href="https://github.com/Nekomoekissaten-SUB/Yuru-Camp-BD">字幕</a></td>
     </tr>
     <tr>
-      <td>Slow Start</td>
-      <td>スロウスタート</td>
-      <td>Slow Start</td>
+      <td rowspan="3">Slow Start</td>
+      <td rowspan="3">スロウスタート</td>
+      <td rowspan="3">Slow Start</td>
       <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Slow-Start">TV字幕</a></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Slow-Start-BD">BD字幕</a></td>
     </tr>
     <tr>
       <td>小木乃伊到我家 / 木乃伊的饲养方法</td>
@@ -144,6 +147,27 @@
       <td>終物語下（2期）</td>
       <td>Owarimonogatari S2</td>
       <td>7集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Owarimonogatari-S2">BD字幕</a></td>
+    </tr>
+  </tbody>
+</table>
+<ul>
+  <li><strong>2017年4月</strong></li>
+</ul>
+<table>
+  <thead>
+    <tr>
+      <th>中文名</th>
+      <th>日文名</th>
+      <th>英文名</th>
+      <th>字幕</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>快盗天使双胞胎Break</td>
+      <td>ツインエンジェルBREAK</td>
+      <td>Twin Angel Break</td>
+      <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Twin-Angel-Break">BD字幕</a></td>
     </tr>
   </tbody>
 </table>
