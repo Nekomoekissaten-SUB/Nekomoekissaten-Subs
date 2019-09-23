@@ -1,5 +1,36 @@
 # 番剧索引
 <ul>
+  <li><strong>物语系列</strong></li>
+</ul>
+<table>
+  <thead>
+    <tr>
+      <th>中文名</th>
+      <th>日文名</th>
+      <th>英文名</th>
+      <th>字幕</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">终物语 下</td>
+      <td rowspan="3">終物語下（2期）</td>
+      <td rowspan="3">Owarimonogatari S2</td>
+      <td align="center">7集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Owarimonogatari-S2">BD字幕</a></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center">副音轨 / <a href="https://github.com/Nekomoekissaten-SUB/Owarimonogatari-S2-Commentary">字幕</a></td>
+    </tr>
+    <tr>
+      <td>续・终物语</td>
+      <td>続・終物語</td>
+      <td>Zoku Owarimonogatari</td>
+      <td>6集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Zoku-Owarimonogatari">BD字幕</a></td>
+    </tr>    
+  </tbody>
+</table>
+<ul>
   <li><strong>2018年7月</strong></li>
 </ul>
 <table>
@@ -126,27 +157,6 @@
       <td>少女終末旅行</td>
       <td>Shoujo Shuumatsu Ryokou</td>
       <td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Girls-Last-Tour">TV字幕</a></td>
-    </tr>
-  </tbody>
-</table>
-<ul>
-  <li><strong>2017年8月</strong></li>
-</ul>
-<table>
-  <thead>
-    <tr>
-      <th>中文名</th>
-      <th>日文名</th>
-      <th>英文名</th>
-      <th>字幕</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>终物语 下</td>
-      <td>終物語下（2期）</td>
-      <td>Owarimonogatari S2</td>
-      <td>7集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Owarimonogatari-S2">BD字幕</a></td>
     </tr>
   </tbody>
 </table>
