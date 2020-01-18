@@ -140,13 +140,15 @@
 <tr>
 <td rowspan="3">同居人时而在腿上、时而跑到脑袋上</td>
 <td rowspan="3">同居人はひざ、時々、頭のうえ。</td>
-<td rowspan="3">Doukyonin wa Hiza, Tokidoki, Atama no Ue. / Hizaue</td>
+<td rowspan="1">Doukyonin wa Hiza, Tokidoki, Atama no Ue. / Hizaue</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Doukyonin_wa_Hiza%2C_Tokidoki%2C_Atama_no_Ue/Web">TV字幕</a></td>
 </tr>
+<!--
 <tr></tr>
 <tr>
 <td align="center" nowrap="nowrap">12集正片 / <a href="">BD字幕</a></td>
 </tr>
+-->
 </tbody>
 </table>
 
