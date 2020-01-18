@@ -1,24 +1,18 @@
-- [ 番剧索引](#head1)
-	- [ TV动画](#head2)
-		- [ 2019年10月](#head3)
-		- [ 2019年7月](#head4)
-		- [ 2019年4月](#head5)
-		- [ 2019年1月](#head6)
-		- [ 2018年10月](#head7)
-		- [ 2018年7月](#head8)
-		- [ 2018年4月](#head9)
-		- [ 2018年1月](#head10)
-		- [ 2017年10月](#head11)
-		- [ 2017年4月](#head12)
+# 目录
+- [ 番剧索引](#head01)
+	- [ TV动画](#head02)
+		-  2019年 : [10月](#head03)🍂 - [ 7月](#head04)☀️ - [ 4月](#head05)🌸 - [ 1月](#head06)❄️
+		-  2018年 : [10月](#head07)🍂 - [ 7月](#head08)☀️ - [ 4月](#head09)🌸 - [ 1月](#head10)❄️
+		-  2017年 : [10月](#head11)🍂 - 7月☀️ - [ 4月](#head12)🌸 - 1月❄️
 	- [ 剧场版](#head13)
 	- [OVA / ONA](#head14)
 	- [ 其他衍生](#head15)
 
-# <span id="head1"> 番剧索引</span>
+# <span id="head01"> 番剧索引</span>
 
-## <span id="head2"> TV动画</span>
+## <span id="head02"> TV动画</span>
 
-### <span id="head3"> 2019年10月</span>
+### <span id="head03"> 2019年10月</span>
 
 <table>
 <thead>
@@ -57,13 +51,13 @@
 <tr>
 	<td>警视厅 特务部 特殊凶恶犯对策室 第七课</td>
 	<td>警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-</td>
-	<td>Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana / tokunana</td>
+	<td>Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana</td>
 	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Keishichou_Tokumubu_Tokushu_Kyouakuhan_Taisakushitsu_Dainanaka_Tokunana%20Web">TV字幕</a></td>
 </tr>
 </tbody>
 </table>
 
-### <span id="head4"> 2019年7月</span>
+### <span id="head04"> 2019年7月</span>
 
 <table>
 <thead>
@@ -100,7 +94,7 @@
 </tbody>
 </table>
 
-### <span id="head5"> 2019年4月</span>
+### <span id="head05"> 2019年4月</span>
 
 <table>
 <thead>
@@ -121,7 +115,7 @@
 </tbody>
 </table>
 
-### <span id="head6"> 2019年1月</span>
+### <span id="head06"> 2019年1月</span>
 
 <table>
 <thead>
@@ -156,7 +150,7 @@
 </tbody>
 </table>
 
-### <span id="head7"> 2018年10月</span>
+### <span id="head07"> 2018年10月</span>
 
 <table>
 <thead>
@@ -177,7 +171,7 @@
 </tbody>
 </table>
 
-### <span id="head8"> 2018年7月</span>
+### <span id="head08"> 2018年7月</span>
 
 <table>
 <thead>
@@ -210,7 +204,7 @@
 </tbody>
 </table>
 
-### <span id="head9"> 2018年4月</span>
+### <span id="head09"> 2018年4月</span>
 
 <table>
 <thead>
