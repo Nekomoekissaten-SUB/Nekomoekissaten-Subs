@@ -394,7 +394,7 @@
 <td>若能与你共乘海浪之上 / 乘浪之約</td>
 <td>きみと、波にのれたら</td>
 <td>Kimi to, Nami ni Noretara</td>
-<td align="center" nowrap="nowrap">BD字幕</td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kimi_to%2C_Nami_ni_Noretara%20BD">BD字幕</a></td>
 </tr>
 <tr>
 <td>黑狐</td>
