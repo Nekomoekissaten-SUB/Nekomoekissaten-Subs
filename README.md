@@ -257,7 +257,7 @@
 	<td align="center" nowrap="nowrap">10集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Manaria_Friends%20BD">BD字幕</a></td>
 </tr>
 <tr>
-	<td>圣圣斗士星矢 圣斗少女翔</td>
+	<td>圣斗士星矢 圣斗少女翔</td>
 	<td>聖闘士星矢 セインティア翔</td>
 	<td>Saint Seiya: Saintia Shou</td>
 	<td align="center" nowrap="nowrap">10集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Saint_Seiya_-_Saintia_Shou%20BD">BD字幕</a></td>
@@ -723,7 +723,7 @@
 </tr>
 <tr>
 <td>普罗米亚</td>
-<td></td>
+<td>プロメア</td>
 <td>PROMARE</td>
 <td align="center" nowrap="nowrap"><a>BD字幕</a></td>
 </tr>
