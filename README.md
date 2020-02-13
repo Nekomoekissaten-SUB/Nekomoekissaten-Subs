@@ -477,16 +477,12 @@
 <td>URAHARA</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/URAHARA-BD">BD字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>少女终末旅行</td>
 <td>少女終末旅行</td>
 <td>Shoujo Shuumatsu Ryokou</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Girls-Last-Tour">TV字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td rowspan="3">血界战线&BEYOND</td>
 <td rowspan="3">血界戦線 & BEYOND</td>
@@ -497,32 +493,24 @@
 <tr>
 <td align="center" nowrap="nowrap">OVA / <a href="https://github.com/Nekomoekissaten-SUB/Kekkai-Sensen-Beyond">字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>Code:Realize ～创世的姬君～</td>
 <td>Code:Realize ～創世の姫君～</td>
 <td>Code Realize - Sousei no Himegimi</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Code-Realize-Sousei-no-Himegimi">TV字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>宝石之国</td>
 <td>宝石の国</td>
 <td>Land of the Lustrous / Houseki no Kuni</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Houseki-no-Kuni-BD">BD字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>动画同好会</td>
 <td>アニメガタリズ</td>
 <td>Anime-Gataris</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Anime-Gataris">BD字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>如果有妹妹就好了。</td>
 <td>妹さえいればいい。</td>
@@ -550,32 +538,24 @@
 <td>Isekai wa Smartphone to Tomo ni.</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekai_wa_Smartphone_to_Tomo_ni">TV字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>徒然喜欢你</td>
 <td>徒然チルドレン</td>
 <td>Tsurezure Children</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsurezure_Children">TV字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>来自深渊</td>
 <td>メイドインアビス</td>
 <td>Made in Abyss</td>
 <td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Made_in_Abyss">TV字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>洁癖男子！青山君</td>
 <td>潔癖男子！青山くん</td>
 <td>Keppeki Danshi! Aoyama-kun</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Keppeki_Danshi!_Aoyama-kun">TV字幕</a></td>
 </tr>
-</tbody>
-<tbody>
 <tr>
 <td>战斗女子高校</td>
 <td>バトルガール ハイスクール</td>
