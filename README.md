@@ -488,9 +488,9 @@
 </tbody>
 <tbody>
 <tr>
-<td>血界战线&BEYOND</td>
-<td>血界戦線 & BEYOND</td>
-<td>Kekkai Sensen & Beyond</td>
+<td rowspan="3">血界战线&BEYOND</td>
+<td rowspan="3">血界戦線 & BEYOND</td>
+<td rowspan="3">Kekkai Sensen & Beyond</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Kekkai-Sensen-Beyond">TV字幕</a></td>
 </tr>
 <tr></tr>
