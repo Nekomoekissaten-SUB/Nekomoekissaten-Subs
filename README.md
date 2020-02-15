@@ -705,7 +705,7 @@
 <td>普罗米亚</td>
 <td>プロメア</td>
 <td>PROMARE</td>
-<td align="center" nowrap="nowrap"><a>BD字幕</a></td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/PROMARE">BD字幕</a></td>
 </tr>
 </tbody>
 </table>
