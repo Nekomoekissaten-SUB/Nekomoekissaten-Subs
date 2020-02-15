@@ -393,7 +393,7 @@
 <td>命运石之门0</td>
 <td>シュタインズ・ゲート ゼロ</td>
 <td>Steins;Gate 0</td>
-<td>12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Steins%3BGate-0">TV字幕</a></td>
+<td>24集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Steins%3BGate-0">TV字幕</a></td>
 </tr>
 </tbody>
 </table>
