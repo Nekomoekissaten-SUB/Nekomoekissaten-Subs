@@ -739,10 +739,14 @@
 <td align="center" nowrap="nowrap">副音轨 / <a href="https://github.com/Nekomoekissaten-SUB/Owarimonogatari-S2-Commentary">字幕</a></td>
 </tr>
 <tr>
-<td>续・终物语</td>
-<td>続・終物語</td>
-<td>Zoku Owarimonogatari</td>
-<td>6集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Zoku-Owarimonogatari">BD字幕</a></td>
+<td rowspan="3">续・终物语</td>
+<td rowspan="3">続・終物語</td>
+<td rowspan="3">Zoku Owarimonogatari</td>
+<td align="center" nowrap="nowrap">6集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Zoku-Owarimonogatari">BD字幕</a></td>
+</tr>
+<tr></tr>
+<tr>
+<td align="center" nowrap="nowrap">副音轨 / <a href="https://github.com/Nekomoekissaten-SUB/Zoku-Owarimonogatari-Commentary">字幕</a></td>
 </tr>
 <tr>
 <td>Escha Chron</td>
