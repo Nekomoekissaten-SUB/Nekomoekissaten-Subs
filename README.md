@@ -146,7 +146,7 @@
 </tr>
 <tr>
 	<td>只要长得可爱，即使是变态你也喜欢吗？</td>
-	<td>可愛ければ変態でも好きになってくれますか？可愛ければ変態でも好きになってくれますか？</td>
+	<td>可愛ければ変態でも好きになってくれますか？</td>
 	<td>Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? / Hensuki</td>
 	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kawaikereba-Hentai-demo-Suki-ni-Natte-Kuremasu-ka">TV字幕</a></td>
 </tr>
