@@ -301,6 +301,17 @@
 	<td>Release the Spyce</td>
 	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Release-the-Spyce">TV字幕</a></td>
 </tr>
+</tr>
+<tr>
+	<td rowspan="3">哥布林杀手</td>
+	<td rowspan="3">ゴブリンスレイヤー</td>
+	<td rowspan="3">Goblin Slayer</td>
+	<td align="center" nowrap="nowrap">12集正片+总集篇 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Goblin-Slayer">TV字幕</a></td>
+</tr>
+<tr></tr>
+<tr>
+	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Goblin-Slayer-BD">BD字幕</a></td>
+</tr>
 <tr>
 	<td>偶像大尸 / 佐贺偶像是传奇</td>
 	<td>ゾンビランドサガ</td>
@@ -539,10 +550,14 @@
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekai_wa_Smartphone_to_Tomo_ni">TV字幕</a></td>
 </tr>
 <tr>
-<td>徒然喜欢你</td>
-<td>徒然チルドレン</td>
-<td>Tsurezure Children</td>
+<td rowspan="3">徒然喜欢你</td>
+<td rowspan="3">徒然チルドレン</td>
+<td rowspan="3">Tsurezure Children</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsurezure_Children">TV字幕</a></td>
+</tr>
+<tr></tr>
+<tr>
+<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsurezure_Children%20BD">BD字幕</a></td>
 </tr>
 <tr>
 <td>来自深渊</td>
