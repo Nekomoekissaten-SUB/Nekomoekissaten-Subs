@@ -1,20 +1,22 @@
 # 目录
-- [ 番剧索引](#head01)
-	- [ TV动画](#head02)
-		-  2020年 : 10月🍂 - 7月☀️ - 4月🌸 - [1月](#head03)❄️
-		-  2019年 : [10月](#head04)🍂 - [ 7月](#head05)☀️ - [ 4月](#head06)🌸 - [ 1月](#head07)❄️
-		-  2018年 : [10月](#head08)🍂 - [ 7月](#head09)☀️ - [ 4月](#head10)🌸 - [ 1月](#head11)❄️
-		-  2017年 : [10月](#head12)🍂 - [ 7月](#head13)☀️ - [ 4月](#head14)🌸 - 1月❄️
-		-  [ 旧番](#head15)
-	- [ 剧场版](#head16)
-	- [OVA / ONA](#head17)
-	- [ 其他衍生](#head18)
+- [番剧索引](#title)
+	- [TV动画](#tva)
+		-  2020年 : 10月🍂 - 7月☀️ - 4月🌸 - [1月](#2001)❄️
+		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
+		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
+		-  2017年 : [10月](#1710)🍂 - [7月](#1707)☀️ - [4月](#1704)🌸 - 1月❄️
+		-  [旧番](#old)
+	- [剧场版](#mov)
+	- [OVA / ONA](#ova)
+	- [其他衍生](#other)
 
-# <span id="head01"> 番剧索引</span>
+# <span id="title"> 番剧索引</span>
 
-## <span id="head02"> TV动画</span>
+本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含日文字幕使用 <sup>β</sup> 标注。
 
-### <span id="head03"> 2020年1月</span>
+## <span id="tva"> TV动画</span>
+
+### <span id="2001"> 2020年1月</span>
 
 <table>
 <thead>
@@ -30,12 +32,12 @@
 	<td>请在伸展台上微笑 / 请在T台上微笑</td>
 	<td>ランウェイで笑って</td>
 	<td>Runway de Waratte</td>
-	<td align="center" nowrap="nowrap">连载中 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">连载中<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte">TV字幕</a></td>
 </tr>
 </tbody>
 </table>
 
-### <span id="head04"> 2019年10月</span></span>
+### <span id="1910"> 2019年10月</span></span>
 
 <table>
 <thead>
@@ -81,7 +83,7 @@
 	<td>拳愿阿修罗 第二季</td>
 	<td>ケンガンアシュラ 2nd Season</td>
 	<td>Kengan Ashura 2nd Season</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura-2nd-Season">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura-2nd-Season">TV字幕</a></td>
 </tr>
 <tr>
 	<td>我不是说了能力要平均值吗</td>
@@ -99,7 +101,7 @@
 	<td>Fairy gone 第二季</td>
 	<td>Fairy gone フェアリーゴーン 第2期</td>
 	<td>Fairy gone 2nd Season / Fairy gone Season 1 Part 2</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone-S2">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone-S2">TV字幕</a></td>
 </tr>
 <tr>
 	<td>XL上司。</td>
@@ -110,7 +112,7 @@
 </tbody>
 </table>
 
-### <span id="head05"> 2019年7月</span></span>
+### <span id="1907"> 2019年7月</span></span>
 
 <table>
 <thead>
@@ -154,12 +156,12 @@
 	<td>拳愿阿修罗</td>
 	<td>ケンガンアシュラ</td>
 	<td>Kengan Ashura</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura">TV字幕</a></td>
 </tr>
 </tbody>
 </table>
 
-### <span id="head06"> 2019年4月</span>
+### <span id="1904"> 2019年4月</span>
 
 <table>
 <thead>
@@ -175,13 +177,13 @@
 	<td>川柳少女</td>
 	<td>川柳少女</td>
 	<td>Senryuu Shoujo</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Senryuu_Shoujo%20Web">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Senryuu_Shoujo%20Web">TV字幕</a></td>
 </tr>
 <tr>
 	<td>CAROLE & TUESDAY</td>
 	<td>キャロル&チューズデイ</td>
 	<td>CAROLE & TUESDAY</td>
-	<td align="center" nowrap="nowrap">24集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/CAROLE%26TUESDAY">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">24集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/CAROLE%26TUESDAY">TV字幕</a></td>
 </tr>
 <tr>
 	<td>我们真的学不来 / 我们无法一起学习</td>
@@ -193,7 +195,7 @@
 	<td>Fairy gone</td>
 	<td>Fairy gone フェアリーゴーン</td>
 	<td>Fairy gone</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone">TV字幕</a></td>
 </tr>
 <tr>
 	<td>清洗服务!～我和她在女子浴池!?～</td>
@@ -210,7 +212,7 @@
 </tbody>
 </table>
 
-### <span id="head07"> 2019年1月</span>
+### <span id="1901"> 2019年1月</span>
 
 <table>
 <thead>
@@ -265,7 +267,7 @@
 </tbody>
 </table>
 
-### <span id="head08"> 2018年10月</span>
+### <span id="1810"> 2018年10月</span>
 
 <table>
 <thead>
@@ -293,7 +295,7 @@
 	<td>来自缤纷世界的明日 / 来自多彩世界的明天</td>
 	<td>色づく世界の明日から</td>
 	<td>Irozuku Sekai no Ashita kara</td>
-	<td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Irozuku-Sekai-no-Ashita-kara-BD">BD字幕</a></td>
+	<td align="center" nowrap="nowrap">13集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Irozuku-Sekai-no-Ashita-kara-BD">BD字幕</a></td>
 </tr>
 <tr>
 	<td>月影特工 / 月影少女</td>
@@ -310,18 +312,18 @@
 </tr>
 <tr></tr>
 <tr>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Goblin-Slayer-BD">BD字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Goblin-Slayer-BD">BD字幕</a></td>
 </tr>
 <tr>
 	<td>偶像大尸 / 佐贺偶像是传奇</td>
 	<td>ゾンビランドサガ</td>
 	<td>Zombieland Saga	</td>
-	<td align="center" nowrap="nowrap"><a>补完中 / BD字幕</a></td>
+	<td align="center" nowrap="nowrap"><a>补完中<sup>α</sup> / BD字幕</a></td>
 </tr>
 </tbody>
 </table>
 
-### <span id="head09"> 2018年7月</span>
+### <span id="1807"> 2018年7月</span>
 
 <table>
 <thead>
@@ -360,7 +362,7 @@
 </tbody>
 </table>
 
-### <span id="head10"> 2018年4月</span>
+### <span id="1804"> 2018年4月</span>
 
 <table>
 <thead>
@@ -409,7 +411,7 @@
 </tbody>
 </table>
 
-### <span id="head11">2018年1月</span>
+### <span id="1801">2018年1月</span>
 
 <table>
 <thead>
@@ -470,7 +472,7 @@
 </tbody>
 </table>
 
-### <span id="head12"> 2017年10月</span>
+### <span id="1710"> 2017年10月</span>
 
 <table>
 <thead>
@@ -531,7 +533,7 @@
 </tbody>
 </table>
 
-### <span id="head13"> 2017年7月</span>
+### <span id="1707"> 2017年7月</span>
 
 <table>
 <thead>
@@ -580,7 +582,7 @@
 </tbody>
 </table>
 
-### <span id="head14"> 2017年4月</span></span>
+### <span id="1704"> 2017年4月</span></span>
 
 <table>
 <thead>
@@ -601,14 +603,14 @@
 </tbody>
 </table>
 
-### <span id="head15"> 旧番</span>
+### <span id="old"> 旧番</span>
 
 中文名 | 日文名 | 英文名 | 字幕
 --- | --- | --- | ---
 小魔女Doremi | おジャ魔女どれみ | Ojamajo Doremi | 连载中 / BD字幕
 
 
-## <span id="head16"> 剧场版</span></span>
+## <span id="mov"> 剧场版</span></span>
 
 <table>
 <thead>
@@ -705,6 +707,12 @@
 <td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/CENCOROLL_CONNECT%20BD">BD字幕</a></td>
 </tr>
 <tr>
+<td>青春笨蛋少年不会梦到怀梦美少女</td>
+<td>青春ブタ野郎はゆめみる少女の夢を見ない</td>
+<td>Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai</td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Seishun-Buta-Yarou-wa-Yumemiru-Shoujo-no-Yume-o-Minai">BD字幕<sup>α</sup></a></td>
+</tr>
+<tr>
 <td>若能与你共乘海浪之上 / 乘浪之約</td>
 <td>きみと、波にのれたら</td>
 <td>Kimi to, Nami ni Noretara</td>
@@ -725,7 +733,7 @@
 </tbody>
 </table>
 
-## <span id="head17"> OVA / ONA</span></span>
+## <span id="ova"> OVA / ONA</span></span>
 
 <table>
 <thead>
@@ -767,18 +775,18 @@
 <td>Escha Chron</td>
 <td>エスカクロン</td>
 <td>Escha Chron</td>
-<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Escha-Chron">OVA</a></td>
+<td align="center" nowrap="nowrap">OVA<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Escha-Chron">字幕</a></td>
 </tr>
 <tr>
 <td>巧克力与香子兰 OVA</td>
 <td>ネコぱらOVA</td>
 <td>NEKOPARA OVA</td>
-<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/NEKOPARA-OVA">OVA</a></td>
+<td align="center" nowrap="nowrap">OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/NEKOPARA-OVA">字幕</a></td>
 </tr>
 </tbody>
 </table>
 
-## <span id="head18">其他衍生</span></span>
+## <span id="other">其他衍生</span></span>
 
 <table>
 <thead>
