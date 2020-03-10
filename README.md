@@ -689,10 +689,14 @@
 <td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Penguin-Highway">BD字幕</a></td>
 </tr>
 <tr>
-<td>甲铁城的卡巴内利 海门决战</td>
-<td>甲鉄城のカバネリ～海門決戦～</td>
-<td>Kabaneri of the Iron Fortress: The Battle of Unato</td>
-<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kabaneri_of_the_Iron_Fortress_The_Battle_of_Unato/Web">Web字幕</a></td>
+<td rowspan="3">甲铁城的卡巴内利/里/瑞 海门决战</td>
+<td rowspan="3">甲鉄城のカバネリ～海門決戦～</td>
+<td rowspan="3">Kabaneri of the Iron Fortress: The Battle of Unato</td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kabaneri_of_the_Iron_Fortress_The_Battle_of_Unato/Web">Web字幕</a><sup>α</sup></td>
+</tr>
+<tr></tr>
+<tr>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kabaneri_of_the_Iron_Fortress_The_Battle_of_Unato/BD">BD字幕</a><sup>α</sup></td>
 </tr>
 <tr>
 <td>灰色：幻影扳机 01-02</td>
@@ -710,7 +714,7 @@
 <td>青春笨蛋少年不会梦到怀梦美少女</td>
 <td>青春ブタ野郎はゆめみる少女の夢を見ない</td>
 <td>Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai</td>
-<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Seishun-Buta-Yarou-wa-Yumemiru-Shoujo-no-Yume-o-Minai">BD字幕<sup>α</sup></a></td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Seishun-Buta-Yarou-wa-Yumemiru-Shoujo-no-Yume-o-Minai">BD字幕</a><sup>α</sup></td>
 </tr>
 <tr>
 <td>若能与你共乘海浪之上 / 乘浪之約</td>
