@@ -86,10 +86,14 @@
 	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura-2nd-Season">TV字幕</a></td>
 </tr>
 <tr>
-	<td>我不是说了能力要平均值吗</td>
-	<td>私、能力は平均値でって言ったよね!</td>
-	<td>Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!</td>
+	<td rowspan="3">我不是说了能力要平均值吗</td>
+	<td rowspan="3">私、能力は平均値でって言ったよね!</td>
+	<td rowspan="3">Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! / Noukin</td>
 	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Watashi%2C-Nouryoku-wa-Heikinchi-de-tte-Itta-yo-ne!">TV字幕</a></td>
+</tr>
+<tr></tr>
+<tr>
+	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Watashi%2C-Nouryoku-wa-Heikinchi-de-tte-Itta-yo-ne!">BD字幕</a></td>
 </tr>
 <tr>
 	<td>非枪人生</td>
