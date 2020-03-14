@@ -734,6 +734,12 @@
 <td>PROMARE</td>
 <td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/PROMARE">BD字幕</a></td>
 </tr>
+<tr>
+<td>薄暮</td>
+<td>薄暮</td>
+<td>Hakubo / Twilight</td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hakubo%20Web">Web字幕</a><sup>α</sup></td>
+</tr>
 </tbody>
 </table>
 
