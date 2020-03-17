@@ -12,7 +12,9 @@
 
 # <span id="title"> 番剧索引</span>
 
-本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含日文字幕使用 <sup>β</sup> 标注。
+本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。
+
+注：单日文字幕的来源一般是各种官方日文字幕。
 
 ## <span id="tva"> TV动画</span>
 
@@ -346,10 +348,14 @@
 <td align="center" nowrap="nowrap">13集短篇 / <a href="https://github.com/Nekomoekissaten-SUB/One-Room-S2">TV字幕</a></td>
 </tr>
 <tr>
-<td>Angolmois～元寇合战记～</td>
-<td>アンゴルモア 元寇合戦記</td>
-<td>Angolmois - Genkou Kassenki</td>
-<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Angolmois-Genkou-Kassenki">TV字幕</a></td>
+<td rowspan="3">Angolmois～元寇合战记～</td>
+<td rowspan="3">アンゴルモア 元寇合戦記</td>
+<td rowspan="3">Angolmois - Genkou Kassenki</td>
+<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Angolmois-Genkou-Kassenki">TV字幕</a></td>
+</tr>
+<tr></tr>
+<tr>
+<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Angolmois-Genkou-Kassenki">BD字幕</a></td>
 </tr>
 <tr>
 <td>京都寺町三条商店街的福尔摩斯</td>
