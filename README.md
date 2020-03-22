@@ -55,7 +55,7 @@
 	<td>BEASTARS</td>
 	<td>BEASTARS</td>
 	<td>BEASTARS</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS%20Web">TV字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS%20Web">TV字幕</a></td>
 </tr>
 <tr>
 	<td>放学后骰子俱乐部</td>
@@ -324,7 +324,7 @@
 	<td>偶像大尸 / 佐贺偶像是传奇</td>
 	<td>ゾンビランドサガ</td>
 	<td>Zombieland Saga	</td>
-	<td align="center" nowrap="nowrap"><a>补完中<sup>α</sup> / BD字幕</a></td>
+	<td align="center" nowrap="nowrap"><a>12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Zombie-Land-Saga">BD字幕</a></td>
 </tr>
 </tbody>
 </table>
@@ -736,7 +736,7 @@
 <td>黑狐</td>
 <td>BLACKFOX</td>
 <td>BLACKFOX</td>
-<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BLACKFOX%20Web">Web字幕</a></td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BLACKFOX%20Web">Web字幕</a><sup>β</sup></td>
 </tr>
 <tr>
 <td>普罗米亚</td>
@@ -749,6 +749,12 @@
 <td>薄暮</td>
 <td>Hakubo / Twilight</td>
 <td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hakubo%20Web">Web字幕</a><sup>α</sup></td>
+</tr>
+<tr>
+<td>剧场版 歌之王子殿下 真爱王国</td>
+<td>劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム</td>
+<td>Uta no☆Prince-sama♪ Maji Love Kingdom Movie</td>
+<td align="center" nowrap="nowrap">正片+安可 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Utapri-movie">BD字幕</a></td>
 </tr>
 </tbody>
 </table>
