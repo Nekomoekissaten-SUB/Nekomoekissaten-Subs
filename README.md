@@ -1,7 +1,7 @@
 # 目录
 - [番剧索引](#title)
 	- [TV动画](#tva)
-		-  2020年 : 10月🍂 - 7月☀️ - 4月🌸 - [1月](#2001)❄️
+		-  2020年 : 10月🍂 - 7月☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
 		-  2017年 : [10月](#1710)🍂 - [7月](#1707)☀️ - [4月](#1704)🌸 - 1月❄️
@@ -18,6 +18,8 @@
 
 ## <span id="tva"> TV动画</span>
 
+### <span id="2004"> 2020年4月</span>
+
 ### <span id="2001"> 2020年1月</span>
 
 <table>
@@ -30,6 +32,12 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+	<td>别对映像研出手！</td>
+	<td>映像研には手を出すな！</td>
+	<td>Eizouken ni wa Te wo Dasu na!</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Eizouken_ni_wa_Te_wo_Dasu_na!">TV字幕</a></td>
+</tr>
 <tr>
 	<td>请在伸展台上微笑 / 请在T台上微笑</td>
 	<td>ランウェイで笑って</td>
@@ -755,6 +763,12 @@
 <td>劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム</td>
 <td>Uta no☆Prince-sama♪ Maji Love Kingdom Movie</td>
 <td align="center" nowrap="nowrap">正片+安可 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Utapri-movie">BD字幕</a></td>
+</tr>
+<tr>
+<td>我们的七日战争</td>
+<td>ぼくらの7日間戦争</td>
+<td>Bokura no Nanokakan Sensou</td>
+<td align="center" nowrap="nowrap">字幕</td>
 </tr>
 </tbody>
 </table>
