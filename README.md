@@ -145,7 +145,7 @@
 	<td>请在伸展台上微笑 / 请在T台上微笑</td>
 	<td>ランウェイで笑って</td>
 	<td>Runway de Waratte</td>
-	<td align="center" nowrap="nowrap">连载中<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte">Web字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte">Web字幕</a></td>
 </tr>
 <tr>
 	<td>室内露营△</td>
@@ -193,7 +193,7 @@
 	<td>异兽魔都</td>
 	<td>ドロヘドロ</td>
 	<td>Dorohedoro</td>
-	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dorohedoro">Web字幕</a></td>
 </tr>
 <tr>
 	<td>索玛丽与森林之神</td>
