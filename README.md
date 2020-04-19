@@ -1,3 +1,5 @@
+![](没有奶茶.jpg)
+
 # 目录
 - [番剧索引](#title)
 	- [TV动画](#tva)
@@ -12,9 +14,9 @@
 
 # <span id="title"> 番剧索引</span>
 
-本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。
+注1：与其他字幕组合作的作品会在中文名后使用 <sup>*</sup> 标注。在此对合作字幕组表示感谢。
 
-注：单日文字幕的来源一般是各种官方日文字幕。
+注2：本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。单日文字幕的来源一般是各种官方日文字幕。
 
 ## <span id="tva"> TV动画</span>
 
@@ -40,28 +42,46 @@
 	<td>天晴烂漫！</td>
 	<td>天晴爛漫！</td>
 	<td>Appare-Ranman!</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">正片<sup>α</sup> / 延期</td>
+</tr>
+<tr>
+	<td>神之塔</td>
+	<td>神之塔 -Tower of God-</td>
+	<td>Kami no Tou / Tower of God</td>
+	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
 </tr>
 <tr>
 	<td>隐瞒之事</td>
 	<td>かくしごと</td>
 	<td>Kakushigoto</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+</tr>
+<tr>
+	<td>新樱花大战 the Animation</td>
+	<td>新サクラ大戦 the Animation</td>
+	<td>Shin Sakura Taisen the Animation</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / Web字幕</td>
 </tr>
 <tr>
 	<td>LISTENERS</td>
 	<td>LISTENERS</td>
 	<td>LISTENERS</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / Web字幕</td>
 </tr>
 <tr>
 	<td>昨日之歌</td>
 	<td>イエスタデイをうたって</td>
 	<td>Yesterday wo Utatte</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / Web字幕</td>
 </tr>
 <tr>
-	<td>小书痴的下克上 S2</td>
+	<td>转生成为了只有乙女游戏破灭Flag的邪恶大小姐…</td>
+	<td>乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…</td>
+	<td>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / Web字幕</td>
+</tr>
+<tr>
+	<td>小书痴的下克上 S2<sup>*</sup></td>
 	<td>本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部</td>
 	<td>Honzuki no Gekokujou S2</td>
 	<td align="center" nowrap="nowrap"></td>
@@ -73,10 +93,16 @@
 	<td align="center" nowrap="nowrap"></td>
 </tr>
 <tr>
+	<td>格莱普尼尔</td>
+	<td>グレイプニル</td>
+	<td>Gleipnir</td>
+	<td align="center" nowrap="nowrap"></td>
+</tr>
+<tr>
 	<td>白猫计划 ZERO CHRONICLE</td>
 	<td>白猫プロジェクト ZERO CHRONICLE</td>
 	<td>Shironeko Project: Zero Chronicle</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / Web字幕</td>
 </tr>
 <tr>
 	<td>A3! SEASON SPRING & SUMMER</td>
@@ -97,28 +123,28 @@
 	<td align="center" nowrap="nowrap"></td>
 </tr>
 <tr>
-	<td>富豪刑事 Balance:UNLIMITED</td>
-	<td>富豪刑事 Balance:UNLIMITED</td>
-	<td>Fugou Keiji: Balance:Unlimited</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td>座敷童子榻榻米酱</td>
+	<td>ざしきわらしのタタミちゃん</td>
+	<td>Zashiki Warashi no Tatami-chan</td>
+	<td align="center" nowrap="nowrap">12集短片 / Web字幕</td>
+</tr>
+<tr>
+	<td>ARGONAVIS from BanG Dream!</td>
+	<td>アルゴナビス from BanG Dream!</td>
+	<td>ARGONAVIS from BanG Dream!</td>
+	<td align="center" nowrap="nowrap">13集正片<sup>α</sup> / TV字幕</td>
 </tr>
 <tr>
 	<td>我的青春恋爱物语果然有问题 完</td>
 	<td>やはり俺の青春ラブコメはまちがっている。完</td>
 	<td>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">延期</td>
 </tr>
 <tr>
 	<td>非枪人生 第二季</td>
 	<td>ノー・ガンズ・ライフ 第2クール</td>
 	<td>No Guns Life S2</td>
-	<td align="center" nowrap="nowrap"></td>
-</tr>
-<tr>
-	<td>座敷童子榻榻米酱</td>
-	<td>ざしきわらしのタタミちゃん</td>
-	<td>Zashiki Warashi no Tatami-chan</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">延期</td>
 </tr>
 </tbody>
 </table>
@@ -148,40 +174,40 @@
 	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte">Web字幕</a></td>
 </tr>
 <tr>
-	<td>室内露营△</td>
+	<td>室内露营△<sup>*</sup></td>
 	<td>へやキャン△</td>
 	<td>Heya Camp△</td>
-	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">13集短片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Heya_Camp">Web字幕</a></td>
 </tr>
 <tr>
 	<td>恋爱小行星</td>
 	<td>恋する小惑星</td>
 	<td>Koisuru Asteroid</td>
-	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> /<a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv"> Web字幕</a></td>
 </tr>
 <tr>
 	<td>pet</td>
 	<td>pet</td>
 	<td>pet</td>
-	<td align="center" nowrap="nowrap">13集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">13集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/pet">Web字幕</a></td>
 </tr>
 <tr>
 	<td>猫娘乐园</td>
 	<td>ネコぱら</td>
 	<td>Nekopara</td>
-	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片 / BD字幕</td>
 </tr>
 <tr>
 	<td>虚构推理</td>
 	<td>虚構推理</td>
 	<td>Kyokou Suiri</td>
-	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kyokou_Suiri">Web字幕</a></td>
 </tr>
 <tr>
 	<td>22/7</td>
 	<td>22/7</td>
 	<td>Nanabun no Nijuuni</td>
-	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/227anime">Web字幕</a></td>
 </tr>
 <tr>
 	<td>奇幻☆怪盗</td>
@@ -199,7 +225,7 @@
 	<td>索玛丽与森林之神</td>
 	<td>ソマリと森の神様</td>
 	<td>Somali to Mori no Kamisama</td>
-	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / Web字幕</td>
 </tr>
 <tr>
 	<td>Rebirth</td>
@@ -238,7 +264,7 @@
 	<td>Null & Peta</td>
 	<td>ぬるぺた</td>
 	<td>Null & Peta</td>
-	<td align="center" nowrap="nowrap">12集正片+OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Null_%26_Peta/Web">Web字幕</a></td>
+	<td align="center" nowrap="nowrap">12集短片+OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Null_%26_Peta/Web">BD字幕</a></td>
 </tr>
 <tr>
 	<td>天华百剑 ～欢迎来到铭治馆～</td>
@@ -299,7 +325,7 @@
 	<td align="center" nowrap="nowrap">13集正片 / 字幕</a></td>
 </tr>
 <tr>
-	<td>小书痴的下克上</td>
+	<td>小书痴的下克上<sup>*</sup></td>
 	<td>本好きの下剋上～司書になるためには手段を選んでいられません～</td>
 	<td>Honzuki no Gekokujou</td>
 	<td align="center" nowrap="nowrap">14集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Honzuki_no_Gekokujou">Web字幕</a></td>
@@ -341,7 +367,7 @@
 	<td>女高中生的浪费青春 / 女高中生的无用日常 / 女高中生无所事事</td>
 	<td>女子高生の無駄づかい</td>
 	<td>Joshikousei no Mudazukai</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Joshikousei_no_Mudazukai_BD">BD字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Joshikousei_no_Mudazukai">BD字幕</a></td>
 </tr>
 <tr>
 <td rowspan="3">你遭难了吗？</td>
@@ -378,7 +404,7 @@
 	<td align="center" nowrap="nowrap">填坑中 / 字幕</a></td>
 </tr>
 <tr>
-	<td>街角魔族</td>
+	<td>街角魔族<sup>*</sup></td>
 	<td>まちカドまぞく</td>
 	<td>Machikado Mazoku</td>
 	<td align="center" nowrap="nowrap">12集正片 / BD字幕</a></td>
@@ -478,7 +504,7 @@
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Doukyonin_wa_Hiza%2C_Tokidoki%2C_Atama_no_Ue/Web">Web字幕</a></td>
 </tr>
 <tr>
-	<td>五等分的花嫁</td>
+	<td>五等分的花嫁<sup>*</sup></td>
 	<td>五等分の花嫁</td>
 	<td>Go-Toubun no Hanayome</td>
 	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Go-Toubun-no-Hanayome-BD">BD字幕</a></td>
@@ -547,7 +573,7 @@
 </thead>
 <tbody>
 <tr>
-	<td>终将成为你/終將成為妳</td>
+	<td>终将成为你/終將成為妳<sup>*</sup></td>
 	<td>やがて君になる</td>
 	<td>Yagate Kimi ni Naru</td>
 	<td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Yagate_Kimi_ni_Naru%20BD">BD字幕</a></td>
@@ -692,7 +718,7 @@
 <td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/High-School-DxD-Hero">Web字幕</a></td>
 </tr>
 <tr>
-<td>Comic Girls</td>
+<td>Comic Girls<sup>*</sup></td>
 <td>こみっくがーるず</td>
 <td>Comic Girls</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Comic-Girls-BD">BD字幕</a></td>
@@ -714,6 +740,12 @@
 <td>ヲタクに恋は難しい</td>
 <td>Wotaku ni Koi wa Muzukashii</td>
 <td align="center" nowrap="nowrap">坑？</td>
+</tr>
+<tr>
+	<td>赛马娘 Pretty Derby</td>
+	<td>ウマ娘 プリティーダービー</td>
+	<td>Uma Musume Pretty Derby</td>
+<td align="center" nowrap="nowrap">13集正片+3集OVA / BD字幕</td>
 </tr>
 </tbody>
 </table>
@@ -741,7 +773,7 @@
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni-BD">BD字幕</a></td>
 </tr>
 <tr>
-<td rowspan="3">轻旅轻营△ / 摇曳露营△</td>
+<td rowspan="3">轻旅轻营△ / 摇曳露营△<sup>*</sup></td>
 <td rowspan="3">ゆるキャン△</td>
 <td rowspan="3">Yuru Camp△</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Yuru-Camp">Web字幕</a></td>
@@ -789,10 +821,16 @@
 <td align="center" nowrap="nowrap">12集正片</td>
 </tr>
 <tr>
-<td>妖精森林的小不点</td>
+<td>妖精森林的小不点<sup>*</sup></td>
 <td>ハクメイとミコチ</td>
 <td>Hakumei to Mikochi</td>
 <td align="center" nowrap="nowrap">12集正片+OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Hakumei-to-Mikochi">Web字幕</a></td>
+</tr>
+<tr>
+	<td>魔卡少女樱 / 庫洛魔法使 / 百变小樱魔术卡-透明卡牌篇</td>
+	<td>カードキャプターさくら クリアカード編</td>
+	<td>Cardcaptor Sakura Clear Card Hen</td>
+<td align="center" nowrap="nowrap">22集正片<sup>α</sup> / BD字幕</td>
 </tr>
 </tbody>
 </table>
@@ -816,7 +854,7 @@
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/URAHARA-BD">BD字幕</a></td>
 </tr>
 <tr>
-<td>少女终末旅行</td>
+<td>少女终末旅行<sup>*</sup></td>
 <td>少女終末旅行</td>
 <td>Shoujo Shuumatsu Ryokou</td>
 <td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Girls-Last-Tour">Web字幕</a></td>
@@ -825,11 +863,11 @@
 <td rowspan="3">血界战线&BEYOND</td>
 <td rowspan="3">血界戦線 & BEYOND</td>
 <td rowspan="3">Kekkai Sensen & Beyond</td>
-<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Kekkai-Sensen-Beyond">Web字幕</a></td>
+<td align="center" nowrap="nowrap">12集正片+OVA / <a href="https://github.com/Nekomoekissaten-SUB/Kekkai-Sensen-Beyond">Web字幕</a></td>
 </tr>
 <tr></tr>
 <tr>
-<td align="center" nowrap="nowrap">OVA / <a href="https://github.com/Nekomoekissaten-SUB/Kekkai-Sensen-Beyond">字幕</a></td>
+<td align="center" nowrap="nowrap">12集正片+OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kekkai-Sensen-Beyond">BD字幕</a></td>
 </tr>
 <tr>
 <td>Code:Realize ～创世的姬君～</td>
@@ -917,7 +955,7 @@
 <td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Skirt_w-anime">Web字幕</a></td>
 </tr>
 <tr>
-<td>捏造陷阱 -NTR-</td>
+<td>捏造陷阱 -NTR-<sup>*</sup></td>
 <td>捏造トラップ -NTR-</td>
 <td>Netsuzou Trap NTR</td>
 <td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Netsuzou_Trap">Web字幕</a></td>
@@ -1141,10 +1179,16 @@
 <td align="center" nowrap="nowrap">正片+安可 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Utapri-movie">BD字幕</a></td>
 </tr>
 <tr>
-<td>我们的七日战争</td>
-<td>ぼくらの7日間戦争</td>
-<td>Bokura no Nanokakan Sensou</td>
-<td align="center" nowrap="nowrap">字幕</td>
+	<td>我们的七日战争</td>
+	<td>ぼくらの7日間戦争</td>
+	<td>Bokura no Nanokakan Sensou</td>
+	<td align="center" nowrap="nowrap">字幕</td>
+</tr>
+<tr>
+	<td>你好 世界</td>
+	<td>HELLO WORLD</td>
+	<td>HELLO WORLD</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/HELLO_WORLD">BD字幕</a><sup>α</sup></td>
 </tr>
 </tbody>
 </table>
@@ -1241,6 +1285,12 @@
 	<td>Bokutachi wa Benkyou ga Dekinai OVA</td>
 	<td align="center" nowrap="nowrap">OVA / 字幕</a></td>
 </tr>
+<tr>
+	<td>小书痴的下克上 外传OVA ep.14.5</td>
+	<td>本好きの下剋上 OVA</td>
+	<td>Honzuki no Gekokujou OVA</td>
+	<td align="center" nowrap="nowrap">1集正片 / Web字幕</td>
+</tr>
 </tbody>
 </table>
 
@@ -1264,3 +1314,4 @@
 </tr>
 </tbody>
 </table>
+
