@@ -488,20 +488,20 @@
 </thead>
 <tbody>
 <tr>
-<td rowspan="3">多罗罗</td>
-<td rowspan="3">どろろ</td>
-<td rowspan="3">Dororo</td>
-<td align="center" nowrap="nowrap">24集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dororo/Web">Web字幕</a></td>
+	<td rowspan="3">多罗罗</td>
+	<td rowspan="3">どろろ</td>
+	<td rowspan="3">Dororo</td>
+	<td align="center" nowrap="nowrap">24集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dororo/Web">Web字幕</a></td>
 </tr>
 <tr></tr>
 <tr>
-<td align="center" nowrap="nowrap">24集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dororo/BD">BD字幕</a></td>
+	<td align="center" nowrap="nowrap">24集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dororo/BD">BD字幕</a></td>
 </tr>
 <tr>
-<td>同居人时而在腿上、时而跑到脑袋上</td>
-<td>同居人はひざ、時々、頭のうえ。</td>
-<td>Doukyonin wa Hiza, Tokidoki, Atama no Ue. / Hizaue</td>
-<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Doukyonin_wa_Hiza%2C_Tokidoki%2C_Atama_no_Ue/Web">Web字幕</a></td>
+	<td>同居人时而在腿上、时而跑到脑袋上</td>
+	<td>同居人はひざ、時々、頭のうえ。</td>
+	<td>Doukyonin wa Hiza, Tokidoki, Atama no Ue. / Hizaue</td>
+	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hizaue">BD字幕</a></td>
 </tr>
 <tr>
 	<td>五等分的花嫁<sup>*</sup></td>
