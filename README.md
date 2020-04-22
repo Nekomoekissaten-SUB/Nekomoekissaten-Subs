@@ -594,7 +594,7 @@
 	<td>月影特工 / 月影少女</td>
 	<td>Release the Spyce</td>
 	<td>Release the Spyce</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Release-the-Spyce">Web字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Release-the-Spyce">BD字幕</a></td>
 </tr>
 </tr>
 <tr>
