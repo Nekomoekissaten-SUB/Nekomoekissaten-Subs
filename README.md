@@ -10,6 +10,8 @@
 		-  [旧番](#old)
 	- [剧场版](#mov)
 	- [OVA / ONA](#ova)
+		- [TV 动画衍生类 OVA / ONA](#ova-tv)
+		- [原创类 OVA / ONA](#ova-o)
 	- [其他衍生](#other)
 
 # <span id="title"> 番剧索引</span>
@@ -225,7 +227,7 @@
 	<td>索玛丽与森林之神</td>
 	<td>ソマリと森の神様</td>
 	<td>Somali to Mori no Kamisama</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Somali-anime">Web字幕</a></td>
 </tr>
 <tr>
 	<td>Rebirth</td>
@@ -1190,10 +1192,20 @@
 	<td>HELLO WORLD</td>
 	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/HELLO_WORLD">BD字幕</a><sup>α</sup></td>
 </tr>
+<tr>
+	<td></td>
+	<td>泣きたい私は猫をかぶる</td>
+	<td>Nakitai Watashi wa Neko o Kaburu / A Whisker Away</td>
+	<td align="center" nowrap="nowrap">Web字幕<sup>α</sup></td>
+</tr>
 </tbody>
 </table>
 
 ## <span id="ova"> OVA / ONA</span></span>
+
+### <span id="ova-tv">TV 动画衍生类 OVA / ONA</span></span>
+
+一般有 TV 动画作为前作或者漫画 / 小说 / 游戏附赠的 OVA 归入 `TV 动画衍生类 OVA / ONA`，其中也有一部分在 TV 动画目录下，此处收录的一般是本组未制作 TV 动画所衍生的 OVA / ONA。
 
 <table>
 <thead>
@@ -1224,12 +1236,6 @@
 <td align="center" nowrap="nowrap">2集OVA</td>
 </tr>
 <tr>
-<td>某僵尸少女的灾难</td>
-<td>あるゾンビ少女の災難</td>
-<td>Aru Zombie Shoujo no Sainan</td>
-<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Aru-Zombie-Shoujo-no-Sainan">ONA</a></td>
-</tr>
-<tr>
 <td rowspan="3">终物语 下</td>
 <td rowspan="3">終物語下（2期）</td>
 <td rowspan="3">Owarimonogatari S2</td>
@@ -1248,12 +1254,6 @@
 <tr></tr>
 <tr>
 <td align="center" nowrap="nowrap">副音轨 / <a href="https://github.com/Nekomoekissaten-SUB/Zoku-Owarimonogatari-Commentary">字幕</a></td>
-</tr>
-<tr>
-<td>Escha Chron</td>
-<td>エスカクロン</td>
-<td>Escha Chron</td>
-<td align="center" nowrap="nowrap">OVA<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Escha-Chron">字幕</a></td>
 </tr>
 <tr>
 <td>巧克力与香子兰 OVA</td>
@@ -1290,6 +1290,37 @@
 	<td>本好きの下剋上 OVA</td>
 	<td>Honzuki no Gekokujou OVA</td>
 	<td align="center" nowrap="nowrap">1集正片 / Web字幕</td>
+</tr>
+</tbody>
+</table>
+
+### <span id="ova-o">原创类 OVA / ONA</span></span>
+
+<table>
+<thead>
+<tr>
+	<th>中文名</th>
+	<th>日文名</th>
+	<th>英文名</th>
+	<th>字幕</th>
+</tr>
+<tr>
+	<td>某僵尸少女的灾难</td>
+	<td>あるゾンビ少女の災難</td>
+	<td>Aru Zombie Shoujo no Sainan</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Aru-Zombie-Shoujo-no-Sainan">ONA</a></td>
+</tr>
+<tr>
+	<td>Escha Chron</td>
+	<td>エスカクロン</td>
+	<td>Escha Chron</td>
+	<td align="center" nowrap="nowrap">OVA<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Escha-Chron">字幕</a></td>
+</tr>
+<tr>
+	<td>KITE LIBERATOR</td>
+	<td>カイト リベレイター</td>
+	<td>KITE LIBERATOR</td>
+	<td align="center" nowrap="nowrap">OVA / BD字幕</td>
 </tr>
 </tbody>
 </table>
