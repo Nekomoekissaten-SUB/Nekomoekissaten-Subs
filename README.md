@@ -44,7 +44,7 @@
 	<td>天晴烂漫！</td>
 	<td>天晴爛漫！</td>
 	<td>Appare-Ranman!</td>
-	<td align="center" nowrap="nowrap">正片<sup>α</sup> / 延期</td>
+	<td align="center" nowrap="nowrap">正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman">延期中</a></td>
 </tr>
 <tr>
 	<td>神之塔</td>
@@ -185,7 +185,7 @@
 	<td>恋爱小行星</td>
 	<td>恋する小惑星</td>
 	<td>Koisuru Asteroid</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> /<a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv"> Web字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> /<a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv">Web字幕</a></td>
 </tr>
 <tr>
 	<td>pet</td>
@@ -875,7 +875,7 @@
 <td>Code:Realize ～创世的姬君～</td>
 <td>Code:Realize ～創世の姫君～</td>
 <td>Code Realize - Sousei no Himegimi</td>
-<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Code-Realize-Sousei-no-Himegimi">Web字幕</a></td>
+<td align="center" nowrap="nowrap">12集正片+OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Code-Realize-Sousei-no-Himegimi">BD字幕</a></td>
 </tr>
 <tr>
 <td>宝石之国</td>
