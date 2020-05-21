@@ -363,7 +363,7 @@
 	<td>平凡职业成就世界最强</td>
 	<td>ありふれた職業で世界最強</td>
 	<td>Arifureta Shokugyou de Sekai Saikyou</td>
-	<td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Arifureta_Shokugyou_de_Sekai_Saikyou%20Web">Web字幕</a></td>
+	<td align="center" nowrap="nowrap">13集正片+序章+OVA<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Arifureta">BD字幕</a></td>
 </tr>
 <tr>
 	<td>女高中生的浪费青春 / 女高中生的无用日常 / 女高中生无所事事</td>
@@ -1320,6 +1320,12 @@
 	<td>KITE LIBERATOR</td>
 	<td>カイト リベレイター</td>
 	<td>KITE LIBERATOR</td>
+	<td align="center" nowrap="nowrap">OVA / BD字幕</td>
+</tr>
+<tr>
+	<td>A KITE</td>
+	<td>アカイト</td>
+	<td>A KITE</td>
 	<td align="center" nowrap="nowrap">OVA / BD字幕</td>
 </tr>
 </tbody>
