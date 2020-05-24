@@ -472,7 +472,7 @@
 	<td>水果篮子</td>
 	<td>フルーツバスケット</td>
 	<td>Fruits Basket (2019)</td>
-	<td align="center" nowrap="nowrap">25集正片 / 字幕</td>
+	<td align="center" nowrap="nowrap">25集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/fruba">BD字幕</a></td>
 </tr>
 </tbody>
 </table>
