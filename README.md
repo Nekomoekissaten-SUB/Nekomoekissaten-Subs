@@ -435,8 +435,8 @@
 <tr>
 	<td>川柳少女</td>
 	<td>川柳少女</td>
-	<td>Senryuu Shoujo</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Senryuu_Shoujo%20Web">Web字幕</a></td>
+	<td>Senryuu Shoujo / Senryu Girl</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Senryuu_Shoujo">BD字幕</a></td>
 </tr>
 <tr>
 	<td>CAROLE & TUESDAY</td>
@@ -1194,6 +1194,18 @@
 </tr>
 <tr>
 	<td></td>
+	<td>パンドラとアクビ</td>
+	<td>Pandora to Akubi	</td>
+	<td align="center" nowrap="nowrap">BD字幕</td>
+</tr>
+<tr>
+	<td>知晓天空之蓝的人啊</td>
+	<td>空の青さを知る人よ</td>
+	<td>Sora no Aosa wo Shiru Hito yo</td>
+	<td align="center" nowrap="nowrap">BD字幕<sup>α</sup></td>
+</tr>
+<tr>
+	<td>想哭的我戴上了猫的面具</td>
 	<td>泣きたい私は猫をかぶる</td>
 	<td>Nakitai Watashi wa Neko o Kaburu / A Whisker Away</td>
 	<td align="center" nowrap="nowrap">Web字幕<sup>α</sup></td>
