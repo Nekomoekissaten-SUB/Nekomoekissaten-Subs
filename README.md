@@ -3,7 +3,7 @@
 # 目录
 - [番剧索引](#title)
 	- [TV动画](#tva)
-		-  2020年 : 10月🍂 - 7月☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
+		-  2020年 : 10月🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
 		-  2017年 : [10月](#1710)🍂 - [7月](#1707)☀️ - [4月](#1704)🌸 - [1月](#1701)❄️
@@ -21,6 +21,8 @@
 注2：本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。单日文字幕的来源一般是各种官方日文字幕。
 
 ## <span id="tva"> TV动画</span>
+
+### <span id="2007"> 2020年7月</span>
 
 ### <span id="2004"> 2020年4月</span>
 
@@ -1181,10 +1183,10 @@
 <td align="center" nowrap="nowrap">正片+安可 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Utapri-movie">BD字幕</a></td>
 </tr>
 <tr>
-	<td>我们的七日战争</td>
+	<td>我们的7日战争</td>
 	<td>ぼくらの7日間戦争</td>
 	<td>Bokura no Nanokakan Sensou</td>
-	<td align="center" nowrap="nowrap">字幕</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/7dayswar">BD字幕</a></td>
 </tr>
 <tr>
 	<td>你好 世界</td>
@@ -1193,10 +1195,10 @@
 	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/HELLO_WORLD">BD字幕</a><sup>α</sup></td>
 </tr>
 <tr>
-	<td></td>
+	<td>潘多拉和小阿欠</td>
 	<td>パンドラとアクビ</td>
-	<td>Pandora to Akubi	</td>
-	<td align="center" nowrap="nowrap">BD字幕</td>
+	<td>Pandora to Akubi</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/dora-bi">BD字幕</td>
 </tr>
 <tr>
 	<td>知晓天空之蓝的人啊</td>
