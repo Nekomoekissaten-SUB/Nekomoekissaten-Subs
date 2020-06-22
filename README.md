@@ -24,6 +24,85 @@
 
 ### <span id="2007"> 2020年7月</span>
 
+<table>
+<thead>
+<tr>
+<th>中文名</th>
+<th>日文名</th>
+<th>英文名</th>
+<th>字幕</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td>宝石幻想 光芒重现</td>
+	<td>Lapis Re：LiGHTs</td>
+	<td>Lapis Re：LiGHTs</td>
+	<td align="center" nowrap="nowrap">正片<sup>α</sup> / Web字幕</td>
+</tr>
+<tr>
+	<td>魔王学院的不适任者</td>
+	<td>魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～</td>
+	<td>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e / maohgakuin</td>
+	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+</tr>
+<tr>
+	<td>高校之神</td>
+	<td>THE GOD OF HIGH SCHOOL</td>
+	<td>THE GOD OF HIGH SCHOOL</td>
+	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+</tr>
+<tr>
+	<td></td>
+	<td>うまよん</td>
+	<td></td>
+	<td align="center" nowrap="nowrap">短片<sup>α</sup> / Web字幕</td>
+</tr>
+<tr>
+	<td></td>
+	<td>デカダンス</td>
+	<td>DECA-DENCE</td>
+	<td align="center" nowrap="nowrap">正片<sup>α</sup> / Web字幕</td>
+</tr>
+<tr>
+	<td>日本沉没 2020</td>
+	<td>日本沈没 2020</td>
+	<td>Nihon Chinbotsu 2020 / Japan Sinks 2020</td>
+	<td align="center" nowrap="nowrap">10集正片<sup>β</sup> / Web字幕</td>
+</tr>
+<tr>
+	<td>非枪人生 第二季</td>
+	<td>ノー・ガンズ・ライフ 第2クール</td>
+	<td>No Guns Life S2</td>
+	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+</tr>
+<tr>
+	<td>我的青春恋爱物语果然有问题 完</td>
+	<td>やはり俺の青春ラブコメはまちがっている。完</td>
+	<td>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</td>
+	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+</tr>
+<tr>
+	<td>租借女友</td>
+	<td>彼女、お借りします</td>
+	<td>Kanojo, Okarishimasu</td>
+	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+</tr>
+<tr>
+	<td>彼得·格里尔的贤者时间</td>
+	<td>ピーターグリルと賢者の時間</td>
+	<td>Peter Grill to Kenja no Jikan</td>
+	<td align="center" nowrap="nowrap">正片 / 字幕</td>
+</tr>
+<tr>
+	<td>天晴烂漫！</td>
+	<td>天晴爛漫！</td>
+	<td>Appare-Ranman!</td>
+	<td align="center" nowrap="nowrap">正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman">字幕</a></td>
+</tr>
+</tbody>
+</table>
+
 ### <span id="2004"> 2020年4月</span>
 
 <table>
@@ -43,16 +122,10 @@
 	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / Web字幕</td>
 </tr>
 <tr>
-	<td>天晴烂漫！</td>
-	<td>天晴爛漫！</td>
-	<td>Appare-Ranman!</td>
-	<td align="center" nowrap="nowrap">正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman">延期中</a></td>
-</tr>
-<tr>
 	<td>神之塔</td>
 	<td>神之塔 -Tower of God-</td>
 	<td>Kami no Tou / Tower of God</td>
-	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">13集正片 / Web字幕</td>
 </tr>
 <tr>
 	<td>隐瞒之事</td>
@@ -100,7 +173,7 @@
 	<td>格莱普尼尔</td>
 	<td>グレイプニル</td>
 	<td>Gleipnir</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">13集正片<sup>β</sup> / Web字幕</td>
 </tr>
 <tr>
 	<td>白猫计划 ZERO CHRONICLE</td>
@@ -137,18 +210,6 @@
 	<td>アルゴナビス from BanG Dream!</td>
 	<td>ARGONAVIS from BanG Dream!</td>
 	<td align="center" nowrap="nowrap">13集正片<sup>α</sup> / TV字幕</td>
-</tr>
-<tr>
-	<td>我的青春恋爱物语果然有问题 完</td>
-	<td>やはり俺の青春ラブコメはまちがっている。完</td>
-	<td>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</td>
-	<td align="center" nowrap="nowrap">延期</td>
-</tr>
-<tr>
-	<td>非枪人生 第二季</td>
-	<td>ノー・ガンズ・ライフ 第2クール</td>
-	<td>No Guns Life S2</td>
-	<td align="center" nowrap="nowrap">延期</td>
 </tr>
 </tbody>
 </table>
@@ -1198,19 +1259,19 @@
 	<td>潘多拉和小阿欠</td>
 	<td>パンドラとアクビ</td>
 	<td>Pandora to Akubi</td>
-	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/dora-bi">BD字幕</td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/dora-bi">BD字幕</a></td>
 </tr>
 <tr>
 	<td>知晓天空之蓝的人啊</td>
 	<td>空の青さを知る人よ</td>
 	<td>Sora no Aosa wo Shiru Hito yo</td>
-	<td align="center" nowrap="nowrap">BD字幕<sup>α</sup></td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/soraao">BD字幕</a><sup>α</sup></td>
 </tr>
 <tr>
 	<td>想哭的我戴上了猫的面具</td>
 	<td>泣きたい私は猫をかぶる</td>
 	<td>Nakitai Watashi wa Neko o Kaburu / A Whisker Away</td>
-	<td align="center" nowrap="nowrap">Web字幕<sup>α</sup></td>
+	<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/nakineko">Web字幕</a><sup>α</sup></td>
 </tr>
 </tbody>
 </table>
