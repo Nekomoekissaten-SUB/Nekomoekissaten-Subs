@@ -50,7 +50,7 @@
 	<td>高校之神</td>
 	<td>THE GOD OF HIGH SCHOOL</td>
 	<td>THE GOD OF HIGH SCHOOL</td>
-	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">13集正片 / Web字幕</td>
 </tr>
 <tr>
 	<td></td>
@@ -80,6 +80,12 @@
 	<td>我的青春恋爱物语果然有问题 完</td>
 	<td>やはり俺の青春ラブコメはまちがっている。完</td>
 	<td>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</td>
+	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
+</tr>
+<tr>
+	<td>宇崎酱想要玩耍</td>
+	<td>宇崎ちゃんは遊びたい！</td>
+	<td>Uzaki-chan wa Asobitai!</td>
 	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
 </tr>
 <tr>
@@ -119,13 +125,13 @@
 	<td>全新动物 / 动物新世代</td>
 	<td>BNA</td>
 	<td>Brand New Animal</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BNA">Web字幕</a></td>
 </tr>
 <tr>
 	<td>神之塔</td>
 	<td>神之塔 -Tower of God-</td>
 	<td>Kami no Tou / Tower of God</td>
-	<td align="center" nowrap="nowrap">13集正片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tower_of_God">Web字幕</a></td>
 </tr>
 <tr>
 	<td>隐瞒之事</td>
@@ -137,7 +143,7 @@
 	<td>新樱花大战 the Animation</td>
 	<td>新サクラ大戦 the Animation</td>
 	<td>Shin Sakura Taisen the Animation</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shin_Sakura_Taisen">Web字幕</a></td>
 </tr>
 <tr>
 	<td>LISTENERS</td>
@@ -161,13 +167,13 @@
 	<td>小书痴的下克上 S2<sup>*</sup></td>
 	<td>本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部</td>
 	<td>Honzuki no Gekokujou S2</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">12集正片</td>
 </tr>
 <tr>
 	<td>继 怪怪守护神</td>
 	<td>継つぐもも</td>
 	<td>Tsugu Tsugumomo</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsugumomo_S2">Web字幕</a></td>
 </tr>
 <tr>
 	<td>格莱普尼尔</td>
@@ -185,19 +191,19 @@
 	<td>A3! SEASON SPRING & SUMMER</td>
 	<td>A3! SEASON SPRING & SUMMER</td>
 	<td>A3! SEASON SPRING & SUMMER</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">12集正片</td>
 </tr>
 <tr>
 	<td>公主连结 Re:Dive</td>
 	<td>プリンセスコネクト！Re:Dive</td>
 	<td>Princess Connect! Re:Dive</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">13集正片</td>
 </tr>
 <tr>
 	<td>水果篮子 第二季</td>
 	<td>フルーツバスケット 2nd season</td>
 	<td>Fruits Basket 2nd season</td>
-	<td align="center" nowrap="nowrap"></td>
+	<td align="center" nowrap="nowrap">25集正片</td>
 </tr>
 <tr>
 	<td>座敷童子榻榻米酱</td>
@@ -620,7 +626,7 @@
 	<td>约定的梦幻岛</td>
 	<td>約束のネバーランド</td>
 	<td>Yakusoku no Neverland</td>
-	<td align="center" nowrap="nowrap">字幕</td>
+	<td align="center" nowrap="nowrap">BD字幕</td>
 </tr>
 </tbody>
 </table>
