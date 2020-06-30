@@ -41,6 +41,12 @@
 	<td align="center" nowrap="nowrap">正片<sup>α</sup> / Web字幕</td>
 </tr>
 <tr>
+	<td>DECA-DENCE</td>
+	<td>デカダンス</td>
+	<td>DECA-DENCE</td>
+	<td align="center" nowrap="nowrap">正片<sup>α</sup> / Web字幕</td>
+</tr>
+<tr>
 	<td>魔王学院的不适任者</td>
 	<td>魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～</td>
 	<td>Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e / maohgakuin</td>
@@ -57,12 +63,6 @@
 	<td>うまよん</td>
 	<td></td>
 	<td align="center" nowrap="nowrap">短片<sup>α</sup> / Web字幕</td>
-</tr>
-<tr>
-	<td></td>
-	<td>デカダンス</td>
-	<td>DECA-DENCE</td>
-	<td align="center" nowrap="nowrap">正片<sup>α</sup> / Web字幕</td>
 </tr>
 <tr>
 	<td>日本沉没 2020</td>
@@ -185,7 +185,7 @@
 	<td>白猫计划 ZERO CHRONICLE</td>
 	<td>白猫プロジェクト ZERO CHRONICLE</td>
 	<td>Shironeko Project: Zero Chronicle</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/shironekoproject">Web字幕</a></td>
 </tr>
 <tr>
 	<td>A3! SEASON SPRING & SUMMER</td>
@@ -1238,15 +1238,15 @@
 <td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/PROMARE">BD字幕</a></td>
 </tr>
 <tr>
-<td>薄暮</td>
-<td>薄暮</td>
-<td>Hakubo / Twilight</td>
-<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hakubo%20Web">Web字幕</a><sup>α</sup></td>
+	<td>薄暮</td>
+	<td>薄暮</td>
+	<td>Hakubo / Twilight</td>
+<td align="center" nowrap="nowrap"><a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hakubo">BD字幕</a><sup>α</sup></td>
 </tr>
 <tr>
-<td>剧场版 歌之王子殿下 真爱王国</td>
-<td>劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム</td>
-<td>Uta no☆Prince-sama♪ Maji Love Kingdom Movie</td>
+	<td>剧场版 歌之王子殿下 真爱王国</td>
+	<td>劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム</td>
+	<td>Uta no☆Prince-sama♪ Maji Love Kingdom Movie</td>
 <td align="center" nowrap="nowrap">正片+安可 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Utapri-movie">BD字幕</a></td>
 </tr>
 <tr>
