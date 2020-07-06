@@ -104,7 +104,7 @@
 	<td>天晴烂漫！</td>
 	<td>天晴爛漫！</td>
 	<td>Appare-Ranman!</td>
-	<td align="center" nowrap="nowrap">正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman">字幕</a></td>
+	<td align="center" nowrap="nowrap">正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman">Web字幕</a></td>
 </tr>
 </tbody>
 </table>
@@ -155,19 +155,19 @@
 	<td>昨日之歌</td>
 	<td>イエスタデイをうたって</td>
 	<td>Yesterday wo Utatte</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集正片+6集短片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/singyesterday">Web字幕</a></td>
 </tr>
 <tr>
 	<td>转生成为了只有乙女游戏破灭Flag的邪恶大小姐…</td>
 	<td>乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…</td>
-	<td>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura</td>
-	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / Web字幕</td>
+	<td>Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hamefura">Web字幕</a></td>
 </tr>
 <tr>
 	<td>小书痴的下克上 S2<sup>*</sup></td>
 	<td>本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部</td>
 	<td>Honzuki no Gekokujou S2</td>
-	<td align="center" nowrap="nowrap">12集正片</td>
+	<td align="center" nowrap="nowrap">12集正片 / Web字幕</td>
 </tr>
 <tr>
 	<td>继 怪怪守护神</td>
@@ -179,7 +179,7 @@
 	<td>格莱普尼尔</td>
 	<td>グレイプニル</td>
 	<td>Gleipnir</td>
-	<td align="center" nowrap="nowrap">13集正片<sup>β</sup> / Web字幕</td>
+	<td align="center" nowrap="nowrap">13集正片<sup>β</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gleipnir">Web字幕</a></td>
 </tr>
 <tr>
 	<td>白猫计划 ZERO CHRONICLE</td>
@@ -191,31 +191,31 @@
 	<td>A3! SEASON SPRING & SUMMER</td>
 	<td>A3! SEASON SPRING & SUMMER</td>
 	<td>A3! SEASON SPRING & SUMMER</td>
-	<td align="center" nowrap="nowrap">12集正片</td>
+	<td align="center" nowrap="nowrap">12集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/A3">Web字幕</a></td>
 </tr>
 <tr>
 	<td>公主连结 Re:Dive</td>
 	<td>プリンセスコネクト！Re:Dive</td>
 	<td>Princess Connect! Re:Dive</td>
-	<td align="center" nowrap="nowrap">13集正片</td>
+	<td align="center" nowrap="nowrap">13集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/PCR">Web字幕</a></td>
 </tr>
 <tr>
 	<td>水果篮子 第二季</td>
 	<td>フルーツバスケット 2nd season</td>
 	<td>Fruits Basket 2nd season</td>
-	<td align="center" nowrap="nowrap">25集正片</td>
+	<td align="center" nowrap="nowrap">25集正片 / Web字幕</td>
 </tr>
 <tr>
 	<td>座敷童子榻榻米酱</td>
 	<td>ざしきわらしのタタミちゃん</td>
 	<td>Zashiki Warashi no Tatami-chan</td>
-	<td align="center" nowrap="nowrap">12集短片 / Web字幕</td>
+	<td align="center" nowrap="nowrap">12集短片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/tatamichan">Web字幕</a></td>
 </tr>
 <tr>
 	<td>ARGONAVIS from BanG Dream!</td>
 	<td>アルゴナビス from BanG Dream!</td>
 	<td>ARGONAVIS from BanG Dream!</td>
-	<td align="center" nowrap="nowrap">13集正片<sup>α</sup> / TV字幕</td>
+	<td align="center" nowrap="nowrap">13集正片<sup>α</sup> / Web字幕</td>
 </tr>
 </tbody>
 </table>
@@ -272,7 +272,7 @@
 	<td>虚构推理</td>
 	<td>虚構推理</td>
 	<td>Kyokou Suiri</td>
-	<td align="center" nowrap="nowrap">12集正片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kyokou_Suiri">Web字幕</a></td>
+	<td align="center" nowrap="nowrap">12集正片+迷你动画 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kyokou_Suiri">BD字幕</a></td>
 </tr>
 <tr>
 	<td>22/7</td>
@@ -1401,13 +1401,13 @@
 	<td>KITE LIBERATOR</td>
 	<td>カイト リベレイター</td>
 	<td>KITE LIBERATOR</td>
-	<td align="center" nowrap="nowrap">OVA / BD字幕</td>
+	<td align="center" nowrap="nowrap">OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/KITE">BD字幕</a></td>
 </tr>
 <tr>
 	<td>A KITE</td>
-	<td>アカイト</td>
+	<td>カイト</td>
 	<td>A KITE</td>
-	<td align="center" nowrap="nowrap">OVA / BD字幕</td>
+	<td align="center" nowrap="nowrap">OVA / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/KITE">BD字幕</a></td>
 </tr>
 </tbody>
 </table>
