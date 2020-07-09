@@ -35,7 +35,7 @@
 </thead>
 <tbody>
 <tr>
-	<td>宝石幻想 光芒重现</td>
+	<td>宝石幻想 光芒重现 ~这个世界的偶像会魔法~</td>
 	<td>Lapis Re：LiGHTs</td>
 	<td>Lapis Re：LiGHTs</td>
 	<td align="center" nowrap="nowrap">正片<sup>α</sup> / Web字幕</td>
@@ -53,15 +53,15 @@
 	<td align="center" nowrap="nowrap">正片 / Web字幕</td>
 </tr>
 <tr>
-	<td>高校之神</td>
+	<td>THE GOD OF HIGH SCHOOL</td>
 	<td>THE GOD OF HIGH SCHOOL</td>
 	<td>THE GOD OF HIGH SCHOOL</td>
 	<td align="center" nowrap="nowrap">13集正片 / Web字幕</td>
 </tr>
 <tr>
-	<td></td>
+	<td>赛马娘四格</td>
 	<td>うまよん</td>
-	<td></td>
+	<td>Umayon</td>
 	<td align="center" nowrap="nowrap">短片<sup>α</sup> / Web字幕</td>
 </tr>
 <tr>
@@ -212,10 +212,10 @@
 	<td align="center" nowrap="nowrap">12集短片 / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/tatamichan">Web字幕</a></td>
 </tr>
 <tr>
-	<td>ARGONAVIS from BanG Dream!</td>
+	<td>男人邦 / 邦男人</td>
 	<td>アルゴナビス from BanG Dream!</td>
 	<td>ARGONAVIS from BanG Dream!</td>
-	<td align="center" nowrap="nowrap">13集正片<sup>α</sup> / Web字幕</td>
+	<td align="center" nowrap="nowrap">13集正片<sup>α</sup> / <a href="https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/argo-bdp">Web字幕</a></td>
 </tr>
 </tbody>
 </table>
