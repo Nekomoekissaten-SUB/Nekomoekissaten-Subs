@@ -24,13 +24,13 @@
 
 ### <span id="2007"> 2020年7月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 宝石幻想 光芒重现 ～这个世界的偶像会魔法～ | Lapis Re：LiGHTs | Lapis Re：LiGHTs | 12集<sup>α</sup> / Web
 DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [Web][200702]
 魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / Web
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
-赛马娘四格 | うまよん | Umayon | 13集 <sup>α</sup> / Web
+赛马娘四格 | うまよん | Umayon | 13集<sup>α</sup> / Web
 日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
 非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / Web
 我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / Web
@@ -47,7 +47,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 ### <span id="2004"> 2020年4月</span>
 
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=400/>
 --- | --- | --------- | :-:
 全新动物 / 动物新世代 | BNA | Brand New Animal | 12集<sup>β</sup> / [Web][200401]
 神之塔 | 神之塔 -Tower of God- | Kami no Tou | 13集 / [Web][200402]
@@ -81,7 +81,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 
 ### <span id="2001"> 2020年1月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 别对映像研出手！ | 映像研には手を出すな！ | Eizouken ni wa Te wo Dasu na! | 12集<sup>β</sup> / [Web][200101]
 请在伸展台上微笑 / 请在T台上微笑 | ランウェイで笑って | Runway de Waratte | 12集<sup>β</sup> / [Web][200102]
@@ -109,7 +109,7 @@ Rebirth | Rebirth | Rebirth | 50+集 / Web
 
 ### <span id="1910"> 2019年10月</span></span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=400/>
 --- | --- | --------- | :-:
 BEASTARS | BEASTARS | BEASTARS | 12集<sup>β</sup> / [Web][191001]
 放学后骰子俱乐部 | 放課後さいころ倶楽部 | Houkago Saikoro Club | 12集 / [Web][191002]
@@ -141,7 +141,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 
 ### <span id="1907"> 2019年7月</span></span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=400/>
 --- | --- | --------- | :-:
 平凡职业成就世界最强 | ありふれた職業で世界最強 | Arifureta Shokugyou de Sekai Saikyou | 13+SP<sup>β</sup> / [BD][190701]
 女高中生的浪费青春 / 女高中生的无用日常 / 女高中生无所事事 | 女子高生の無駄づかい | Joshikousei no Mudazukai | 12集<sup>β</sup> / [BD][190702]
@@ -161,7 +161,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / BD
 
 ### <span id="1904"> 2019年4月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 川柳少女 | 川柳少女 | Senryuu Shoujo / Senryu Girl | 12集<sup>α</sup> / [BD][190401]
 CAROLE & TUESDAY | キャロル&チューズデイ | CAROLE & TUESDAY | 24集<sup>α</sup> / [Web][190402]
@@ -181,7 +181,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 
 ### <span id="1901"> 2019年1月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 多罗罗 | どろろ | Dororo | 24集 / [BD][190101]
 同居人时而在腿上、时而跑到脑袋上 | 同居人はひざ、時々、頭のうえ。 | Doukyonin wa Hiza, Tokidoki, Atama no Ue. / Hizaue | 12集<sup>β</sup> / [BD][190102]
@@ -204,7 +204,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 
 ### <span id="1810"> 2018年10月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 终将成为你/終將成為妳<sup>*</sup> | やがて君になる | Yagate Kimi ni Naru | 13集 / [BD][181001]
 青春笨蛋少年不做兔女郎学姐的梦 | 青春ブタ野郎はバニーガール先輩の夢を見ない | Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai | 13集 / [BD][181002]
@@ -225,7 +225,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 
 ### <span id="1807"> 2018年7月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 One Room 第2季 | One Room セカンドシーズン | One Room S2 | 13集 / [Web][180701]
 Angolmois～元寇合战记～ | アンゴルモア 元寇合戦記 | Angolmois - Genkou Kassenki | 12集<sup>β</sup> / [BD][180702]
@@ -240,7 +240,7 @@ Angolmois～元寇合战记～ | アンゴルモア 元寇合戦記 | Angolmois 
 
 ### <span id="1804"> 2018年4月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
 甜心战士 Universe | Cutie Honey Universe | Cutie Honey Universe | 12集 / [Web][180401]
 魔法少女网站 | 魔法少女サイト | Mahou Shoujo Site | 12集 / [Web][180402TV]<br>12集 / [BD][180402BD]
@@ -262,7 +262,7 @@ Comic Girls<sup>*</sup> | こみっくがーるず | Comic Girls | 12集 / [BD][
 
 ### <span id="1801">2018年1月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 恋如雨止 / 爱在雨过天晴时 | 恋は雨上がりのように | Koi wa Ameagari no You ni | 12集 / [Web][180101TV]<br>12集 / [BD][180101BD]
 轻旅轻营△<sup>*</sup> | ゆるキャン△ | Yuru Camp△ | 12集 / [Web][180102TV]<br>Vol.1 / [BD][180102BD]
@@ -287,7 +287,7 @@ Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12�
 
 ### <span id="1710"> 2017年10月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 URAHARA | URAHARA | URAHARA | 12集 / [BD][171001]
 少女终末旅行<sup>*</sup> | 少女終末旅行 | Shoujo Shuumatsu Ryokou | 12集 / [Web][171002]
@@ -309,7 +309,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 
 ### <span id="1707"> 2017年7月</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 带着智能手机闯荡异世界 | 異世界はスマートフォンとともに。 | Isekai wa Smartphone to Tomo ni. | 12集<sup>β</sup> / [Web][170701]
 徒然喜欢你 | 徒然チルドレン | Tsurezure Children | 12集 / [BD][170702]
@@ -330,7 +330,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 
 ### <span id="1704"> 2017年4月</span></span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 期待在地下城邂逅有错吗 外传 剑姬神圣谭 | ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria | 12集
 快盗天使双胞胎Break | ツインエンジェルBREAK | Twin Angel Break | 12集 / [BD][170402]
@@ -342,14 +342,14 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 
 ### <span id="1701"> 2017年1月</span></span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
 --- | --- | --------- | :-:
 偶像事变 | アイドル事変 | Idol Jihen | 12集
 六心公主 | シックスハートプリンセス | 6 Heart Princess / 6HP | 坑？
 
 ### <span id="old"> 旧番</span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
 --- | --- | --------- | :-:
 小魔女Doremi | おジャ魔女どれみ | Ojamajo Doremi | 51集 / BD
 
@@ -429,7 +429,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 
 ### <span id="ova-o">原创类 OVA / ONA</span></span>
 
-中文名 | 日文名 | 英文名 | <img width=200/><br>字幕<br><img width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
 某僵尸少女的灾难 | あるゾンビ少女の災難 | Aru Zombie Shoujo no Sainan | [ONA][ova001]
 Escha Chron | エスカクロン | Escha Chron | [OVA][ova002]<sup>α</sup>
@@ -451,8 +451,8 @@ A KITE | カイト | KITE | OVA / [BD][ova006]
 
 ## <span id="other">其他衍生</span></span>
 
-中文名 | 日文名 | 英文名 | 字幕
---- | --- | --- | :-:
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
+--- | --- | --------- | :-:
 舞台剧 终将成为你/舞台劇 終將成為妳 | 舞台「やがて君になる」 | Butai Yagate Kimi Ni Naru | [BD][other01]
 
 [other01]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Butai_Yagate_Kimi_Ni_Naru
