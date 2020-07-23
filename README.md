@@ -81,7 +81,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 
 ### <span id="2001"> 2020年1月</span>
 
-中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=240/>
 --- | --- | --------- | :-:
 别对映像研出手！ | 映像研には手を出すな！ | Eizouken ni wa Te wo Dasu na! | 12集<sup>β</sup> / [Web][200101]
 请在伸展台上微笑 / 请在T台上微笑 | ランウェイで笑って | Runway de Waratte | 12集<sup>β</sup> / [Web][200102]
@@ -161,7 +161,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / BD
 
 ### <span id="1904"> 2019年4月</span>
 
-中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
 川柳少女 | 川柳少女 | Senryuu Shoujo / Senryu Girl | 12集<sup>α</sup> / [BD][190401]
 CAROLE & TUESDAY | キャロル&チューズデイ | CAROLE & TUESDAY | 24集<sup>α</sup> / [Web][190402]
@@ -225,7 +225,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 
 ### <span id="1807"> 2018年7月</span>
 
-中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
 One Room 第2季 | One Room セカンドシーズン | One Room S2 | 13集 / [Web][180701]
 Angolmois～元寇合战记～ | アンゴルモア 元寇合戦記 | Angolmois - Genkou Kassenki | 12集<sup>β</sup> / [BD][180702]
@@ -287,7 +287,7 @@ Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12�
 
 ### <span id="1710"> 2017年10月</span>
 
-中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=250/>
 --- | --- | --------- | :-:
 URAHARA | URAHARA | URAHARA | 12集 / [BD][171001]
 少女终末旅行<sup>*</sup> | 少女終末旅行 | Shoujo Shuumatsu Ryokou | 12集 / [Web][171002]
@@ -309,7 +309,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 
 ### <span id="1707"> 2017年7月</span>
 
-中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
 带着智能手机闯荡异世界 | 異世界はスマートフォンとともに。 | Isekai wa Smartphone to Tomo ni. | 12集<sup>β</sup> / [Web][170701]
 徒然喜欢你 | 徒然チルドレン | Tsurezure Children | 12集 / [BD][170702]
@@ -342,7 +342,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 
 ### <span id="1701"> 2017年1月</span></span>
 
-中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=50/>
 --- | --- | --------- | :-:
 偶像事变 | アイドル事変 | Idol Jihen | 12集
 六心公主 | シックスハートプリンセス | 6 Heart Princess / 6HP | 坑？
@@ -429,7 +429,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 
 ### <span id="ova-o">原创类 OVA / ONA</span></span>
 
-中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
 --- | --- | --------- | :-:
 某僵尸少女的灾难 | あるゾンビ少女の災難 | Aru Zombie Shoujo no Sainan | [ONA][ova001]
 Escha Chron | エスカクロン | Escha Chron | [OVA][ova002]<sup>α</sup>
