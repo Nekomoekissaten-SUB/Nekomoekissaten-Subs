@@ -73,11 +73,11 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 [200407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hamefura
 [200409]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsugumomo_S2
 [200410]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gleipnir
-[200411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shironekoproject
+[200411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/shironekoproject
 [200412]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/A3
 [200413]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/PCR
-[200415]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tatamichan
-[200416]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Argo-bdp
+[200415]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/tatamichan
+[200416]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/argo-bdp
 
 ### <span id="2001"> 2020年1月</span>
 
@@ -177,7 +177,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 [190404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone
 [190405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Araiya-san-Ore-to-Aitsu-ga-Onnayu-de
 [190406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-TQYSY-Subs/tree/master/Miru-Tights
-[190407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
+[190407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/fruba
 
 ### <span id="1901"> 2019年1月</span>
 
@@ -408,9 +408,9 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 [mov020]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Utapri-movie
 [mov021]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/7dayswar
 [mov022]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/HELLO_WORLD
-[mov023]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dora-bi
-[mov024]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Soraao
-[mov025]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Nakineko
+[mov023]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/dora-bi
+[mov024]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/soraao
+[mov025]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/nakineko
 
 ## <span id="ova"> OVA / ONA</span></span>
 
