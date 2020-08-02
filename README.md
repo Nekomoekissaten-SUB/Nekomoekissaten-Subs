@@ -382,7 +382,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 潘多拉和小阿欠 | パンドラとアクビ | Pandora to Akubi | [BD][mov023]
 知晓天空之蓝的人啊 | 空の青さを知る人よ | Sora no Aosa wo Shiru Hito yo | [BD][mov024]<sup>α</sup>
 想哭的我戴上了猫的面具 | 泣きたい私は猫をかぶる | Nakitai Watashi wa Neko o Kaburu / A Whisker Away | [Web][mov025]<sup>α</sup>
-哥布林杀手 GOBLIN’S CROWN | ゴブリンスレイヤー -GOBLIN’S CROWN- | Goblin Slayer: Goblin’s Crown | BD
+哥布林杀手 GOBLIN’S CROWN | ゴブリンスレイヤー -GOBLIN’S CROWN- | Goblin Slayer: Goblin’s Crown | [BD][mov026]<sup>α</sup>
 鸣鸟不飞 The clouds gather | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The Clouds Gather | BD
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | BD
 
@@ -411,6 +411,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 [mov023]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/dora-bi
 [mov024]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/soraao
 [mov025]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/nakineko
+[mov026]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Goblin-Slayer
 
 ## <span id="ova"> OVA / ONA</span></span>
 
