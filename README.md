@@ -53,7 +53,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 神之塔 | 神之塔 -Tower of God- | Kami no Tou | 13集 / [Web][200402]
 隐瞒之事 | かくしごと | Kakushigoto | 12集 / BD
 新樱花大战 the Animation | 新サクラ大戦 the Animation | Shin Sakura Taisen the Animation | 12集<sup>α</sup> / [Web][200404]
-LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / Web
+LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / BD
 昨日之歌 | イエスタデイをうたって | Yesterday wo Utatte | 12+6<sup>α</sup> / [Web][200406]
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura | 12集<sup>α</sup> / [Web][200407]
 小书痴的下克上 第二季<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部 | Honzuki no Gekokujou S2 | 12集<sup>β</sup> / Web
@@ -87,7 +87,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 请在伸展台上微笑 / 请在T台上微笑 | ランウェイで笑って | Runway de Waratte | 12集<sup>β</sup> / [Web][200102]
 室内露营△<sup>*</sup> | へやキャン△ | Heya Camp△ | 13集 / [Web][200103]
 恋爱小行星 | 恋する小惑星 | Koisuru Asteroid | 12集<sup>α</sup> / [Web][200104]
-pet | pet | pet | 13集<sup>β</sup> / [Web][200105]
+pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 猫娘乐园 | ネコぱら | Nekopara | 12集 / BD
 虚构推理 | 虚構推理 | Kyokou Suiri | 12+SP / [BD][200107]
 22/7 | 22/7 | Nanabun no Nijuuni | 12集<sup>α</sup> / [Web][200108]
@@ -152,6 +152,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 骚动时节的少女们啊 | 荒ぶる季節の乙女どもよ。 | Araburu Kisetsu no Otome-domo yo. | 12集<sup>α</sup> / 填坑中
 街角魔族<sup>*</sup> | まちカドまぞく | Machikado Mazoku | 12集 / BD
 COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
+少女小短剧 All Starlight | 少女☆寸劇 オールスタァライト | Shoujo Conto All Starlight | 26集 / [BD][190710]
 
 [190701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Arifureta
 [190702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Joshikousei_no_Mudazukai
@@ -159,6 +160,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
 [190704]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Hensuki
 [190705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura
 [190709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Cop_Craft
+[190710]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shoujo_Conto_All_Starlight
 
 ### <span id="1904"> 2019年4月</span>
 
