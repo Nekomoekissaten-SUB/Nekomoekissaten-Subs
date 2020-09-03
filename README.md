@@ -51,10 +51,10 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 --- | --- | --------- | :-:
 全新动物 / 动物新世代 | BNA | Brand New Animal | 12集<sup>β</sup> / [Web][200401]
 神之塔 | 神之塔 -Tower of God- | Kami no Tou | 13集 / [Web][200402]
-隐瞒之事 | かくしごと | Kakushigoto | 12集 / BD
+隐瞒之事 | かくしごと | Kakushigoto | 12集 / [BD][200403]
 新樱花大战 the Animation | 新サクラ大戦 the Animation | Shin Sakura Taisen the Animation | 12集<sup>α</sup> / [Web][200404]
 LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / BD
-昨日之歌 | イエスタデイをうたって | Yesterday wo Utatte | 12+6<sup>α</sup> / [Web][200406]
+昨日之歌 | イエスタデイをうたって | Yesterday wo Utatte | 12+6<sup>α</sup> / [BD][200406]
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura | 12集<sup>α</sup> / [Web][200407]
 小书痴的下克上 第二季<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部 | Honzuki no Gekokujou S2 | 12集<sup>β</sup> / Web
 继 怪怪守护神 | 継つぐもも | Tsugu Tsugumomo | 12集 / [Web][200409]
@@ -68,6 +68,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 
 [200401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BNA
 [200402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tower_of_God
+[200403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kakushigoto
 [200404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shin_Sakura_Taisen
 [200406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/singyesterday
 [200407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hamefura
@@ -95,7 +96,7 @@ pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 异兽魔都 | ドロヘドロ | Dorohedoro | 12集<sup>β</sup> / [Web][200110]
 索玛丽与森林之神 | ソマリと森の神様 | Somali to Mori no Kamisama | 12集<sup>β</sup> / [Web][200111]
 Rebirth | Rebirth | Rebirth | 50+集 / Web
-试证明理科生已坠入情网。 | 理系が恋に落ちたので証明してみた。 | Rikei ga Koi ni Ochita no de Shoumei shitemita. | 12集<sup>β</sup> / 填坑中
+试证明理科生已坠入情网。 | 理系が恋に落ちたので証明してみた。 | Rikei ga Koi ni Ochita no de Shoumei shitemita. | 12集<sup>β</sup> / BD
 
 [200101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Eizouken_ni_wa_Te_wo_Dasu_na!
 [200102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte
@@ -355,6 +356,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
 --- | --- | --------- | :-:
 小魔女Doremi | おジャ魔女どれみ | Ojamajo Doremi | 51集 / BD
+电脑线圈 | 電脳コイル | Dennou Coil | 26集 / BD
 
 ## <span id="mov"> 剧场版</span></span>
 
