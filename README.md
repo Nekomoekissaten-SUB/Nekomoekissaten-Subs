@@ -53,7 +53,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 神之塔 | 神之塔 -Tower of God- | Kami no Tou | 13集 / [Web][200402]
 隐瞒之事 | かくしごと | Kakushigoto | 12集 / [BD][200403]
 新樱花大战 the Animation | 新サクラ大戦 the Animation | Shin Sakura Taisen the Animation | 12集<sup>α</sup> / [Web][200404]
-LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / BD
+LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / [BD][200405]
 昨日之歌 | イエスタデイをうたって | Yesterday wo Utatte | 12+6<sup>α</sup> / [BD][200406]
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura | 12集<sup>α</sup> / [Web][200407]
 小书痴的下克上 第二季<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部 | Honzuki no Gekokujou S2 | 12集<sup>β</sup> / Web
@@ -70,6 +70,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 [200402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tower_of_God
 [200403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kakushigoto
 [200404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shin_Sakura_Taisen
+[200405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/LISTENERS
 [200406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/singyesterday
 [200407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hamefura
 [200409]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsugumomo_S2
