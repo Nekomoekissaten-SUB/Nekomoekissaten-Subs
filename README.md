@@ -36,7 +36,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / Web
 宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / Web
 租借女友 | 彼女、お借りします | Kanojo, Okarishimasu | 12集<sup>β</sup> / Web
-彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 正片 / 字幕
+彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 正片 / BD
 天晴烂漫！ | 天晴爛漫！ | Appare-Ranman! | 13集<sup>α</sup> / [Web][200712]
 
 [200702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/DECA-DENCE
@@ -69,7 +69,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 [200401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BNA
 [200402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tower_of_God
 [200403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kakushigoto
-[200404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shin_Sakura_Taisen
+[200404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sakura_Taisen
 [200405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/LISTENERS
 [200406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/singyesterday
 [200407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hamefura
@@ -150,7 +150,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 你遭难了吗？ | ソウナンですか？ | Sounan Desu ka? | 12集 / [BD][190703]
 只要长得可爱，即使是变态你也喜欢吗？ | 可愛ければ変態でも好きになってくれますか？ | Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? / Hensuki | 12集<sup>β</sup> / [Web][190704]
 拳愿阿修罗 | ケンガンアシュラ | Kengan Ashura | 12集<sup>α</sup> / [Web][190705]
-魔术学姐 | 手品先輩 | Tejina-senpai | 12集 / 字幕
+魔术学姐 | 手品先輩 | Tejina-senpai | 12集 / BD
 骚动时节的少女们啊 | 荒ぶる季節の乙女どもよ。 | Araburu Kisetsu no Otome-domo yo. | 12集<sup>α</sup> / 填坑中
 街角魔族<sup>*</sup> | まちカドまぞく | Machikado Mazoku | 12集 / BD
 COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
@@ -377,8 +377,8 @@ Infini-T Force 飞鹰侠 再见了朋友 | 劇場版Infini-T Force／ガッチ�
 甲铁城的卡巴内利/里/瑞 海门决战 | 甲鉄城のカバネリ～海門決戦～ | Kabaneri of the Iron Fortress: The Battle of Unato | [BD][mov012]<sup>α</sup>
 灰色：幻影扳机 01-02 | グリザイア：ファントムトリガー THE ANIMATIION 01/02 | Grisaia: Phantom Trigger The Animation 01/02 | [BD][mov013]
 CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov014]
-青春笨蛋少年不会梦到怀梦美少女 | 青春ブタ野郎はゆめみる少女の夢を見ない | Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai | [BD][mov015]
-若能与你共乘海浪之上 / 乘浪之約 | きみと、波にのれたら | Kimi to, Nami ni Noretara | [BD][mov016]
+青春笨蛋少年不会梦到怀梦美少女 | 青春ブタ野郎はゆめみる少女の夢を見ない | Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai | [BD][mov015]<sup>α</sup>
+若能与你共乘海浪之上 / 乘浪之約 | きみと、波にのれたら | Kimi to, Nami ni Noretara | [BD][mov016]<sup>β</sup>
 黑狐 | BLACKFOX | BLACKFOX | [Web][mov017]<sup>β</sup>
 普罗米亚 | プロメア | PROMARE | [BD][mov018]
 薄暮 | 薄暮 | Hakubo / Twilight | [BD][mov019]<sup>α</sup>
@@ -389,8 +389,11 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 知晓天空之蓝的人啊 | 空の青さを知る人よ | Sora no Aosa wo Shiru Hito yo | [BD][mov024]<sup>α</sup>
 想哭的我戴上了猫的面具 | 泣きたい私は猫をかぶる | Nakitai Watashi wa Neko o Kaburu / A Whisker Away | [Web][mov025]<sup>α</sup>
 哥布林杀手 - 哥布林的王冠 | ゴブリンスレイヤー -GOBLIN’S CROWN- | Goblin Slayer: Goblin’s Crown | [BD][mov026]<sup>α</sup>
-鸣鸟不飞 The clouds gather | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The Clouds Gather | BD
+为谁而炼金 | 劇場版 誰ガ為のアルケミスト | Ta ga Tame no Alchemist | [BD][mov027]
+鸣鸟不飞 乌云密布 | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The clouds gather | [BD][mov028]<sup>α</sup>
+BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | Web
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | BD
+剧场版 白箱 | 劇場版 SHIROBAKO | Shirobako Movie | BD
 
 [mov001]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
 [mov002]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
@@ -418,6 +421,8 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 [mov024]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/soraao
 [mov025]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/nakineko
 [mov026]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Goblin-Slayer
+[mov027]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tagatame
+[mov028]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Saezuru
 
 ## <span id="ova"> OVA / ONA</span></span>
 
@@ -445,6 +450,7 @@ Escha Chron | エスカクロン | Escha Chron | [OVA][ova002]<sup>α</sup>
 KITE LIBERATOR | カイト リベレイター | KITE LIBERATOR | OVA / [BD][ova005]
 A KITE | カイト | KITE | OVA / [BD][ova006]
 池袋PR动画 | 池袋PRアニメ | Ikebukuro PR Anime | [ONA][ova007]
+樱花革命 华丽绽放的少女们 特别动画 | サクラ革命 ～華咲く乙女たち～ | Sakura Kakumei | [ONA][ova008]
 
 [ova001]: https://github.com/Nekomoekissaten-SUB/Aru-Zombie-Shoujo-no-Sainan
 [ova002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Escha-Chron
@@ -455,6 +461,7 @@ A KITE | カイト | KITE | OVA / [BD][ova006]
 [ova005]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/KITE
 [ova006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/KITE
 [ova007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Ikebukuro_PR
+[ova008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sakura_Taisen
 
 ## <span id="other">其他衍生</span></span>
 
