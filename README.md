@@ -3,7 +3,7 @@
 # 目录
 - [番剧索引](#title)
 	- [TV动画](#tva)
-		-  2020年 : 10月🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
+		-  2020年 : [10月](#2010)🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
 		-  2017年 : [10月](#1710)🍂 - [7月](#1707)☀️ - [4月](#1704)🌸 - [1月](#1701)❄️
@@ -22,26 +22,55 @@
 
 ## <span id="tva"> TV动画</span>
 
+## <span id="2010"> 2020年10月</span>
+
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+--- | --- | --------- | :-:
+熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | Web
+铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | Web
+在魔王城说晚安 | 魔王城でおやすみ | Maoujou de Oyasumi | Web
+满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | Web
+第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | Web
+无能的奈奈 | 無能なナナ | Munou na Nana | Web
+Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | <sup>α</sup> / Web
+魔女之旅 | 魔女の旅々 | Majo no Tabitabi | Web
+我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集 / Web
+总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | Web
+养狗又养猫每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集 / Web
+半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | Web
+战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | Web
+魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | Web
+One Room 3 | One Room 3 | One Room 3 | Web
+池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | Web
+这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集 / Web
+安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | Web
+请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | Web
+成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | Web
+前说！| まえせつ！ | Maesetsu! | Web
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix
+
 ### <span id="2007"> 2020年7月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-宝石幻想 光芒重现 ～这个世界的偶像会魔法～ | Lapis Re：LiGHTs | Lapis Re：LiGHTs | 12集<sup>α</sup> / Web
+宝石幻想 光芒重现 ～这个世界的偶像会魔法～ | Lapis Re：LiGHTs | Lapis Re：LiGHTs | 12集<sup>α</sup> / [Web][200701]
 DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [Web][200702]
 魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / Web
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
-赛马娘四格 | うまよん | Umayon | 13集<sup>α</sup> / Web
+赛马娘四格 | うまよん | Umayon | 12集<sup>α</sup> / Web
 日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
 非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / Web
 我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / Web
-宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / Web
+宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / [Web][200709]
 租借女友 | 彼女、お借りします | Kanojo, Okarishimasu | 12集<sup>β</sup> / Web
-彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 正片 / BD
+彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 12集 / BD
 天晴烂漫！ | 天晴爛漫！ | Appare-Ranman! | 13集<sup>α</sup> / [Web][200712]
 
+[200701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights
 [200702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/DECA-DENCE
 <!--[200705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Umamusume/Umayon-->
 [200706]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Japan_Sinks_2020
+[200709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan
 [200712]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman
 
 ### <span id="2004"> 2020年4月</span>
@@ -52,7 +81,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 全新动物 / 动物新世代 | BNA | Brand New Animal | 12集<sup>β</sup> / [Web][200401]
 神之塔 | 神之塔 -Tower of God- | Kami no Tou | 13集 / [Web][200402]
 隐瞒之事 | かくしごと | Kakushigoto | 12集 / [BD][200403]
-新樱花大战 the Animation | 新サクラ大戦 the Animation | Shin Sakura Taisen the Animation | 12集<sup>α</sup> / [Web][200404]
+新樱花大战 the Animation | 新サクラ大戦 the Animation | Shin Sakura Taisen the Animation | 12集<sup>α</sup> / [BD][200404]
 LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / [BD][200405]
 昨日之歌 | イエスタデイをうたって | Yesterday wo Utatte | 12+6<sup>α</sup> / [BD][200406]
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura | 12集<sup>α</sup> / [Web][200407]
@@ -85,7 +114,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=240/>
 --- | --- | --------- | :-:
-别对映像研出手！ | 映像研には手を出すな！ | Eizouken ni wa Te wo Dasu na! | 12集<sup>β</sup> / [Web][200101]
+别对映像研出手！ | 映像研には手を出すな！ | Eizouken ni wa Te wo Dasu na! | 12集<sup>β</sup> / [BD][200101]
 请在伸展台上微笑 / 请在T台上微笑 | ランウェイで笑って | Runway de Waratte | 12集<sup>β</sup> / [Web][200102]
 室内露营△<sup>*</sup> | へやキャン△ | Heya Camp△ | 13集 / [Web][200103]
 恋爱小行星 | 恋する小惑星 | Koisuru Asteroid | 12集<sup>α</sup> / [Web][200104]
@@ -127,7 +156,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 我们真的学不来! / 我们无法一起学习! | ぼくたちは勉強ができない! | Bokutachi wa Benkyou ga Dekinai! | 13集<sup>β</sup> / 字幕
 小书痴的下克上<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ | Honzuki no Gekokujou | 14集 / [Web][191013]
 碧蓝航线 | アズールレーン | Azur Lane | 12集 / BD
-超级小白 | SUPER SHIRO | SUPER SHIRO | 48集 / Web
+超级小白 | SUPER SHIRO | SUPER SHIRO | 48集 / [Web][191015]
 
 [191001]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
 [191002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Houkago_Saikoro_Club%20Web
@@ -140,6 +169,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 [191009]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone-S2
 [191010]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/XL-Joushi
 [191013]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Honzuki_no_Gekokujou
+[191015]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/SUPER_SHIRO
 
 ### <span id="1907"> 2019年7月</span></span>
 
@@ -450,7 +480,7 @@ Escha Chron | エスカクロン | Escha Chron | [OVA][ova002]<sup>α</sup>
 KITE LIBERATOR | カイト リベレイター | KITE LIBERATOR | OVA / [BD][ova005]
 A KITE | カイト | KITE | OVA / [BD][ova006]
 池袋PR动画 | 池袋PRアニメ | Ikebukuro PR Anime | [ONA][ova007]
-樱花革命 华丽绽放的少女们 特别动画 | サクラ革命 ～華咲く乙女たち～ | Sakura Kakumei | [ONA][ova008]
+樱花革命 华丽绽放的少女们 特别动画 | サクラ革命 ～華咲く乙女たち～ | Sakura Kakumei | [ONA][ova008]<sup>α</sup>
 
 [ova001]: https://github.com/Nekomoekissaten-SUB/Aru-Zombie-Shoujo-no-Sainan
 [ova002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Escha-Chron
