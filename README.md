@@ -47,7 +47,7 @@ One Room 3 | One Room 3 | One Room 3 | Web
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | Web
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | Web
 前说！| まえせつ！ | Maesetsu! | Web
-D4DJ First Mix | D4DJ First Mix | D4DJ First Mix
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | Web
 
 ### <span id="2007"> 2020年7月</span>
 
@@ -123,7 +123,7 @@ pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 虚构推理 | 虚構推理 | Kyokou Suiri | 12+SP / [BD][200107]
 22/7 | 22/7 | Nanabun no Nijuuni | 12集<sup>α</sup> / [Web][200108]
 奇幻☆怪盗 | はてな☆イリュージョン | Hatena☆Illusion | 12集 / Web
-异兽魔都 | ドロヘドロ | Dorohedoro | 12集<sup>β</sup> / [Web][200110]
+异兽魔都 | ドロヘドロ | Dorohedoro | 12集<sup>β</sup> / [BD][200110]
 索玛丽与森林之神 | ソマリと森の神様 | Somali to Mori no Kamisama | 12集<sup>β</sup> / [Web][200111]
 Rebirth | Rebirth | Rebirth | 50+集 / Web
 试证明理科生已坠入情网。 | 理系が恋に落ちたので証明してみた。 | Rikei ga Koi ni Ochita no de Shoumei shitemita. | 12集<sup>β</sup> / BD
