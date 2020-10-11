@@ -26,28 +26,35 @@
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | Web
+熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | 12集 / Web
 铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | Web
-在魔王城说晚安 | 魔王城でおやすみ | Maoujou de Oyasumi | Web
+在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集 / Web
 满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | Web
-第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | Web
-无能的奈奈 | 無能なナナ | Munou na Nana | Web
-Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | <sup>α</sup> / Web
-魔女之旅 | 魔女の旅々 | Majo no Tabitabi | Web
+第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | 12集 / Web
+无能的奈奈 | 無能なナナ | Munou na Nana | 13集<sup>α</sup> / [Web][201006]
+Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | <sup>α</sup> / [Web][201007]
+魔女之旅 | 魔女の旅々 | Majo no Tabitabi | 12集 / [Web][201008]
 我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集 / Web
 总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | Web
-养狗又养猫每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集 / Web
-半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | Web
-战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | Web
-魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | Web
-One Room 3 | One Room 3 | One Room 3 | Web
-池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | Web
+养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集 / [Web][201011]
+半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集 / [Web][201012]
+战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | 12集 / Web
+魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集 / Web
 这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集 / Web
+One Room 3 | One Room 3 | One Room 3 | Web
+池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | 12集 / [Web][201017]
 安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | Web
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | Web
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | Web
 前说！| まえせつ！ | Maesetsu! | Web
 D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | Web
+
+[201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
+[201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
+[201008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Majotabi
+[201011]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Inu_to_Neko
+[201012]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hanyo-yashahime
+[201017]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/IWGP
 
 ### <span id="2007"> 2020年7月</span>
 
@@ -59,10 +66,10 @@ DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [Web][200702]
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
 赛马娘四格 | うまよん | Umayon | 12集<sup>α</sup> / Web
 日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
-非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / Web
+非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / [Web][200707]
 我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / Web
 宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / [Web][200709]
-租借女友 | 彼女、お借りします | Kanojo, Okarishimasu | 12集<sup>β</sup> / Web
+租借女友 | 彼女、お借りします | Kanojo, Okarishimasu | 12集<sup>β</sup> / [Web][200710]
 彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 12集 / BD
 天晴烂漫！ | 天晴爛漫！ | Appare-Ranman! | 13集<sup>α</sup> / [Web][200712]
 
@@ -70,7 +77,9 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 [200702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/DECA-DENCE
 <!--[200705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Umamusume/Umayon-->
 [200706]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Japan_Sinks_2020
+[200707]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/No-Guns-Life
 [200709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan
+[200710]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kanokari
 [200712]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman
 
 ### <span id="2004"> 2020年4月</span>
@@ -91,7 +100,7 @@ LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / [BD][200405]
 白猫计划 零之纪元 / 白貓Project ZERO CHRONICLE | 白猫プロジェクト ZERO CHRONICLE | Shironeko Project: Zero Chronicle | 12集<sup>β</sup> / [Web][200411]
 A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | 12集<sup>α</sup> / [Web][200412]
 公主连结 Re:Dive | プリンセスコネクト！Re:Dive | Princess Connect! Re:Dive | 13集 / [Web][200413]
-水果篮子 第二季 | フルーツバスケット 2nd season | Fruits Basket 2nd season | 25集<sup>β</sup> / Web
+水果篮子 第二季 | フルーツバスケット 2nd season | Fruits Basket 2nd season | 25集<sup>β</sup> / [Web][200414]
 座敷童子榻榻米酱 | ざしきわらしのタタミちゃん | Zashiki Warashi no Tatami-chan | 12集 / [Web][200415]
 男人邦 / 邦男人 | アルゴナビス from BanG Dream! | ARGONAVIS from BanG Dream! | 13集<sup>α</sup> / [Web][200416]
 
@@ -107,6 +116,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 [200411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/shironekoproject
 [200412]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/A3
 [200413]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/PCR
+[200414]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
 [200415]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/tatamichan
 [200416]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/argo-bdp
 
@@ -142,7 +152,7 @@ Rebirth | Rebirth | Rebirth | 50+集 / Web
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=400/>
 --- | --- | --------- | :-:
-BEASTARS | BEASTARS | BEASTARS | 12集<sup>β</sup> / [Web][191001]
+BEASTARS | BEASTARS | BEASTARS | 12集<sup>β</sup> / [BD][191001]
 放学后骰子俱乐部 | 放課後さいころ倶楽部 | Houkago Saikoro Club | 12集 / [Web][191002]
 Null & Peta | ぬるぺた | Null & Peta | 12+OVA / [BD][191003]
 天华百剑 ～欢迎来到铭治馆～ | 天華百剣 ～めいじ館へようこそ！～ | Tenka Hyakken Meiji-kan e Youkoso | 12集 / [Web][191004]
@@ -212,7 +222,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 [190404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone
 [190405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Araiya-san-Ore-to-Aitsu-ga-Onnayu-de
 [190406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-TQYSY-Subs/tree/master/Miru-Tights
-[190407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/fruba
+[190407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
 
 ### <span id="1901"> 2019年1月</span>
 
@@ -421,7 +431,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 哥布林杀手 - 哥布林的王冠 | ゴブリンスレイヤー -GOBLIN’S CROWN- | Goblin Slayer: Goblin’s Crown | [BD][mov026]<sup>α</sup>
 为谁而炼金 | 劇場版 誰ガ為のアルケミスト | Ta ga Tame no Alchemist | [BD][mov027]
 鸣鸟不飞 乌云密布 | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The clouds gather | [BD][mov028]<sup>α</sup>
-BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | Web
+BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | BD
 剧场版 白箱 | 劇場版 SHIROBAKO | Shirobako Movie | BD
 
@@ -453,6 +463,7 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | Web
 [mov026]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Goblin-Slayer
 [mov027]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tagatame
 [mov028]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Saezuru
+[mov029]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BURN_THE_WITCH
 
 ## <span id="ova"> OVA / ONA</span></span>
 
