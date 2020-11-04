@@ -12,7 +12,7 @@
 	- [OVA / ONA](#ova)
 		- [TV 动画衍生类 OVA / ONA](#ova-tv)
 		- [原创类 OVA / ONA](#ova-o)
-	- [其他衍生](#other)
+	- [非动画类](#other)
 
 # <span id="title"> 番剧索引</span>
 
@@ -27,34 +27,38 @@
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | 12集 / Web
-铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | Web
-在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集 / Web
-满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | Web
+铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | 12集 / Web
+在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集<sup>β</sup> / Web
+满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / Web
 第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | 12集 / Web
 无能的奈奈 | 無能なナナ | Munou na Nana | 13集<sup>α</sup> / [Web][201006]
-Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | <sup>α</sup> / [Web][201007]
-魔女之旅 | 魔女の旅々 | Majo no Tabitabi | 12集 / [Web][201008]
-我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集 / Web
-总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | Web
-养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集 / [Web][201011]
-半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集 / [Web][201012]
-战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | 12集 / Web
-魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集 / Web
-这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集 / Web
-One Room 3 | One Room 3 | One Room 3 | Web
+Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12集<sup>α</sup> / [Web][201007]
+魔女之旅 | 魔女の旅々 | Majo no Tabitabi | 12集<sup>β</sup> / [Web][201008]
+我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集<sup>β</sup> / Web
+总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / Web
+养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集<sup>β</sup> / [Web][201011]
+半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [Web][201012]
+战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | 12集 / [Web][201013]
+魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集<sup>β</sup> / Web
+这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [Web][201015]
+One Room 3 | One Room 3 | One Room 3 | 12集 / Web
 池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | 12集 / [Web][201017]
-安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | Web
-请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | Web
-成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | Web
+安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / Web
+请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / Web
+成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / Web
 前说！| まえせつ！ | Maesetsu! | Web
-D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | Web
+体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 12集<sup>β</sup> / [Web][201022]
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | <sup>α</sup> / Web
 
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
 [201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
 [201008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Majotabi
 [201011]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Inu_to_Neko
 [201012]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hanyo-yashahime
+[201013]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sigururi
+[201015]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kimisen
 [201017]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/IWGP
+[201022]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Taiso_Samurai
 
 ### <span id="2007"> 2020年7月</span>
 
@@ -432,7 +436,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 为谁而炼金 | 劇場版 誰ガ為のアルケミスト | Ta ga Tame no Alchemist | [BD][mov027]
 鸣鸟不飞 乌云密布 | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The clouds gather | [BD][mov028]<sup>α</sup>
 BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
-剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | BD
+剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
 剧场版 白箱 | 劇場版 SHIROBAKO | Shirobako Movie | BD
 
 [mov001]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
@@ -464,6 +468,7 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 [mov027]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tagatame
 [mov028]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Saezuru
 [mov029]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BURN_THE_WITCH
+[mov030]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Haifuri
 
 ## <span id="ova"> OVA / ONA</span></span>
 
@@ -475,10 +480,11 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 --- | --- | --------- | :-:
 告诉我吧！辣妹子 / 百无禁忌！女高中生私房话 OAD | おしえて! ギャル子ちゃん OAD | Oshiete! Galko-chan OAD | OAD
 干物妹！小埋 OAD2 Ep.14 | 干物妹! うまるちゃん OAD2 Ep.14 | Himouto! Umaru-chan OAD2 Ep.14 | OAD
-高校舰队 / 青春波纹 | ハイスクール・フリート OVA | High School Fleet OVA | OVAx2
+高校舰队 / 青春波纹 | ハイスクール・フリート OVA | High School Fleet OVA | [OVA](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Haifuri)
 巧克力与香子兰 OVA | ネコぱらOVA | NEKOPARA OVA | [OVA](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/NEKOPARA-OVA)
 出包王女 / 天才摔跤手梨斗 OAD 10 | To LOVEる-とらぶる-ダークネス OAD 10 | To Love-Ru Trouble-Darkness OAD 10 | [OAD](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/To_Love-Ru_Trouble_Darkness_OVA)
 政宗君的复仇 OAD | 政宗くんのリベンジ OAD | Masamune-kun no Revenge OAD | OAD
+刀使巫女 刻印一闪的灯火 OVA | 刀使ノ巫女 刻みし一閃の燈火 OVA | Toji no Miko: Kizamishi Issen no Tomoshibi OVA | OVA / [Web](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tojitomo)<sup>β</sup>
 
 ### <span id="ova-o">原创类 OVA / ONA</span></span>
 
@@ -504,10 +510,12 @@ A KITE | カイト | KITE | OVA / [BD][ova006]
 [ova007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Ikebukuro_PR
 [ova008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sakura_Taisen
 
-## <span id="other">其他衍生</span></span>
+## <span id="other">非动画类</span></span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
 --- | --- | --------- | :-:
 舞台剧 终将成为你/舞台劇 終將成為妳 | 舞台「やがて君になる」 | Butai Yagate Kimi Ni Naru | [BD][other01]
+Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | [BD][other02]<sup>β</sup>
 
 [other01]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Butai_Yagate_Kimi_Ni_Naru
+[other02]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Joseetora
