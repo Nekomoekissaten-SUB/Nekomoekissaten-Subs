@@ -66,7 +66,7 @@ D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | <sup>α</sup> / Web
 --- | --- | --------- | :-:
 宝石幻想 光芒重现 ～这个世界的偶像会魔法～ | Lapis Re：LiGHTs | Lapis Re：LiGHTs | 12集<sup>α</sup> / [Web][200701]
 DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [Web][200702]
-魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / Web
+魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / [Web][200703]
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
 赛马娘四格 | うまよん | Umayon | 12集<sup>α</sup> / Web
 日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
@@ -79,6 +79,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 
 [200701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights
 [200702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/DECA-DENCE
+[200703]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Maohgakuin
 <!--[200705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Umamusume/Umayon-->
 [200706]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Japan_Sinks_2020
 [200707]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/No-Guns-Life
