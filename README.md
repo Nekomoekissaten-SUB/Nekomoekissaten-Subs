@@ -427,7 +427,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 黑狐 | BLACKFOX | BLACKFOX | [Web][mov017]<sup>β</sup>
 普罗米亚 | プロメア | PROMARE | [BD][mov018]
 薄暮 | 薄暮 | Hakubo / Twilight | [BD][mov019]<sup>α</sup>
-剧场版 歌之王子殿下 真爱王国 | 劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム | Uta no☆Prince-sama♪ Maji Love Kingdom Movie | [BD][mov020]
+剧场版 歌之王子殿下 真爱王国 | 劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム | Uta no☆Prince-sama♪ Maji Love Kingdom Movie | [BD][mov020]<sup>β</sup>
 我们的7日战争 | ぼくらの7日間戦争 | Bokura no Nanokakan Sensou | [BD][mov021]
 你好 世界 | HELLO WORLD | HELLO WORLD | [BD][mov022]<sup>α</sup>
 潘多拉和小阿欠 | パンドラとアクビ | Pandora to Akubi | [BD][mov023]
