@@ -3,6 +3,7 @@
 # 目录
 - [番剧索引](#title)
 	- [TV动画](#tva)
+		-  2021年 : 10月🍂 - 7月☀️ - 4月🌸 - 1月❄️
 		-  2020年 : [10月](#2010)🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
@@ -322,7 +323,7 @@ Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12�
 粗点心战争2 | だがしかし2 | Dagashi Kashi 2 | 12集<sup>β</sup>
 爆肝工程师的异世界狂想曲 | デスマーチからはじまる異世界狂想曲 | Death March kara Hajimaru Isekai Kyousoukyoku | 12集<sup>β</sup>
 妖精森林的小不点<sup>*</sup> | ハクメイとミコチ | Hakumei to Mikochi | 12+OVA / [Web][180108]
-魔卡少女樱 / 庫洛魔法使 / 百变小樱魔术卡-透明卡牌篇 | カードキャプターさくら クリアカード編 | Cardcaptor Sakura Clear Card Hen | 22集<sup>α</sup>+OAD / BD
+魔卡少女樱 / 庫洛魔法使 / 百变小樱魔术卡-透明卡牌篇 | カードキャプターさくら クリアカード編 | Cardcaptor Sakura Clear Card Hen | 22集<sup>α</sup>+OAD / [BD][180109]
 
 [180101TV]: https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni
 [180101BD]: https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni-BD
@@ -334,6 +335,7 @@ Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12�
 [180105TV]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Killing-Bites
 [180105BD]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Killing-Bites-BD
 [180108]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Hakumei-to-Mikochi
+[180109]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/CC_Sakura
 
 ### <span id="1710"> 2017年10月</span>
 
@@ -438,6 +440,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 鸣鸟不飞 乌云密布 | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The clouds gather | [BD][mov028]<sup>α</sup>
 BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
+荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD
 剧场版 白箱 | 劇場版 SHIROBAKO | Shirobako Movie | BD
 
 [mov001]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
