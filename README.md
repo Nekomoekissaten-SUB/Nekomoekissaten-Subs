@@ -3,7 +3,7 @@
 # 目录
 - [番剧索引](#title)
 	- [TV动画](#tva)
-		-  2021年 : 10月🍂 - 7月☀️ - 4月🌸 - 1月❄️
+		-  2021年 : 10月🍂 - 7月☀️ - 4月🌸 - [1月](#2101)❄️
 		-  2020年 : [10月](#2010)🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
@@ -22,6 +22,8 @@
 注2：本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。单日文字幕的来源一般是各种官方日文字幕。
 
 ## <span id="tva"> TV动画</span>
+
+## <span id="2101"> 2021年01月</span>
 
 ## <span id="2010"> 2020年10月</span>
 
@@ -99,7 +101,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 新樱花大战 the Animation | 新サクラ大戦 the Animation | Shin Sakura Taisen the Animation | 12集<sup>α</sup> / [BD][200404]
 LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / [BD][200405]
 昨日之歌 | イエスタデイをうたって | Yesterday wo Utatte | 12+6<sup>α</sup> / [BD][200406]
-转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura | 12集<sup>α</sup> / [Web][200407]
+转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura | 12集<sup>α</sup> / [BD][200407]
 小书痴的下克上 第二季<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部 | Honzuki no Gekokujou S2 | 12集<sup>β</sup> / Web
 继 怪怪守护神 | 継つぐもも | Tsugu Tsugumomo | 12集 / [Web][200409]
 格莱普尼尔 | グレイプニル | Gleipnir | 13集<sup>β</sup> / [Web][200410]
@@ -244,7 +246,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 灵能百分百II | モブサイコ100 II | Mob Psycho 100 S2 | 13集<sup>β</sup> / 填坑中
 荒野的寿飞行队 | 荒野のコトブキ飛行隊 | Kouya no Kotobuki Hikoutai | 12+SP<sup>α</sup> / BD
 笨拙之极的上野 | 上野さんは不器用 | Ueno-san wa Bukiyou | 12集<sup>β</sup> / 字幕
-约定的梦幻岛 | 約束のネバーランド | Yakusoku no Neverland / The Promised Neverland | 12集<sup>β</sup> / BD
+约定的梦幻岛 | 約束のネバーランド | Yakusoku no Neverland / The Promised Neverland | 12集<sup>β</sup> / [BD][190111]
 
 [190101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dororo
 [190102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hizaue
@@ -252,6 +254,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 [190104]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Girly-Air-Force
 [190105]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Manaria_Friends
 [190106]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Saintia-sho
+[190111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Yakusoku_no_Neverland
 
 ### <span id="1810"> 2018年10月</span>
 
@@ -403,8 +406,10 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
 --- | --- | --------- | :-:
-小魔女Doremi | おジャ魔女どれみ | Ojamajo Doremi | 51集 / BD
+小魔女Doremi | おジャ魔女どれみ | Ojamajo Doremi | 51集 / [BD][old1]
 电脑线圈 | 電脳コイル | Dennou Coil | 26集 / BD
+
+[old1]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Doremi
 
 ## <span id="mov"> 剧场版</span></span>
 
@@ -488,7 +493,7 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 巧克力与香子兰 OVA | ネコぱらOVA | NEKOPARA OVA | [OVA](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/NEKOPARA-OVA)
 出包王女 / 天才摔跤手梨斗 OAD 10 | To LOVEる-とらぶる-ダークネス OAD 10 | To Love-Ru Trouble-Darkness OAD 10 | [OAD](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/To_Love-Ru_Trouble_Darkness_OVA)
 政宗君的复仇 OAD | 政宗くんのリベンジ OAD | Masamune-kun no Revenge OAD | OAD
-刀使巫女 刻印一闪的灯火 OVA | 刀使ノ巫女 刻みし一閃の燈火 OVA | Toji no Miko: Kizamishi Issen no Tomoshibi OVA | OVA / [Web](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tojitomo)<sup>β</sup>
+刀使巫女 刻印一闪的灯火 OVA | 刀使ノ巫女 刻みし一閃の燈火 OVA | Toji no Miko: Kizamishi Issen no Tomoshibi OVA | OVA / [Web](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tojitomo)<sup>α</sup>
 
 ### <span id="ova-o">原创类 OVA / ONA</span></span>
 
