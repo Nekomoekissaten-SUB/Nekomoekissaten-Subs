@@ -173,7 +173,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 高分少女 II | ハイスコアガール II | Hi Score Girl 2 | 3OVA+9<sup>β</sup> / BD
 我们真的学不来! / 我们无法一起学习! | ぼくたちは勉強ができない! | Bokutachi wa Benkyou ga Dekinai! | 13集<sup>β</sup> / 字幕
 小书痴的下克上<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ | Honzuki no Gekokujou | 14集 / [Web][191013]
-碧蓝航线 | アズールレーン | Azur Lane | 12集 / BD
+碧蓝航线 | アズールレーン | Azur Lane | 12集 / [BD][191014]
 超级小白 | SUPER SHIRO | SUPER SHIRO | 48集 / [Web][191015]
 
 [191001]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
@@ -187,6 +187,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 [191009]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone-S2
 [191010]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/XL-Joushi
 [191013]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Honzuki_no_Gekokujou
+[191014]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Azur_Lane
 [191015]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/SUPER_SHIRO
 
 ### <span id="1907"> 2019年7月</span></span>
@@ -445,6 +446,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 鸣鸟不飞 乌云密布 | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The clouds gather | [BD][mov028]<sup>α</sup>
 BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
+Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD
 剧场版 白箱 | 劇場版 SHIROBAKO | Shirobako Movie | BD
 
@@ -478,6 +480,7 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 [mov028]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Saezuru
 [mov029]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BURN_THE_WITCH
 [mov030]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Haifuri
+[mov031]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Wonderland
 
 ## <span id="ova"> OVA / ONA</span></span>
 
