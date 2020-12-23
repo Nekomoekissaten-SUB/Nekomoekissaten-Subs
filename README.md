@@ -25,6 +25,28 @@
 
 ## <span id="2101"> 2021年01月</span>
 
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+--- | --- | --------- | :-:
+ゲキドル | ゲキドル | Gekidol | <sup>α</sup> / Web
+赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | <sup>α</sup>
+BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | Web
+轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | Web
+约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | Web
+五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | Web
+弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | Web
+BACK ARROW | バック・アロウ | Back Arrow | Web
+只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン ~こっそり鍛えて世界最強~ | Ore dake Haireru Kakushi Dungeon | Web
+工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | Web
+工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | Web
+怪物事变 | 怪物事变 | Kemono Jihen | Web
+IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | <sup>α</sup> / Web
+无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | Web
+悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | <sup>α</sup> / Web
+碧蓝航线 微速前行 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | Web
+Wonder egg-priority | ワンダーエッグ・プライオリティ | Wonder egg-priority | Web
+记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集 / Web
+天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | Web
+
 ## <span id="2010"> 2020年10月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
@@ -50,7 +72,7 @@ One Room 3 | One Room 3 | One Room 3 | 12集 / Web
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / Web
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / Web
 前说！| まえせつ！ | Maesetsu! | Web
-体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 12集<sup>β</sup> / [Web][201022]
+体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [Web][201022]
 D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | <sup>α</sup> / Web
 
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
@@ -218,7 +240,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
 川柳少女 | 川柳少女 | Senryuu Shoujo / Senryu Girl | 12集<sup>α</sup> / [BD][190401]
-CAROLE & TUESDAY | キャロル&チューズデイ | CAROLE & TUESDAY | 24集<sup>α</sup> / [Web][190402]
+CAROLE & TUESDAY | キャロル&チューズデイ | CAROLE & TUESDAY | 24集<sup>α</sup> / [BD][190402]
 我们真的学不来 / 我们无法一起学习 | ぼくたちは勉強ができない | Bokutachi wa Benkyou ga Dekinai | 13集<sup>β</sup> / [Web][190403]
 Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</sup> / [Web][190404]
 清洗服务! 我和她在女子浴池!? | 洗い屋さん! ～俺とアイツが女湯で!?～ | Araiya-san! Ore to Aitsu ga Onnayu de! | 8集 / [TV][190405]
@@ -230,7 +252,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 [190403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Bokuben
 [190404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone
 [190405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Araiya-san-Ore-to-Aitsu-ga-Onnayu-de
-[190406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-TQYSY-Subs/tree/master/Miru-Tights
+[190406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Miru-Tights
 [190407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
 
 ### <span id="1901"> 2019年1月</span>
@@ -245,7 +267,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 圣斗士星矢 圣斗少女翔 | 聖闘士星矢 セインティア翔 | Saint Seiya: Saintia Shou | 10集 / [BD][190106]
 迷你刀使 | みにとじ | Mini Toji | 11集 / 字幕
 灵能百分百II | モブサイコ100 II | Mob Psycho 100 S2 | 13集<sup>β</sup> / 填坑中
-荒野的寿飞行队 | 荒野のコトブキ飛行隊 | Kouya no Kotobuki Hikoutai | 12+SP<sup>α</sup> / BD
+荒野的寿飞行队 | 荒野のコトブキ飛行隊 | Kouya no Kotobuki Hikoutai | 12+外传+SP<sup>α</sup> / [BD][190109]
 笨拙之极的上野 | 上野さんは不器用 | Ueno-san wa Bukiyou | 12集<sup>β</sup> / 字幕
 约定的梦幻岛 | 約束のネバーランド | Yakusoku no Neverland / The Promised Neverland | 12集<sup>β</sup> / [BD][190111]
 
@@ -255,6 +277,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 [190104]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Girly-Air-Force
 [190105]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Manaria_Friends
 [190106]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Saintia-sho
+[190109]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kotobuki
 [190111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Yakusoku_no_Neverland
 
 ### <span id="1810"> 2018年10月</span>
@@ -367,7 +390,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
-带着智能手机闯荡异世界 | 異世界はスマートフォンとともに。 | Isekai wa Smartphone to Tomo ni. | 12集<sup>β</sup> / [Web][170701]
+带着智能手机闯荡异世界 | 異世界はスマートフォンとともに。 | Isekai wa Smartphone to Tomo ni. | 12集<sup>β</sup> / [BD][170701]
 徒然喜欢你 | 徒然チルドレン | Tsurezure Children | 12集 / [BD][170702]
 来自深渊 | メイドインアビス | Made in Abyss | 13集<sup>β</sup> / [Web][170703]
 洁癖男子！青山君 | 潔癖男子！青山くん | Keppeki Danshi! Aoyama-kun | 12集 / [Web][170704]
@@ -447,8 +470,10 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
+剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [Web][mov032]
+灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | BD
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD
-剧场版 白箱 | 劇場版 SHIROBAKO | Shirobako Movie | BD
+Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi
 
 [mov001]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
 [mov002]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
@@ -481,6 +506,7 @@ Birthday Wonderland | バースデー・ワンダーランド | The Wonderland |
 [mov029]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BURN_THE_WITCH
 [mov030]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Haifuri
 [mov031]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Wonderland
+[mov032]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shirobako
 
 ## <span id="ova"> OVA / ONA</span></span>
 
