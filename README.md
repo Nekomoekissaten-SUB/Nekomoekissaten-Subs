@@ -21,6 +21,17 @@
 
 注2：本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。单日文字幕的来源一般是各种官方日文字幕。
 
+注3：未打包的字幕可以使用[DownGit](https://downgit.github.io/)等打包下载。
+
+注4：本组制作的字幕以[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)为基础进行授权：
+- 可以自由转载，但转载字幕时不得修改原始字幕内容及需要注明来源，联合发布需要征求本组同意；
+- 发布修改版字幕（包括但不限于时间轴调整、译法调整）一定要注明来源和附带原始字幕；
+	- 如果发现错字、错译、错轴等推荐通过GitHub等方式反馈；
+- 禁止用于商业目的；
+- 发布同为文本字幕的修改版字幕演绎遵循上述第二点；
+- 禁止发布一切未经同意的不可逆的文本转图像修改版字幕（包括但不限于外挂结构、加流重灌）；
+- 本组所有字幕（除直接转载的官方日文字幕）无特殊声明外均遵循上述协议进行许可，如有疑问请联系本组。
+
 ## <span id="tva"> TV动画</span>
 
 ## <span id="2101"> 2021年01月</span>
@@ -90,13 +101,13 @@ D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | <sup>α</sup> / Web
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 宝石幻想 光芒重现 ～这个世界的偶像会魔法～ | Lapis Re：LiGHTs | Lapis Re：LiGHTs | 12集<sup>α</sup> / [Web][200701]
-DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [Web][200702]
+DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [BD][200702]
 魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / [Web][200703]
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
 赛马娘四格 | うまよん | Umayon | 12集<sup>α</sup> / Web
 日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
 非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / [Web][200707]
-我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / Web
+我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / [Web][200708]
 宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / [Web][200709]
 租借女友 | 彼女、お借りします | Kanojo, Okarishimasu | 12集<sup>β</sup> / [Web][200710]
 彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 12集 / BD
@@ -108,6 +119,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 <!--[200705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Umamusume/Umayon-->
 [200706]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Japan_Sinks_2020
 [200707]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/No-Guns-Life
+[200708]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Oregairu
 [200709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Uzaki-chan
 [200710]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Kanokari
 [200712]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman
