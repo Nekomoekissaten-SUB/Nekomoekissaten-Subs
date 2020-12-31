@@ -38,7 +38,7 @@
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-ゲキドル | ゲキドル | Gekidol | <sup>α</sup> / Web
+演剧偶像 | ゲキドル | Gekidol | <sup>α</sup> / Web
 赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | <sup>α</sup>
 BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | Web
 轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | Web
@@ -46,16 +46,17 @@ BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | Web
 五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | Web
 弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | Web
 BACK ARROW | バック・アロウ | Back Arrow | Web
-只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン ~こっそり鍛えて世界最強~ | Ore dake Haireru Kakushi Dungeon | Web
+只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | Web
 工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | Web
 怪物事变 | 怪物事变 | Kemono Jihen | Web
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | <sup>α</sup> / Web
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | Web
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | <sup>α</sup> / Web
-碧蓝航线 微速前行 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | Web
+碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | Web
 Wonder egg-priority | ワンダーエッグ・プライオリティ | Wonder egg-priority | Web
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集 / Web
+VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | Web
 
 ## <span id="2010"> 2020年10月</span>
