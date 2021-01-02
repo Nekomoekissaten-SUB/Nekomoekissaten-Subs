@@ -101,7 +101,7 @@ D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | <sup>α</sup> / Web
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-宝石幻想 光芒重现 ～这个世界的偶像会魔法～ | Lapis Re：LiGHTs | Lapis Re：LiGHTs | 12集<sup>α</sup> / [Web][200701]
+宝石幻想 光芒重现 ～这个世界的偶像会魔法～ | Lapis Re：LiGHTs | Lapis Re：LiGHTs | 12集<sup>α</sup> / [BD][200701]
 DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [BD][200702]
 魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / [Web][200703]
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
@@ -170,11 +170,11 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 别对映像研出手！ | 映像研には手を出すな！ | Eizouken ni wa Te wo Dasu na! | 12集<sup>β</sup> / [BD][200101]
 请在伸展台上微笑 / 请在T台上微笑 | ランウェイで笑って | Runway de Waratte | 12集<sup>β</sup> / [Web][200102]
 室内露营△<sup>*</sup> | へやキャン△ | Heya Camp△ | 13集 / [Web][200103]
-恋爱小行星 | 恋する小惑星 | Koisuru Asteroid | 12集<sup>α</sup> / [Web][200104]
+恋爱小行星 | 恋する小惑星 | Koisuru Asteroid | 12集<sup>α</sup> / [BD][200104]
 pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 猫娘乐园 | ネコぱら | Nekopara | 12集 / BD
 虚构推理 | 虚構推理 | Kyokou Suiri | 12+SP / [BD][200107]
-22/7 | 22/7 | Nanabun no Nijuuni | 12集<sup>α</sup> / [Web][200108]
+22/7 | 22/7 | Nanabun no Nijuuni | 12集<sup>α</sup> / [BD][200108]
 奇幻☆怪盗 | はてな☆イリュージョン | Hatena☆Illusion | 12集 / Web
 异兽魔都 | ドロヘドロ | Dorohedoro | 12集<sup>β</sup> / [BD][200110]
 索玛丽与森林之神 | ソマリと森の神様 | Somali to Mori no Kamisama | 12集<sup>β</sup> / [Web][200111]
@@ -484,7 +484,7 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
 剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [Web][mov032]
-灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | BD
+灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi
 
@@ -520,6 +520,7 @@ Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fi
 [mov030]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Haifuri
 [mov031]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Wonderland
 [mov032]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shirobako
+[mov033]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Grisaia-pt
 
 ## <span id="ova"> OVA / ONA</span></span>
 
