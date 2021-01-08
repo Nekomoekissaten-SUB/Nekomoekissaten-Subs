@@ -38,17 +38,17 @@
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-演剧偶像 | ゲキドル | Gekidol | <sup>α</sup> / Web
-赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | <sup>α</sup>
+演剧偶像 | ゲキドル | Gekidol | 12集+OVA<sup>α</sup> / Web
+赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | 13集<sup>α</sup>
 BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | Web
-轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | Web
-约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | Web
-五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | Web
-弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | Web
-BACK ARROW | バック・アロウ | Back Arrow | Web
+轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | 12集 / Web
+约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | 11集 / Web
+五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | 12集 / Web
+弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集 / Web
+BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
 只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | Web
-工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | Web
-工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | Web
+工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集 / Web
+工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集 / Web
 怪物事变 | 怪物事变 | Kemono Jihen | Web
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | <sup>α</sup> / Web
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | Web
@@ -471,7 +471,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 黑狐 | BLACKFOX | BLACKFOX | [Web][mov017]<sup>β</sup>
 普罗米亚 | プロメア | PROMARE | [BD][mov018]
 薄暮 | 薄暮 | Hakubo / Twilight | [BD][mov019]<sup>α</sup>
-剧场版 歌之王子殿下 真爱王国 | 劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム | Uta no☆Prince-sama♪ Maji Love Kingdom Movie | [BD][mov020]<sup>β</sup>
+剧场版 歌之王子殿下 真爱王国 | 劇場版 うたの☆プリンスさまっ♪ マジLOVEキングダム | Uta no☆Prince-sama♪ Maji Love Kingdom Movie | [BD][mov020]<sup>α</sup>
 我们的7日战争 | ぼくらの7日間戦争 | Bokura no Nanokakan Sensou | [BD][mov021]
 你好 世界 | HELLO WORLD | HELLO WORLD | [BD][mov022]<sup>α</sup>
 潘多拉和小阿欠 | パンドラとアクビ | Pandora to Akubi | [BD][mov023]
@@ -483,7 +483,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
-剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [Web][mov032]
+剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]
 灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi
