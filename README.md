@@ -204,7 +204,7 @@ Null & Peta | ぬるぺた | Null & Peta | 12+OVA / [BD][191003]
 拳愿阿修罗 第二季 | ケンガンアシュラ 2nd Season | Kengan Ashura 2nd Season | 12集<sup>α</sup> / [Web][191006]
 我不是说了能力要平均值吗 | 私、能力は平均値でって言ったよね! | Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! / Noukin | 12集<sup>β</sup> / [BD][191007]
 非枪人生 | ノー・ガンズ・ライフ | No Guns Life | 12集<sup>β</sup> / [Web][191008]
-Fairy gone 第二季 | Fairy gone フェアリーゴーン 第2期 | Fairy gone 2nd Season / Fairy gone Season 1 Part 2 | 12集<sup>α</sup> / [Web][191009]
+Fairy gone 第二季 | Fairy gone フェアリーゴーン 第2期 | Fairy gone 2nd Season / Fairy gone Season 1 Part 2 | 12集<sup>α</sup> / [BD][191009]
 XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 高分少女 II | ハイスコアガール II | Hi Score Girl 2 | 3OVA+9<sup>β</sup> / BD
 我们真的学不来! / 我们无法一起学习! | ぼくたちは勉強ができない! | Bokutachi wa Benkyou ga Dekinai! | 13集<sup>β</sup> / 字幕
@@ -220,7 +220,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 [191006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura-2nd-Season
 [191007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Noukin
 [191008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/No-Guns-Life
-[191009]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone-S2
+[191009]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone
 [191010]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/XL-Joushi
 [191013]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Honzuki_no_Gekokujou
 [191014]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Azur_Lane
@@ -256,7 +256,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
 川柳少女 | 川柳少女 | Senryuu Shoujo / Senryu Girl | 12集<sup>α</sup> / [BD][190401]
 CAROLE & TUESDAY | キャロル&チューズデイ | CAROLE & TUESDAY | 24集<sup>α</sup> / [BD][190402]
 我们真的学不来 / 我们无法一起学习 | ぼくたちは勉強ができない | Bokutachi wa Benkyou ga Dekinai | 13集<sup>β</sup> / [Web][190403]
-Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</sup> / [Web][190404]
+Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</sup> / [BD][190404]
 清洗服务! 我和她在女子浴池!? | 洗い屋さん! ～俺とアイツが女湯で!?～ | Araiya-san! Ore to Aitsu ga Onnayu de! | 8集 / [TV][190405]
 裤袜视界 / 赏袜 | みるタイツ | Miru Tights | 13集 / [BD][190406]
 水果篮子 | フルーツバスケット | Fruits Basket (2019) | 25集<sup>β</sup> / [BD][190407]
