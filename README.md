@@ -46,18 +46,18 @@ BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | Web
 五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | 12集 / Web
 弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集 / Web
 BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
-只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | Web
+只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | 12集 / Web
 工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集 / Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集 / Web
-怪物事变 | 怪物事变 | Kemono Jihen | Web
-IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | <sup>α</sup> / Web
-无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | Web
-悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | <sup>α</sup> / Web
-碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | Web
-Wonder egg-priority | ワンダーエッグ・プライオリティ | Wonder egg-priority | Web
-记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集 / Web
+怪物事变 | 怪物事变 | Kemono Jihen | 12集 / Web
+IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / Web
+无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 12集<sup>α</sup> / Web
+悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / Web
+碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / Web
+Wonder egg-priority | ワンダーエッグ・プライオリティ | Wonder egg-priority | 12集 / Web
+记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
-天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | Web
+天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集 / Web
 
 ## <span id="2010"> 2020年10月</span>
 
@@ -83,9 +83,9 @@ One Room 3 | One Room 3 | One Room 3 | 12集 / Web
 安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / Web
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / Web
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / Web
-前说！| まえせつ！ | Maesetsu! | Web
+前说！| まえせつ！ | Maesetsu! | 12集 / Web
 体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [Web][201022]
-D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | <sup>α</sup> / Web
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 12集<sup>α</sup> / Web
 
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
 [201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
@@ -179,7 +179,7 @@ pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 异兽魔都 | ドロヘドロ | Dorohedoro | 12集<sup>β</sup> / [BD][200110]
 索玛丽与森林之神 | ソマリと森の神様 | Somali to Mori no Kamisama | 12集<sup>β</sup> / [Web][200111]
 Rebirth | Rebirth | Rebirth | 50+集 / Web
-试证明理科生已坠入情网。 | 理系が恋に落ちたので証明してみた。 | Rikei ga Koi ni Ochita no de Shoumei shitemita. | 12集<sup>β</sup> / BD
+试证明理科生已坠入情网。 | 理系が恋に落ちたので証明してみた。 | Rikei ga Koi ni Ochita no de Shoumei shitemita. | 12集<sup>β</sup> / [BD][200113]
 
 [200101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Eizouken_ni_wa_Te_wo_Dasu_na!
 [200102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte
@@ -190,6 +190,7 @@ Rebirth | Rebirth | Rebirth | 50+集 / Web
 [200108]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/227anime
 [200110]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dorohedoro
 [200111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Somali-anime
+[200113]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Rikekoi
 
 ### <span id="1910"> 2019年10月</span></span>
 
