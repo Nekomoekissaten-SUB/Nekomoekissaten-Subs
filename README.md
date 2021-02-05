@@ -140,7 +140,7 @@ LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / [BD][200405]
 小书痴的下克上 第二季<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部 | Honzuki no Gekokujou S2 | 12集<sup>β</sup> / Web
 继 怪怪守护神 | 継つぐもも | Tsugu Tsugumomo | 12集 / [Web][200409]
 格莱普尼尔 | グレイプニル | Gleipnir | 13集<sup>β</sup> / [Web][200410]
-白猫计划 零之纪元 / 白貓Project ZERO CHRONICLE | 白猫プロジェクト ZERO CHRONICLE | Shironeko Project: Zero Chronicle | 12集<sup>β</sup> / [Web][200411]
+白猫计划 零之纪元 / 白貓Project ZERO CHRONICLE | 白猫プロジェクト ZERO CHRONICLE | Shironeko Project: Zero Chronicle | 12集<sup>β</sup> / [BD][200411]
 A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | 12集<sup>α</sup> / [Web][200412]
 公主连结 Re:Dive | プリンセスコネクト！Re:Dive | Princess Connect! Re:Dive | 13集 / [Web][200413]
 水果篮子 第二季 | フルーツバスケット 2nd season | Fruits Basket 2nd season | 25集<sup>β</sup> / [Web][200414]
