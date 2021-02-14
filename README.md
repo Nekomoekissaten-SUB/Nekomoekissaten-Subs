@@ -38,7 +38,7 @@
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-演剧偶像 | ゲキドル | Gekidol | 12集+OVA<sup>α</sup> / Web
+演剧偶像 | ゲキドル | Gekidol | 12集+OVA<sup>α</sup> / BD
 赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | 13集<sup>α</sup>
 BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | Web
 轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | 12集 / Web
@@ -54,7 +54,7 @@ IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / Web
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 12集<sup>α</sup> / Web
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / Web
 碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / Web
-Wonder egg-priority | ワンダーエッグ・プライオリティ | Wonder egg-priority | 12集 / Web
+奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集 / Web
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集 / Web
@@ -72,7 +72,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12集<sup>α</sup> / [Web][201007]
 魔女之旅 | 魔女の旅々 | Majo no Tabitabi | 12集<sup>β</sup> / [Web][201008]
 我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集<sup>β</sup> / Web
-总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / Web
+总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / [Web][201010]
 养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集<sup>β</sup> / [Web][201011]
 半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [Web][201012]
 战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | 12集 / [Web][201013]
@@ -90,6 +90,7 @@ D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 12集<sup>α</sup> / Web
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
 [201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
 [201008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Majotabi
+[201010]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tonikaku_Kawaii
 [201011]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Inu_to_Neko
 [201012]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hanyo-yashahime
 [201013]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sigururi
