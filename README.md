@@ -34,7 +34,7 @@
 
 ## <span id="tva"> TV动画</span>
 
-## <span id="2101"> 2021年01月</span>
+### <span id="2101"> 2021年01月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
@@ -59,7 +59,7 @@ IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集 / Web
 
-## <span id="2010"> 2020年10月</span>
+### <span id="2010"> 2020年10月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
@@ -130,7 +130,6 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 [200712]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Appare-Ranman
 
 ### <span id="2004"> 2020年4月</span>
-
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=400/>
 --- | --- | --------- | :-:
@@ -485,7 +484,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 哥布林杀手 - 哥布林的王冠 | ゴブリンスレイヤー -GOBLIN’S CROWN- | Goblin Slayer: Goblin’s Crown | [BD][mov026]<sup>α</sup>
 为谁而炼金 | 劇場版 誰ガ為のアルケミスト | Ta ga Tame no Alchemist | [BD][mov027]
 鸣鸟不飞 乌云密布 | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The clouds gather | [BD][mov028]<sup>α</sup>
-BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [Web][mov029]
+BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [BD][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
 剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]
