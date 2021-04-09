@@ -100,7 +100,7 @@ Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12
 战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | 12集 / [Web][201013]
 魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集<sup>β</sup> / Web
 这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [BD][201015]
-One Room 3 | One Room 3 | One Room 3 | 12集 / Web
+One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
 池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | 12集 / [Web][201017]
 安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / [Web][201018]
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / [Web][201019]
@@ -117,6 +117,7 @@ D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 12集<sup>α</sup> / Web
 [201012]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hanyo-yashahime
 [201013]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sigururi
 [201015]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kimisen
+[201016]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/One_Room
 [201017]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/IWGP
 [201018]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Adashima
 [201019]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Gochiusa_BLOOM
