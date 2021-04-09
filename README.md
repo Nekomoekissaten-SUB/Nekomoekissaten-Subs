@@ -1,6 +1,7 @@
 ![](没有奶茶.jpg)
 
 # 目录
+- [注意事项](#notice)
 - [番剧索引](#title)
 	- [TV动画](#tva)
 		-  2021年 : 10月🍂 - 7月☀️ - 4月🌸 - [1月](#2101)❄️
@@ -15,57 +16,78 @@
 		- [原创类 OVA / ONA](#ova-o)
 	- [非动画类](#other)
 
+# <span id="notice"> 注意事项</span>
+
+1. 与其他字幕组合作的作品会在中文名后使用 <sup>*</sup> 标注。在此对合作字幕组表示感谢。
+2. 本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。单日文字幕的来源一般是各种官方日文字幕。
+3. 未打包的字幕可以使用[DownGit](https://downgit.github.io/)等打包下载。
+4. 本组制作的字幕以[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)为基础进行授权：
+	- 可以自由转载，但转载字幕时不得修改原始字幕内容及需要注明来源，联合发布需要征求本组同意；
+	- 发布修改版字幕（包括但不限于时间轴调整、译法调整）一定要注明来源和附带原始字幕；
+		- 如果发现错字、错译、错轴等推荐通过GitHub等方式反馈；
+	- 禁止用于商业目的；
+	- 发布同为文本字幕的修改版字幕演绎遵循上述第二点；
+	- 禁止发布一切未经同意的不可逆的文本转图像修改版字幕（包括但不限于外挂结构、加流重灌）；
+	- 本组所有字幕（除直接转载的官方日文字幕）无特殊声明外均遵循上述协议进行许可，如有疑问请联系本组。
+
 # <span id="title"> 番剧索引</span>
 
-注1：与其他字幕组合作的作品会在中文名后使用 <sup>*</sup> 标注。在此对合作字幕组表示感谢。
-
-注2：本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。单日文字幕的来源一般是各种官方日文字幕。
-
-注3：未打包的字幕可以使用[DownGit](https://downgit.github.io/)等打包下载。
-
-注4：本组制作的字幕以[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)为基础进行授权：
-- 可以自由转载，但转载字幕时不得修改原始字幕内容及需要注明来源，联合发布需要征求本组同意；
-- 发布修改版字幕（包括但不限于时间轴调整、译法调整）一定要注明来源和附带原始字幕；
-	- 如果发现错字、错译、错轴等推荐通过GitHub等方式反馈；
-- 禁止用于商业目的；
-- 发布同为文本字幕的修改版字幕演绎遵循上述第二点；
-- 禁止发布一切未经同意的不可逆的文本转图像修改版字幕（包括但不限于外挂结构、加流重灌）；
-- 本组所有字幕（除直接转载的官方日文字幕）无特殊声明外均遵循上述协议进行许可，如有疑问请联系本组。
-
 ## <span id="tva"> TV动画</span>
+
+### <span id="2101"> 2021年04月</span>
+
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+--- | --- | --------- | :-:
+水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集
+烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
+Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集
+刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 12集
+圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集
+本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
+异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
+持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
+86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six-
+大运动会 ReSTART! | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART!
+青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy
+EDEN | エデン | EDEN | 4集
+佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge
 
 ### <span id="2101"> 2021年01月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-演剧偶像 | ゲキドル | Gekidol | 12集+OVA<sup>α</sup> / BD
-赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | 13集<sup>α</sup>
-BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | Web
+演剧偶像 | ゲキドル | Gekidol | 12集+OVA<sup>α</sup> / [BD][210101]
+BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | 12集<sup>β</sup> / [Web][210102]
 轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | 12集 / Web
-约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | 11集 / Web
-五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | 12集 / Web
-弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集 / Web
+约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | 11集<sup>β</sup> / BD
+五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | 12集<sup>β</sup> / Web
+弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集<sup>β</sup> / Web
 BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
-只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | 12集 / Web
-工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集 / Web
-工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集 / Web
-怪物事变 | 怪物事变 | Kemono Jihen | 12集 / Web
+只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | 12集<sup>β</sup> / Web
+工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集<sup>β</sup> / Web
+工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集<sup>β</sup> / Web
+怪物事变 | 怪物事变 | Kemono Jihen | 12集<sup>β</sup> / [Web][210111]
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / Web
-无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 12集<sup>α</sup> / Web
+无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / Web
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / Web
 碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / Web
-奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集 / Web
+奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集+SP / BD
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
-天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集 / Web
+天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集<sup>β</sup> / Web
+赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | 13集<sup>α</sup> / BD
+
+[210101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gekidol
+[210102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
+[210111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kemono_Jihen
 
 ### <span id="2010"> 2020年10月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | 12集 / Web
-铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | 12集 / Web
-在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集<sup>β</sup> / Web
+铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | 12集 / BD
+在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集<sup>β</sup> / BD
 满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / Web
 第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | 12集 / Web
 无能的奈奈 | 無能なナナ | Munou na Nana | 13集<sup>α</sup> / [Web][201006]
@@ -77,7 +99,7 @@ Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12
 半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [Web][201012]
 战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | 12集 / [Web][201013]
 魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集<sup>β</sup> / Web
-这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [Web][201015]
+这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [BD][201015]
 One Room 3 | One Room 3 | One Room 3 | 12集 / Web
 池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | 12集 / [Web][201017]
 安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / [Web][201018]
@@ -337,7 +359,7 @@ Angolmois～元寇合战记～ | アンゴルモア 元寇合戦記 | Angolmois 
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=200/>
 --- | --- | --------- | :-:
-甜心战士 Universe | Cutie Honey Universe | Cutie Honey Universe | 12集 / [Web][180401]
+甜心战士 Universe | Cutie Honey Universe | Cutie Honey Universe | 12集 / [BD][180401]
 魔法少女网站 | 魔法少女サイト | Mahou Shoujo Site | 12集 / [Web][180402TV]<br>12集 / [BD][180402BD]
 乳龙帝 / 恶魔高校D×D HERO | ハイスクールDxD HERO | High School DxD Hero | 12集 / [Web][180403]
 Comic Girls<sup>*</sup> | こみっくがーるず | Comic Girls | 12集 / [BD][180404]
@@ -346,7 +368,7 @@ Comic Girls<sup>*</sup> | こみっくがーるず | Comic Girls | 12集 / [BD][
 宅男腐女恋爱真难 / 阿宅的戀愛太難 | ヲタクに恋は難しい | Wotaku ni Koi wa Muzukashii | 11集<sup>β</sup> / 填坑中
 赛马娘 Pretty Derby | ウマ娘 プリティーダービー | Uma Musume Pretty Derby | 13+3OVA<sup>α</sup> / BD
 
-[180401]: https://github.com/Nekomoekissaten-SUB/Cutie-Honey-Universe
+[180401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Cutie_Honey_Universe
 [180402TV]: https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site
 [180402BD]: https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site-BD
 [180403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/High-School-DxD-Hero
@@ -487,10 +509,12 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [BD][mov029]
 剧场版 高校舰队 | 劇場版 ハイスクール・フリート | High School Fleet Movie | [BD][mov030]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
-剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]
+剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]<sup>α</sup>
 灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD
-Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi
+少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
+寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
+Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
 
 [mov001]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
 [mov002]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
@@ -540,7 +564,7 @@ Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fi
 巧克力与香子兰 OVA | ネコぱらOVA | NEKOPARA OVA | [OVA](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/NEKOPARA-OVA)
 出包王女 / 天才摔跤手梨斗 OAD 10 | To LOVEる-とらぶる-ダークネス OAD 10 | To Love-Ru Trouble-Darkness OAD 10 | [OAD](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/To_Love-Ru_Trouble_Darkness_OVA)
 政宗君的复仇 OAD | 政宗くんのリベンジ OAD | Masamune-kun no Revenge OAD | OAD
-刀使巫女 刻印一闪的灯火 OVA | 刀使ノ巫女 刻みし一閃の燈火 OVA | Toji no Miko: Kizamishi Issen no Tomoshibi OVA | OVA / [Web](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tojitomo)<sup>α</sup>
+刀使巫女 刻印一闪的灯火 OVA | 刀使ノ巫女 刻みし一閃の燈火 OVA | Toji no Miko: Kizamishi Issen no Tomoshibi OVA | OVA / [BD](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tojitomo)<sup>α</sup>
 
 ### <span id="ova-o">原创类 OVA / ONA</span></span>
 
