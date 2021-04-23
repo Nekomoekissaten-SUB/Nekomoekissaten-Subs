@@ -39,18 +39,18 @@
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集
-烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
 Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集
 刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 12集
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
-异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
-持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
-86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six-
-大运动会 ReSTART! | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART!
-青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy
+异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 12集
+持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集
+86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集
+大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART!
+烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
+青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集
 EDEN | エデン | EDEN | 4集
-佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge
+佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup>
 
 ### <span id="2101"> 2021年01月</span>
 
@@ -70,7 +70,7 @@ BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / Web
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / Web
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / Web
-碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / Web
+碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [Web][210115]
 奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集+SP / BD
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
@@ -80,6 +80,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 [210101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gekidol
 [210102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
 [210111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kemono_Jihen
+[210115]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Azur_Lane_Bisoku_Zenshin!
 
 ### <span id="2010"> 2020年10月</span>
 
@@ -199,7 +200,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 恋爱小行星 | 恋する小惑星 | Koisuru Asteroid | 12集<sup>α</sup> / [BD][200104]
 pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 猫娘乐园 | ネコぱら | Nekopara | 12集 / BD
-虚构推理 | 虚構推理 | Kyokou Suiri | 12+SP / [BD][200107]
+虚构推理 | 虚構推理 | Kyokou Suiri | 12<sup>β</sup>+SP / [BD][200107]
 22/7 | 22/7 | Nanabun no Nijuuni | 12集<sup>α</sup> / [BD][200108]
 奇幻☆怪盗 | はてな☆イリュージョン | Hatena☆Illusion | 12集 / Web
 异兽魔都 | ドロヘドロ | Dorohedoro | 12集<sup>β</sup> / [BD][200110]
@@ -325,7 +326,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 终将成为你/終將成為妳<sup>*</sup> | やがて君になる | Yagate Kimi ni Naru | 13集 / [BD][181001]
-青春笨蛋少年不做兔女郎学姐的梦 | 青春ブタ野郎はバニーガール先輩の夢を見ない | Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai | 13集 / [BD][181002]
+青春笨蛋少年不做兔女郎学姐的梦 | 青春ブタ野郎はバニーガール先輩の夢を見ない | Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai | 13集<sup>β</sup> / [BD][181002]
 来自缤纷世界的明日 / 来自多彩世界的明天 | 色づく世界の明日から | Irozuku Sekai no Ashita kara | 13集<sup>α</sup> / [BD][181003]
 月影特工 / 月影少女 | Release the Spyce | Release the Spyce | 12集 / [BD][181004]
 哥布林杀手 | ゴブリンスレイヤー | Goblin Slayer | 12<sup>β</sup>+SP / [BD][181005]
@@ -512,7 +513,7 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [BD][mov029]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
 剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]<sup>α</sup>
 灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
-荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD
+荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD<sup>α</sup>
 少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
 寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
