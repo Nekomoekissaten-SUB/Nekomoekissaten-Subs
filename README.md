@@ -38,18 +38,18 @@
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集
-Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集
-刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 12集
-圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集
+水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集<sup>β</sup>
+Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / Web
+刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 12集<sup>β</sup> / Web
+圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / Web
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
-异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 12集
-持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集
-86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集
-大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART!
+异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 12集<sup>β</sup>
+持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / Web
+86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集<sup>β</sup>
+大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART! | 12集<sup>β</sup> / Web
 烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
-青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集
-EDEN | エデン | EDEN | 4集
+青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集 / Web
+EDEN | エデン | EDEN | 4集<sup>β</sup> / Web
 佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup>
 
 ### <span id="2101"> 2021年01月</span>
@@ -89,12 +89,12 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | 12集 / Web
 铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | 12集 / BD
 在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集<sup>β</sup> / BD
-满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / Web
+满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / 坑？
 第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | 12集 / Web
 无能的奈奈 | 無能なナナ | Munou na Nana | 13集<sup>α</sup> / [Web][201006]
 Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12集<sup>α</sup> / [Web][201007]
 魔女之旅 | 魔女の旅々 | Majo no Tabitabi | 12集<sup>β</sup> / [BD][201008]
-我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集<sup>β</sup> / Web
+我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集<sup>β</sup> / 坑
 总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / [Web][201010]
 养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集<sup>β</sup> / [Web][201011]
 半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [Web][201012]
@@ -106,9 +106,9 @@ One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
 安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / [Web][201018]
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / [Web][201019]
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / [Web][201020]
-前说！| まえせつ！ | Maesetsu! | 12集 / Web
-体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [Web][201022]
-D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 12集<sup>α</sup> / Web
+前说！| まえせつ！ | Maesetsu! | 12集<sup>β</sup> / Web
+体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [BD][201022]
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 12集<sup>α</sup> / [Web][201023]
 
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
 [201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
@@ -124,6 +124,7 @@ D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 12集<sup>α</sup> / Web
 [201019]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Gochiusa_BLOOM
 [201020]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kamisama-day
 [201022]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Taiso_Samurai
+[201023]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/D4DJ
 
 ### <span id="2007"> 2020年7月</span>
 
@@ -366,7 +367,7 @@ Angolmois～元寇合战记～ | アンゴルモア 元寇合戦記 | Angolmois 
 乳龙帝 / 恶魔高校D×D HERO | ハイスクールDxD HERO | High School DxD Hero | 12集 / [Web][180403]
 Comic Girls<sup>*</sup> | こみっくがーるず | Comic Girls | 12集 / [BD][180404]
 命运石之门0 | シュタインズ・ゲート ゼロ | Steins;Gate 0 | 24集<sup>β</sup> / [Web][180405]
-魔法少女 俺 | 魔法少女俺 | Mahou Shoujo Ore | 10集 / 坑？
+魔法少女 俺 | 魔法少女俺 | Mahou Shoujo Ore | 10集 / 坑
 宅男腐女恋爱真难 / 阿宅的戀愛太難 | ヲタクに恋は難しい | Wotaku ni Koi wa Muzukashii | 11集<sup>β</sup> / 填坑中
 赛马娘 Pretty Derby | ウマ娘 プリティーダービー | Uma Musume Pretty Derby | 13+3OVA<sup>α</sup> / BD
 
@@ -465,7 +466,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=50/>
 --- | --- | --------- | :-:
 偶像事变 | アイドル事変 | Idol Jihen | 12集
-六心公主 | シックスハートプリンセス | 6 Heart Princess / 6HP | 坑？
+六心公主 | シックスハートプリンセス | 6 Heart Princess / 6HP | 坑
 
 ### <span id="old"> 旧番</span>
 
@@ -513,9 +514,10 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [BD][mov029]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
 剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]<sup>α</sup>
 灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
+寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
+音乐 | 音楽 | ON-GAKU: Our Sound / Ongaku | BD
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD<sup>α</sup>
 少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
-寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
 
 [mov001]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
