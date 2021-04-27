@@ -4,7 +4,7 @@
 - [注意事项](#notice)
 - [番剧索引](#title)
 	- [TV动画](#tva)
-		-  2021年 : 10月🍂 - 7月☀️ - 4月🌸 - [1月](#2101)❄️
+		-  2021年 : 10月🍂 - 7月☀️ - [4月](#2104)🌸 - [1月](#2101)❄️
 		-  2020年 : [10月](#2010)🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
@@ -34,7 +34,7 @@
 
 ## <span id="tva"> TV动画</span>
 
-### <span id="2101"> 2021年04月</span>
+### <span id="2104"> 2021年04月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
@@ -108,7 +108,7 @@ One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / [Web][201020]
 前说！| まえせつ！ | Maesetsu! | 12集 / Web
 体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [Web][201022]
-D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 12集<sup>α</sup> / Web
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / Web
 
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
 [201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
