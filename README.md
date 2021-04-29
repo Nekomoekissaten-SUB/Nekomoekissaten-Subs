@@ -92,7 +92,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / 坑？
 第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | 12集 / Web
 无能的奈奈 | 無能なナナ | Munou na Nana | 13集<sup>α</sup> / [Web][201006]
-Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12集<sup>α</sup> / [Web][201007]
+Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12集<sup>α</sup> / [BD][201007]
 魔女之旅 | 魔女の旅々 | Majo no Tabitabi | 12集<sup>β</sup> / [BD][201008]
 我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集<sup>β</sup> / 坑
 总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / [Web][201010]
@@ -106,7 +106,6 @@ One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
 安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / [Web][201018]
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / [Web][201019]
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / [Web][201020]
-
 前说！| まえせつ！ | Maesetsu! | 12集 / Web
 体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [Web][201022]
 D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / Web
