@@ -108,7 +108,7 @@ One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / [Web][201020]
 前说！| まえせつ！ | Maesetsu! | 12集 / Web
 体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [Web][201022]
-D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / Web
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / [Web][201023]
 
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
 [201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
