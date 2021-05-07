@@ -69,7 +69,7 @@ BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
 怪物事变 | 怪物事变 | Kemono Jihen | 12集<sup>β</sup> / [Web][210111]
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / Web
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / Web
-悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / Web
+悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / [Web][210114]
 碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [Web][210115]
 奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集+SP / BD
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
@@ -80,6 +80,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 [210101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gekidol
 [210102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
 [210111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kemono_Jihen
+[210114]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Nonnon
 [210115]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Azur_Lane_Bisoku_Zenshin!
 
 ### <span id="2010"> 2020年10月</span>
@@ -170,7 +171,7 @@ LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / [BD][200405]
 格莱普尼尔 | グレイプニル | Gleipnir | 13集<sup>β</sup> / [Web][200410]
 白猫计划 零之纪元 / 白貓Project ZERO CHRONICLE | 白猫プロジェクト ZERO CHRONICLE | Shironeko Project: Zero Chronicle | 12集<sup>β</sup> / [BD][200411]
 A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | 12集<sup>α</sup> / [Web][200412]
-公主连结 Re:Dive | プリンセスコネクト！Re:Dive | Princess Connect! Re:Dive | 13集 / [Web][200413]
+公主连结 Re:Dive | プリンセスコネクト！Re:Dive | Princess Connect! Re:Dive | 13集 / [BD][200413]
 水果篮子 第二季 | フルーツバスケット 2nd season | Fruits Basket 2nd season | 25集<sup>β</sup> / [Web][200414]
 座敷童子榻榻米酱 | ざしきわらしのタタミちゃん | Zashiki Warashi no Tatami-chan | 12集 / [Web][200415]
 男人邦 / 邦男人 | アルゴナビス from BanG Dream! | ARGONAVIS from BanG Dream! | 13集<sup>α</sup> / [Web][200416]
@@ -186,7 +187,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 [200410]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gleipnir
 [200411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/shironekoproject
 [200412]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/A3
-[200413]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/PCR
+[200413]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/PCR
 [200414]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
 [200415]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/tatamichan
 [200416]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/argo-bdp
