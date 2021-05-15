@@ -142,7 +142,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / [Web][200709]
 租借女友 | 彼女、お借りします | Kanojo, Okarishimasu | 12集<sup>β</sup> / [Web][200710]
 彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 12集 / BD
-天晴烂漫！ | 天晴爛漫！ | Appare-Ranman! | 13集<sup>α</sup> / [Web][200712]
+天晴烂漫！ | 天晴爛漫！ | Appare-Ranman! | 13集<sup>α</sup> / [BD][200712]
 
 [200701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights
 [200702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/DECA-DENCE
