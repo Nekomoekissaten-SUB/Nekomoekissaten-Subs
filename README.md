@@ -67,7 +67,7 @@ BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
 工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集<sup>β</sup> / Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集<sup>β</sup> / Web
 怪物事变 | 怪物事变 | Kemono Jihen | 12集<sup>β</sup> / [Web][210111]
-IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / Web
+IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [Web][210112]
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / Web
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / [Web][210114]
 碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [Web][210115]
@@ -80,6 +80,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 [210101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gekidol
 [210102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
 [210111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kemono_Jihen
+[210112]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/IDOLY_PRIDE
 [210114]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Nonnon
 [210115]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Azur_Lane_Bisoku_Zenshin!
 
