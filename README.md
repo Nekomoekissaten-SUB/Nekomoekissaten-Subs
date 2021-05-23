@@ -19,7 +19,8 @@
 # <span id="notice"> 注意事项</span>
 
 1. 与其他字幕组合作的作品会在中文名后使用 <sup>*</sup> 标注。在此对合作字幕组表示感谢。
-2. 本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。单日文字幕的来源一般是各种官方日文字幕。
+2. 本组字幕一般为简繁中文字幕，除此外，中日双语字幕使用 <sup>α</sup> 标注，包含单日文字幕的使用 <sup>β</sup> 标注。
+	- 单日文字幕的来源一般是放送或配信的日文文本字幕，未做其他源的调轴适配且不保证其日文内容、字幕样式的准确性。
 3. 未打包的字幕可以使用[DownGit](https://downgit.github.io/)等打包下载。
 4. 本组制作的字幕以[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)为基础进行授权：
 	- 可以自由转载，但转载字幕时不得修改原始字幕内容及需要注明来源，联合发布需要征求本组同意；
@@ -50,7 +51,7 @@ Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / Web
 烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
 青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集 / Web
 EDEN | エデン | EDEN | 4集<sup>β</sup> / Web
-佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup>
+佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup> / BD
 
 ### <span id="2101"> 2021年01月</span>
 
@@ -75,7 +76,6 @@ IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [Web][210112]
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集<sup>β</sup> / Web
-赛马娘 Pretty Derby 第二季 | ウマ娘 プリティーダービー S2 | Uma Musume Pretty Derby S2 | 13集<sup>α</sup> / BD
 
 [210101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gekidol
 [210102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
@@ -475,9 +475,10 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=100/>
 --- | --- | --------- | :-:
 小魔女Doremi | おジャ魔女どれみ | Ojamajo Doremi | 51集 / [BD][old1]
-电脑线圈 | 電脳コイル | Dennou Coil | 26集 / BD
+电脑线圈 | 電脳コイル | Dennou Coil | 26集<sup>β</sup> / [BD][old2]
 
 [old1]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Doremi
+[old2]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dennou_Coil
 
 ## <span id="mov"> 剧场版</span></span>
 
