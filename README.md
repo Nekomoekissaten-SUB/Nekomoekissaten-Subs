@@ -41,16 +41,16 @@
 --- | --- | --------- | :-:
 水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集<sup>β</sup>
 Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / Web
-刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 12集<sup>β</sup> / Web
+刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / Web
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / Web
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
 异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 12集<sup>β</sup>
 持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / Web
 86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集<sup>β</sup>
 大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART! | 12集<sup>β</sup> / Web
-烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
 青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集 / Web
-EDEN | エデン | EDEN | 4集<sup>β</sup> / Web
+EDEN | エデン | EDEN | 4集<sup>α</sup> / Web
+烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
 佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup> / BD
 
 ### <span id="2101"> 2021年01月</span>
@@ -62,14 +62,14 @@ BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | 12集<sup>β</sup> / [Web][
 轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | 12集 / Web
 约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | 11集<sup>β</sup> / BD
 五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | 12集<sup>β</sup> / Web
-弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集<sup>β</sup> / Web
+弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集<sup>β</sup> / BD
 BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
-只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | 12集<sup>β</sup> / Web
+只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | 12集<sup>β</sup> / BD
 工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集<sup>β</sup> / Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集<sup>β</sup> / Web
 怪物事变 | 怪物事变 | Kemono Jihen | 12集<sup>β</sup> / [Web][210111]
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [Web][210112]
-无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / Web
+无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / BD
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / [Web][210114]
 碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [Web][210115]
 奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集+SP / BD
@@ -90,7 +90,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 --- | --- | --------- | :-:
 熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | 12集 / Web
 铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | 12集 / BD
-在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集<sup>β</sup> / BD
+在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集<sup>β</sup> / [BD][201003]
 满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / 坑？
 第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | 12集 / Web
 无能的奈奈 | 無能なナナ | Munou na Nana | 13集<sup>α</sup> / [Web][201006]
@@ -104,14 +104,15 @@ Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12
 魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集<sup>β</sup> / Web
 这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [BD][201015]
 One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
-池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | 12集 / [Web][201017]
+池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | 12集<sup>β</sup> / [Web][201017]
 安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / [Web][201018]
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / [Web][201019]
 成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / [Web][201020]
 前说！| まえせつ！ | Maesetsu! | 12集 / Web
-体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [Web][201022]
+体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [BD][201022]
 D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / [Web][201023]
 
+[201003]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Maoujou
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
 [201007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Assault_Lily
 [201008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Majotabi
