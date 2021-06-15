@@ -438,7 +438,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 带着智能手机闯荡异世界 | 異世界はスマートフォンとともに。 | Isekai wa Smartphone to Tomo ni. | 12集<sup>β</sup> / [BD][170701]
 徒然喜欢你 | 徒然チルドレン | Tsurezure Children | 12集 / [BD][170702]
 来自深渊 | メイドインアビス | Made in Abyss | 13集<sup>β</sup> / [Web][170703]
-洁癖男子！青山君 | 潔癖男子！青山くん | Keppeki Danshi! Aoyama-kun | 12集 / [Web][170704]
+洁癖男子！青山君 | 潔癖男子！青山くん | Keppeki Danshi! Aoyama-kun | 12集 / [BD][170704]
 战斗女子高校 | バトルガール ハイスクール | Battle Girl High School | 12集 / [BD][170705]
 裙子里面是野兽。 | スカートの中はケダモノでした。 | Skirt no Naka wa Kedamono Deshita. | 13集 / [Web][170706]
 捏造陷阱 -NTR-<sup>*</sup> | 捏造トラップ -NTR- | Netsuzou Trap NTR | 12集<sup>α</sup> / [Web][170707]
@@ -518,9 +518,9 @@ BURN THE WITCH | BURN THE WITCH | BURN THE WITCH | [BD][mov029]
 Birthday Wonderland | バースデー・ワンダーランド | The Wonderland | [BD][mov031]<sup>β</sup>
 剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]<sup>α</sup>
 灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
+荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | [BD][mov034]<sup>α</sup>
 寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 音乐 | 音楽 | ON-GAKU: Our Sound / Ongaku | BD
-荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | BD<sup>α</sup>
 少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
 
@@ -557,6 +557,7 @@ Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fi
 [mov031]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Wonderland
 [mov032]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shirobako
 [mov033]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Grisaia-pt
+[mov034]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kotobuki
 
 ## <span id="ova"> OVA / ONA</span></span>
 
