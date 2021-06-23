@@ -4,7 +4,7 @@
 - [注意事项](#notice)
 - [番剧索引](#title)
 	- [TV动画](#tva)
-		-  2021年 : 10月🍂 - 7月☀️ - [4月](#2104)🌸 - [1月](#2101)❄️
+		-  2021年 : 10月🍂 - [7月](#2107)☀️ - [4月](#2104)🌸 - [1月](#2101)❄️
 		-  2020年 : [10月](#2010)🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
@@ -35,6 +35,23 @@
 
 ## <span id="tva"> TV动画</span>
 
+### <span id="2107"> 2021年07月</span>
+
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+--- | --- | --------- | :-:
+Sonny Boy | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / Web
+桃子男孩渡海而来 | ピーチボーイリバーサイド | Peach Boy Riverside |
+转生成为了只有乙女游戏破灭Flag的邪恶大小姐…X | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…X / hamehura X / hamefura X | 12集<sup>α</sup> / Web
+叫我对大哥 | 俺、つしま | Ore, Tsushima | 12集<sup>β</sup> / Web
+女友成堆 | カノジョも彼女 | Kanojo mo Kanojo |
+现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki |
+侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. |
+死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid |
+? | 白い砂のアクアトープ | Shiroi Suna no Aquatope |
+转生到异世界也要996 | 迷宮ブラックカンパニー | Meikyuu Black Company |
+迦希女王不会放弃 | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! |
+Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
+
 ### <span id="2104"> 2021年04月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
@@ -44,14 +61,16 @@ Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / Web
 刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / Web
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / Web
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
-异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 12集<sup>β</sup>
+异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集<sup>β</sup>
 持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / Web
 86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集<sup>β</sup>
 大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART! | 12集<sup>β</sup> / Web
 青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集 / Web
-EDEN | エデン | EDEN | 4集<sup>α</sup> / Web
-烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo
+EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
+烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo | 12集
 佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup> / BD
+
+[210411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/EDEN
 
 ### <span id="2101"> 2021年01月</span>
 
@@ -75,7 +94,7 @@ IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [Web][210112]
 奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集+SP / BD
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
-天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集<sup>β</sup> / Web
+天空侵犯 | 天空侵犯 | Tenkuu Shinpan / HIGH-RISE INVASION | 12集<sup>β</sup> / [Web][210119]
 
 [210101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gekidol
 [210102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
@@ -83,6 +102,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 [210112]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/IDOLY_PRIDE
 [210114]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Nonnon
 [210115]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Azur_Lane_Bisoku_Zenshin!
+[210119]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tenkuu_Shinpan
 
 ### <span id="2010"> 2020年10月</span>
 
@@ -137,7 +157,7 @@ D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / [Web][20
 DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [BD][200702]
 魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / [Web][200703]
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
-赛马娘四格 | うまよん | Umayon | 12集<sup>α</sup> / Web
+赛马娘四格 | うまよん | Umayon | 12集<sup>α</sup> / [Web][200705]
 日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
 非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / [Web][200707]
 我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / [Web][200708]
@@ -149,7 +169,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 [200701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/LapisReLights
 [200702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/DECA-DENCE
 [200703]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Maohgakuin
-<!--[200705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Umamusume/Umayon-->
+[200705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Umamusume/Umayon
 [200706]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Japan_Sinks_2020
 [200707]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/No-Guns-Life
 [200708]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Oregairu
@@ -167,7 +187,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 新樱花大战 the Animation | 新サクラ大戦 the Animation | Shin Sakura Taisen the Animation | 12集<sup>α</sup> / [BD][200404]
 LISTENERS | LISTENERS | LISTENERS | 12集<sup>α</sup> / [BD][200405]
 昨日之歌 | イエスタデイをうたって | Yesterday wo Utatte | 12+6<sup>α</sup> / [BD][200406]
-转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... / hamehura / hamefura | 12集<sup>α</sup> / [BD][200407]
+转生成为了只有乙女游戏破灭Flag的邪恶大小姐… | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… / hamehura / hamefura | 12集<sup>α</sup> / [BD][200407]
 小书痴的下克上 第二季<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ 第2部 | Honzuki no Gekokujou S2 | 12集<sup>β</sup> / Web
 继 怪怪守护神 | 継つぐもも | Tsugu Tsugumomo | 12集 / [Web][200409]
 格莱普尼尔 | グレイプニル | Gleipnir | 13集<sup>β</sup> / [Web][200410]
@@ -232,7 +252,7 @@ BEASTARS | BEASTARS | BEASTARS | 12集<sup>β</sup> / [BD][191001]
 Null & Peta | ぬるぺた | Null & Peta | 12+OVA / [BD][191003]
 天华百剑 ～欢迎来到铭治馆～ | 天華百剣 ～めいじ館へようこそ！～ | Tenka Hyakken Meiji-kan e Youkoso | 12集 / [Web][191004]
 警视厅 特务部 特殊凶恶犯对策室 第七课 | 警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- | Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana | 12集 / [Web][191005]
-拳愿阿修罗 第二季 | ケンガンアシュラ 2nd Season | Kengan Ashura 2nd Season | 12集<sup>α</sup> / [Web][191006]
+拳愿阿修罗 第二季 | ケンガンアシュラ 2nd Season | Kengan Ashura 2nd Season | 12集<sup>α</sup> / [BD][191006]
 我不是说了能力要平均值吗 | 私、能力は平均値でって言ったよね! | Watashi, Nouryoku wa Heikinchi de tte Itta yo ne! / Noukin | 12集<sup>β</sup> / [BD][191007]
 非枪人生 | ノー・ガンズ・ライフ | No Guns Life | 12集<sup>β</sup> / [Web][191008]
 Fairy gone 第二季 | Fairy gone フェアリーゴーン 第2期 | Fairy gone 2nd Season / Fairy gone Season 1 Part 2 | 12集<sup>α</sup> / [BD][191009]
@@ -248,7 +268,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 [191003]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Null_%26_Peta
 [191004]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tenka_Hyakken_Meiji-kan_e_Youkoso!%20Web
 [191005]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tokunana
-[191006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura-2nd-Season
+[191006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura
 [191007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Noukin
 [191008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/No-Guns-Life
 [191009]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone
@@ -265,7 +285,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 女高中生的浪费青春 / 女高中生的无用日常 / 女高中生无所事事 | 女子高生の無駄づかい | Joshikousei no Mudazukai | 12集<sup>β</sup> / [BD][190702]
 你遭难了吗？ | ソウナンですか？ | Sounan Desu ka? | 12集 / [BD][190703]
 只要长得可爱，即使是变态你也喜欢吗？ | 可愛ければ変態でも好きになってくれますか？ | Kawaikereba Hentai demo Suki ni Natte Kuremasu ka? / Hensuki | 12集<sup>β</sup> / [Web][190704]
-拳愿阿修罗 | ケンガンアシュラ | Kengan Ashura | 12集<sup>α</sup> / [Web][190705]
+拳愿阿修罗 | ケンガンアシュラ | Kengan Ashura | 12集<sup>α</sup> / [BD][190705]
 魔术学姐 | 手品先輩 | Tejina-senpai | 12集 / BD
 骚动时节的少女们啊 | 荒ぶる季節の乙女どもよ。 | Araburu Kisetsu no Otome-domo yo. | 12集<sup>α</sup> / 填坑中
 街角魔族<sup>*</sup> | まちカドまぞく | Machikado Mazoku | 12集 / BD
