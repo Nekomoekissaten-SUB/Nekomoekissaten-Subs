@@ -47,7 +47,7 @@ Sonny Boy | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / Web
 现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki |
 侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. |
 死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid |
-? | 白い砂のアクアトープ | Shiroi Suna no Aquatope |
+白沙的水族馆 | 白い砂のアクアトープ | Shiroi Suna no Aquatope |
 转生到异世界也要996 | 迷宮ブラックカンパニー | Meikyuu Black Company |
 迦希女王不会放弃 | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! |
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
@@ -61,7 +61,7 @@ Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / Web
 刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / Web
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / Web
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
-异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集<sup>β</sup>
+异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集 / [Web][210406]
 持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / Web
 86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集<sup>β</sup>
 大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART! | 12集<sup>β</sup> / Web
@@ -70,6 +70,7 @@ EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
 烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo | 12集
 佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup> / BD
 
+[210406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekaimaou
 [210411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/EDEN
 
 ### <span id="2101"> 2021年01月</span>
@@ -529,7 +530,7 @@ CENCOROLL 1+2 | センコロール コネクト | CENCOROLL CONNECT | [BD][mov01
 你好 世界 | HELLO WORLD | HELLO WORLD | [BD][mov022]<sup>α</sup>
 潘多拉和小阿欠 | パンドラとアクビ | Pandora to Akubi | [BD][mov023]
 知晓天空之蓝的人啊 | 空の青さを知る人よ | Sora no Aosa wo Shiru Hito yo | [BD][mov024]<sup>α</sup>
-想哭的我戴上了猫的面具 | 泣きたい私は猫をかぶる | Nakitai Watashi wa Neko o Kaburu / A Whisker Away | [Web][mov025]<sup>α</sup>
+想哭的我戴上了猫的面具 | 泣きたい私は猫をかぶる | Nakitai Watashi wa Neko o Kaburu / A Whisker Away | [BD][mov025]<sup>α</sup>
 哥布林杀手 - 哥布林的王冠 | ゴブリンスレイヤー -GOBLIN’S CROWN- | Goblin Slayer: Goblin’s Crown | [BD][mov026]<sup>α</sup>
 为谁而炼金 | 劇場版 誰ガ為のアルケミスト | Ta ga Tame no Alchemist | [BD][mov027]
 鸣鸟不飞 乌云密布 | 囀る鳥は羽ばたかない The clouds gather | Saezuru Tori wa Habatakanai: The clouds gather | [BD][mov028]<sup>α</sup>
@@ -539,8 +540,8 @@ Birthday Wonderland | バースデー・ワンダーランド | The Wonderland |
 剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]<sup>α</sup>
 灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | [BD][mov034]<sup>α</sup>
-寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 音乐 | 音楽 | ON-GAKU: Our Sound / Ongaku | BD
+寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
 
