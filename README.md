@@ -40,15 +40,16 @@
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 Sonny Boy | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / Web
-桃子男孩渡海而来 | ピーチボーイリバーサイド | Peach Boy Riverside |
+桃子男孩渡海而来 | ピーチボーイリバーサイド | Peach Boy Riverside | 12集 / Web
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐…X | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…X / hamehura X / hamefura X | 12集<sup>α</sup> / Web
-叫我对大哥 | 俺、つしま | Ore, Tsushima | 12集<sup>β</sup> / Web
-女友成堆 | カノジョも彼女 | Kanojo mo Kanojo |
-现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki |
-侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. |
-死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid |
+叫我对大哥 | 俺、つしま | Ore, Tsushima | 12集 / Web
+女友成堆 | カノジョも彼女 | Kanojo mo Kanojo | 12集<sup>α</sup> / Web
+现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki | 13集 / Web
+侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. | 12集<sup>α</sup> / Web
+死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid | 12集
 白沙的水族馆 | 白い砂のアクアトープ | Shiroi Suna no Aquatope |
-转生到异世界也要996 | 迷宮ブラックカンパニー | Meikyuu Black Company |
+转生到异世界也要996 / 暗黑企业的迷宫 | 迷宮ブラックカンパニー | Meikyuu Black Company | 12集 / Web
+Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! Superstar!! | 12集<sup>α</sup> / Web
 迦希女王不会放弃 | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! |
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
 
@@ -88,7 +89,7 @@ BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
 工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集<sup>β</sup> / Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集<sup>β</sup> / Web
 怪物事变 | 怪物事变 | Kemono Jihen | 12集<sup>β</sup> / [Web][210111]
-IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [Web][210112]
+IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [BD][210112]
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / BD
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / [Web][210114]
 碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [Web][210115]
@@ -162,7 +163,7 @@ THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集
 日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
 非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / [Web][200707]
 我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / [Web][200708]
-宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / [Web][200709]
+宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / [BD][200709]
 租借女友 | 彼女、お借りします | Kanojo, Okarishimasu | 12集<sup>β</sup> / [Web][200710]
 彼得·格里尔的贤者时间 | ピーターグリルと賢者の時間 | Peter Grill to Kenja no Jikan | 12集 / BD
 天晴烂漫！ | 天晴爛漫！ | Appare-Ranman! | 13集<sup>α</sup> / [BD][200712]
@@ -540,7 +541,7 @@ Birthday Wonderland | バースデー・ワンダーランド | The Wonderland |
 剧场版 白箱 | 劇場版 SHIROBAKO | Gekijouban Shirobako / Shirobako Movie | [BD][mov032]<sup>α</sup>
 灰色：幻影扳机 Star Gazer | グリザイア：ファントムトリガー THE ANIMATIION スターゲイザー | Grisaia: Phantom Trigger The Animation Star Gazer | [BD][mov033]
 荒野的寿飞行队 完全版 | 荒野のコトブキ飛行隊 完全版 | Kouya no Kotobuki Hikoutai Kanzenban | [BD][mov034]<sup>α</sup>
-音乐 | 音楽 | ON-GAKU: Our Sound / Ongaku | BD
+音乐 | 音楽 | ON-GAKU: Our Sound / Ongaku | [BD][mov035]
 寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
@@ -579,6 +580,7 @@ Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fi
 [mov032]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shirobako
 [mov033]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Grisaia-pt
 [mov034]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kotobuki
+[mov035]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/ON-GAKU
 
 ## <span id="ova"> OVA / ONA</span></span>
 
