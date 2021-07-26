@@ -46,23 +46,22 @@ Sonny Boy | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / Web
 侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. | 12集<sup>α</sup> / Web
 现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki | 13集 / Web
 歌剧少女!! | かげきしょうじょ!! | Kageki Shoujo!! | 13集 / Web
-叫我对大哥 | 俺、つしま | Ore, Tsushima | 12集 / Web
-白沙的水族馆 | 白い砂のアクアトープ | Shiroi Suna no Aquatope | 24集 / Web
+叫我对大哥 | 俺、つしま | Ore, Tsushima | Web
+白沙的水族馆 | 白い砂のアクアトープ | Shiroi Suna no Aquatope | 24集<sup>α</sup> / Web
 死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid | 12集
 转生到异世界也要996 / 暗黑企业的迷宫 | 迷宮ブラックカンパニー | Meikyuu Black Company | 12集 / Web
 Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! Superstar!! | 12集<sup>α</sup> / Web
-D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI |
-迦希女王不会放弃 | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! |
-Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
+幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 12集<sup>α</sup> / Web
+Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits | <sup>α</sup> / Web
 
 ### <span id="2104"> 2021年04月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集<sup>β</sup>
+水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集<sup>β</sup> / [Web][210401]
 Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [Web][210402]
 刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / Web
-圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / Web
+圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / [Web][210404]
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
 异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集 / [Web][210406]
 持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / Web
@@ -73,7 +72,9 @@ EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
 烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo | 12集
 佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup> / BD
 
+[210401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/fruba
 [210402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Vivy
+[210404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Seijyonomaryoku
 [210406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekaimaou
 [210411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/EDEN
 
@@ -547,6 +548,7 @@ Birthday Wonderland | バースデー・ワンダーランド | The Wonderland |
 音乐 | 音楽 | ON-GAKU: Our Sound / Ongaku | [BD][mov035]
 少女与战车 最终章 第1话<sup>*</sup> | ガールズ&パンツァー 最終章 第1話 | Girls und Panzer das Finale Part 1 | [BD][mov036]
 少女与战车 最终章 第2话<sup>*</sup> | ガールズ&パンツァー 最終章 第2話 | Girls und Panzer das Finale Part 2 | [BD][mov037]
+言语如苏打般涌现 | サイダーのように言葉が湧き上がる | Cider no You ni Kotoba ga Wakiagaru | [Web][mov038]<sup>α</sup>
 寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
@@ -588,6 +590,7 @@ Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fi
 [mov035]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/ON-GAKU
 [mov036]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Girls-und-panzer-finale
 [mov037]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Girls-und-panzer-finale
+[mov038]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Cider-Kotoba
 
 ## <span id="ova"> OVA / ONA</span></span>
 
