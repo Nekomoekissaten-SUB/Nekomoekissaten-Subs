@@ -51,7 +51,7 @@ Sonny Boy | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / Web
 死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid | 12集
 转生到异世界也要996 / 暗黑企业的迷宫 | 迷宮ブラックカンパニー | Meikyuu Black Company | 12集 / Web
 Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! Superstar!! | 12集<sup>α</sup> / Web
-幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 12集<sup>α</sup> / Web
+幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 13集<sup>α</sup> / Web
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits | <sup>α</sup> / Web
 
 ### <span id="2104"> 2021年04月</span>
