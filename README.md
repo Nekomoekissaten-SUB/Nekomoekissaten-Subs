@@ -72,7 +72,7 @@ EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
 烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo | 12集
 佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup> / BD
 
-[210401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/fruba
+[210401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
 [210402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Vivy
 [210404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Seijyonomaryoku
 [210406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekaimaou
@@ -209,16 +209,16 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 [200403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kakushigoto
 [200404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sakura_Taisen
 [200405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/LISTENERS
-[200406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/singyesterday
+[200406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Singyesterday
 [200407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Hamefura
 [200409]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsugumomo_S2
 [200410]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gleipnir
-[200411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/shironekoproject
+[200411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shironekoproject
 [200412]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/A3
 [200413]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/PCR
 [200414]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
-[200415]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/tatamichan
-[200416]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/argo-bdp
+[200415]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tatamichan
+[200416]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Argo-bdp
 
 ### <span id="2001"> 2020年1月</span>
 
@@ -270,9 +270,9 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 超级小白 | SUPER SHIRO | SUPER SHIRO | 48集 / [Web][191015]
 
 [191001]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
-[191002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Houkago_Saikoro_Club%20Web
+[191002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Houkago_Saikoro_Club
 [191003]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Null_%26_Peta
-[191004]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tenka_Hyakken_Meiji-kan_e_Youkoso!%20Web
+[191004]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tenkahyakken
 [191005]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tokunana
 [191006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura
 [191007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Noukin
@@ -303,7 +303,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
 [190703]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sounan_desu_ka
 [190704]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Hensuki
 [190705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura
-[190709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Cop_Craft
+[190709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/COP_CRAFT
 [190710]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shoujo_Conto_All_Starlight
 
 ### <span id="1904"> 2019年4月</span>
@@ -322,7 +322,7 @@ Fairy gone | Fairy gone フェアリーゴーン | Fairy gone | 12集<sup>α</su
 [190402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/CAROLE%26TUESDAY
 [190403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Bokuben
 [190404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fairy-gone
-[190405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Araiya-san-Ore-to-Aitsu-ga-Onnayu-de
+[190405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Araiya
 [190406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Miru-Tights
 [190407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
 
@@ -404,7 +404,7 @@ Comic Girls<sup>*</sup> | こみっくがーるず | Comic Girls | 12集 / [BD][
 [180402TV]: https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site
 [180402BD]: https://github.com/Nekomoekissaten-SUB/Mahou-Shoujo-Site-BD
 [180403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/High-School-DxD-Hero
-[180404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Comic-Girls-BD
+[180404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Comic-Girls
 [180405]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Steins%3BGate-0
 <!--[180408]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Umamusume-->
 
@@ -417,7 +417,7 @@ Comic Girls<sup>*</sup> | こみっくがーるず | Comic Girls | 12集 / [BD][
 轻旅轻营△<sup>*</sup> | ゆるキャン△ | Yuru Camp△ | 12集 / [Web][180102TV]<br>Vol.1 / [BD][180102BD]
 Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12集 / [BD][180103BD]
 小木乃伊到我家 / 木乃伊的饲养方法 | ミイラの飼い方 | Miira no Kaikata | 12集 / [Web][180104]
-牙斗兽娘 | キリングバイツ | Killing Bites | 12集 / [Web][180105TV]<br>12集 / [BD][180105BD]
+牙斗兽娘 | キリングバイツ | Killing Bites | 12集 / [BD][180105]
 粗点心战争2 | だがしかし2 | Dagashi Kashi 2 | 12集<sup>β</sup>
 爆肝工程师的异世界狂想曲 | デスマーチからはじまる異世界狂想曲 | Death March kara Hajimaru Isekai Kyousoukyoku | 12集<sup>β</sup>
 妖精森林的小不点<sup>*</sup> | ハクメイとミコチ | Hakumei to Mikochi | 12+OVA / [Web][180108]
@@ -430,8 +430,7 @@ Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12�
 [180103TV]: https://github.com/Nekomoekissaten-SUB/Slow-Start
 [180103BD]: https://github.com/Nekomoekissaten-SUB/Slow-Start-BD
 [180104]: https://github.com/Nekomoekissaten-SUB/Miira-no-Kaikata
-[180105TV]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Killing-Bites
-[180105BD]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Killing-Bites-BD
+[180105]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Killing-Bites
 [180108]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Hakumei-to-Mikochi
 [180109]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/CC_Sakura
 
@@ -448,10 +447,10 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 如果有妹妹就好了。 | 妹さえいればいい。 | Imouto sae Ireba Ii. | 12集 / [Web][171007]
 相亲对象是自己的学生，强势的问题儿童。 | お見合い相手は教え子、強気な、問題児。 | Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji | 12集 / [Web][171008]
 
-[171001]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/URAHARA-BD
+[171001]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/URAHARA
 [171002]: https://github.com/Nekomoekissaten-SUB/Girls-Last-Tour
 [171003]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kekkai-Sensen-Beyond
-[171004]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Code-Realize-Sousei-no-Himegimi
+[171004]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Code-Realize
 [171005]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Houseki-no-Kuni
 [171006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Anime-Gataris
 [171007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Imouto_sae_Ireba_Ii
@@ -474,7 +473,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 [170702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tsurezure_Children
 [170703]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Made_in_Abyss
 [170704]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Keppeki_Danshi!_Aoyama-kun
-[170705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Battle-Girl-High-School-BD
+[170705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Battle-Girl-High-School
 [170706]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Skirt_w-anime
 [170707]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Netsuzou_Trap
 
@@ -488,7 +487,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 王室教師海涅 | 王室教師ハイネ | Oushitsu Kyoushi Heine | 12集
 
 [170402]: https://github.com/Nekomoekissaten-SUB/Twin-Angel-Break
-[170403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Souryo-to-Majiwaru-Shikiyoku-no-Yoru-ni
+[170403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Souryo
 
 ### <span id="1701"> 2017年1月</span></span>
 
