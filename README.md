@@ -46,13 +46,14 @@ Sonny Boy | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / Web
 侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. | 12集<sup>α</sup> / Web
 现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki | 13集 / Web
 歌剧少女!! | かげきしょうじょ!! | Kageki Shoujo!! | 13集 / Web
-叫我对大哥 | 俺、つしま | Ore, Tsushima | Web
+我是怼大哥 | 俺、つしま | Ore, Tsushima | Web
 白沙的水族馆 | 白い砂のアクアトープ | Shiroi Suna no Aquatope | 24集<sup>α</sup> / Web
 死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid | 12集
 转生到异世界也要996 / 暗黑企业的迷宫 | 迷宮ブラックカンパニー | Meikyuu Black Company | 12集 / Web
 Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! Superstar!! | 12集<sup>α</sup> / Web
 幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 13集<sup>α</sup> / Web
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits | <sup>α</sup> / Web
+迦希女王不会放弃！ | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! | 20集 / Web
 
 ### <span id="2104"> 2021年04月</span>
 
@@ -64,7 +65,7 @@ Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [Web][210402]
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / [Web][210404]
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
 异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集 / [Web][210406]
-持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / Web
+持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / BD
 86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集<sup>β</sup>
 大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART! | 12集<sup>β</sup> / Web
 青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集 / Web
@@ -126,7 +127,7 @@ Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12
 总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / [Web][201010]
 养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集<sup>β</sup> / [Web][201011]
 半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [Web][201012]
-战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa | 12集 / [Web][201013]
+战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa / Senyoku no Sigrdrifa | 12集<sup>α</sup> / [BD][201013]
 魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集<sup>β</sup> / Web
 这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [BD][201015]
 One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
