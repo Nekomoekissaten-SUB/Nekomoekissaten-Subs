@@ -54,6 +54,7 @@ Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! 
 幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 13集<sup>α</sup> / Web
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits | <sup>α</sup> / Web
 迦希女王不会放弃！ | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! | 20集 / Web
+海盗公主 | 海賊王女 | Fena: Pirate Princess / Kaizoku Oujo | 12集 / Web
 
 ### <span id="2104"> 2021年04月</span>
 
@@ -440,7 +441,7 @@ Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12�
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=250/>
 --- | --- | --------- | :-:
 URAHARA | URAHARA | URAHARA | 12集 / [BD][171001]
-少女终末旅行<sup>*</sup> | 少女終末旅行 | Shoujo Shuumatsu Ryokou | 12集 / [Web][171002]
+少女终末旅行<sup>*</sup> | 少女終末旅行 | Shoujo Shuumatsu Ryokou | 12集 / [BD][171002]
 血界战线&BEYOND | 血界戦線 & BEYOND | Kekkai Sensen & Beyond | 12<sup>β</sup>+OVA / [BD][171003]
 Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code Realize - Sousei no Himegimi | 12+OVA / [BD][171004]
 宝石之国 | 宝石の国 | Land of the Lustrous / Houseki no Kuni | 12集 / [BD][171005]
@@ -449,7 +450,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 相亲对象是自己的学生，强势的问题儿童。 | お見合い相手は教え子、強気な、問題児。 | Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji | 12集 / [Web][171008]
 
 [171001]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/URAHARA
-[171002]: https://github.com/Nekomoekissaten-SUB/Girls-Last-Tour
+[171002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Girls_Last_Tour
 [171003]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kekkai-Sensen-Beyond
 [171004]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Code-Realize
 [171005]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Houseki-no-Kuni
