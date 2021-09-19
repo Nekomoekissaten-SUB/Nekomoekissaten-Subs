@@ -133,12 +133,12 @@ Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12
 这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [BD][201015]
 One Room 3 | One Room 3 | One Room 3 | 12集 / [BD][201016]
 池袋西口公园 | 池袋ウエストゲートパーク | Ikebukuro West Gate Park / IWGP | 12集<sup>β</sup> / [Web][201017]
-安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / [Web][201018]
+安达与岛村<sup>*</sup> | 安達としまむら | Adachi to Shimamura | 12集 / [BD][201018]
 请问您今天要来点兔子吗？BLOOM | ご注文はうさぎですか？ BLOOM | Gochuumon wa Usagi Desu ka? Bloom | 12集 / [Web][201019]
-成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God | 12集<sup>α</sup> / [Web][201020]
+成为神的那天 / 成神之日 | 神様になった日 | The Day I Became a God / Kamisama ni Natta Hi | 12集<sup>α</sup> / [BD][201020]
 前说！| まえせつ！ | Maesetsu! | 12集 / Web
 体操武士 | 体操ザムライ | Taisou Zamurai / Taiso Samurai | 11集<sup>β</sup> / [BD][201022]
-D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / [Web][201023]
+D4DJ First Mix | D4DJ First Mix | D4DJ First Mix | 13集<sup>α</sup> / [BD][201023]
 
 [201003]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Maoujou
 [201006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Munou_na_Nana
@@ -166,7 +166,7 @@ DECA-DENCE | デカダンス | DECA-DENCE | 12集<sup>α</sup> / [BD][200702]
 魔王学院的不适任者 | 魔王学院の不適合者～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ | Maou Gakuin no Futekigousha / maohgakuin | 13集<sup>β</sup> / [Web][200703]
 THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | THE GOD OF HIGH SCHOOL | 13集<sup>α</sup> / Web
 赛马娘四格 | うまよん | Umayon | 12集<sup>α</sup> / [Web][200705]
-日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [Web][200706]
+日本沉没 2020 | 日本沈没 2020 | Nihon Chinbotsu 2020 / Japan Sinks 2020 | 10集<sup>β</sup> / [BD][200706]
 非枪人生 第二季 | ノー・ガンズ・ライフ 第2クール | No Guns Life S2 | 12集<sup>β</sup> / [Web][200707]
 我的青春恋爱物语果然有问题 完 | やはり俺の青春ラブコメはまちがっている。完 | Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan | 12集<sup>α</sup> / [Web][200708]
 宇崎学妹想要玩！ | 宇崎ちゃんは遊びたい！ | Uzaki-chan wa Asobitai! | 12集<sup>β</sup> / [BD][200709]
@@ -468,7 +468,7 @@ Code:Realize ～创世的姬君～ | Code:Realize ～創世の姫君～ | Code R
 洁癖男子！青山君 | 潔癖男子！青山くん | Keppeki Danshi! Aoyama-kun | 12集 / [BD][170704]
 战斗女子高校 | バトルガール ハイスクール | Battle Girl High School | 12集 / [BD][170705]
 裙子里面是野兽。 | スカートの中はケダモノでした。 | Skirt no Naka wa Kedamono Deshita. | 13集 / [Web][170706]
-捏造陷阱 -NTR-<sup>*</sup> | 捏造トラップ -NTR- | Netsuzou Trap NTR | 12集<sup>α</sup> / [Web][170707]
+捏造陷阱 -NTR-<sup>*</sup> | 捏造トラップ -NTR- | Netsuzou Trap NTR | 12集<sup>α</sup> / [BD][170707]
 动作女英雄 水果应援团 | アクションヒロイン チアフルーツ | Action Heroine Cheer Fruits | 12集<sup>β</sup> / BD
 
 [170701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekai_wa_Smartphone_to_Tomo_ni
