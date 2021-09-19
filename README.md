@@ -240,7 +240,7 @@ pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 Rebirth | Rebirth | Rebirth | 50+集 / Web
 试证明理科生已坠入情网。 | 理系が恋に落ちたので証明してみた。 | Rikei ga Koi ni Ochita no de Shoumei shitemita. | 12集<sup>β</sup> / [BD][200113]
 
-[200101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Eizouken_ni_wa_Te_wo_Dasu_na!
+[200101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Eizouken
 [200102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte
 [200103]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Heya_Camp
 [200104]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv
@@ -306,7 +306,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
 [190704]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Hensuki
 [190705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura
 [190709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/COP_CRAFT
-[190710]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Shoujo_Conto_All_Starlight
+[190710]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Starlight
 
 ### <span id="1904"> 2019年4月</span>
 
@@ -550,9 +550,9 @@ Birthday Wonderland | バースデー・ワンダーランド | The Wonderland |
 少女与战车 最终章 第1话<sup>*</sup> | ガールズ&パンツァー 最終章 第1話 | Girls und Panzer das Finale Part 1 | [BD][mov036]
 少女与战车 最终章 第2话<sup>*</sup> | ガールズ&パンツァー 最終章 第2話 | Girls und Panzer das Finale Part 2 | [BD][mov037]
 言语如苏打般涌现 | サイダーのように言葉が湧き上がる | Cider no You ni Kotoba ga Wakiagaru | [Web][mov038]<sup>α</sup>
-寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
-少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
+寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
+<!--少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>-->
 
 [mov001]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
 [mov002]: https://github.com/Nekomoekissaten-SUB/Haikara-san-ga-Tooru
