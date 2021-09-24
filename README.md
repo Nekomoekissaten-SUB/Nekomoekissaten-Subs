@@ -4,7 +4,7 @@
 - [注意事项](#notice)
 - [番剧索引](#title)
 	- [TV动画](#tva)
-		-  2021年 : 10月🍂 - [7月](#2107)☀️ - [4月](#2104)🌸 - [1月](#2101)❄️
+		-  2021年 : [10月](#2110)🍂 - [7月](#2107)☀️ - [4月](#2104)🌸 - [1月](#2101)❄️
 		-  2020年 : [10月](#2010)🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
 		-  2018年 : [10月](#1810)🍂 - [7月](#1807)☀️ - [4月](#1804)🌸 - [1月](#1801)❄️
@@ -34,6 +34,25 @@
 # <span id="title"> 番剧索引</span>
 
 ## <span id="tva"> TV动画</span>
+
+### <span id="2110"> 2021年10月</span>
+
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+--- | --- | --------- | :-:
+SAKUGAN | サクガン | SAKUGAN
+加油吧同期酱 | がんばれ同期ちゃん | Ganbare Douki-chan
+平家物语 | 平家物語 | Heike Monogatari | 11集 / Web
+SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web
+半妖的夜叉姬 二之章 | 半妖の夜叉姫 弐の章 | Hanyou no Yashahime: Sengoku Otogizoushi S2 | Web
+86 -不存在的战区- 第二部分 | 86－エイティシックス－ 第2クール | 86 -Eighty Six- Part 2 | Web
+美妙魔法！ | ワッチャプリマジ！ | Waccha PriMagi! | Web
+阴阳眼见子 | 見える子ちゃん | Mieruko-chan | Web
+无职转生 到了异世界就拿出真本事 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
+月与莱卡与吸血姬 | 月とライカと吸血姫 | Tsuki to Laika to Nosferatu
+宿命回响 | takt op. Destiny | takt op. Destiny
+古见同学，有交流障碍症。 | 古見さんは、コミュ症です。 | Komi Can't Communicate
+大正处女御伽话 | 大正オトメ御伽話 | Taishou Otome Otogibanashi
+180秒能让你的耳朵感到幸福吗？ | 180秒で君の耳を幸せにできるか？ | 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?
 
 ### <span id="2107"> 2021年07月</span>
 
@@ -296,7 +315,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 拳愿阿修罗 | ケンガンアシュラ | Kengan Ashura | 12集<sup>α</sup> / [BD][190705]
 魔术学姐 | 手品先輩 | Tejina-senpai | 12集 / BD
 骚动时节的少女们啊 | 荒ぶる季節の乙女どもよ。 | Araburu Kisetsu no Otome-domo yo. | 12集<sup>α</sup> / 填坑中
-街角魔族<sup>*</sup> | まちカドまぞく | Machikado Mazoku | 12集 / BD
+街角魔族<sup>*</sup> | まちカドまぞく | Machikado Mazoku | 12集 / [BD][190708]
 COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
 少女小短剧 All Starlight | 少女☆寸劇 オールスタァライト | Shoujo Conto All Starlight | 26集 / [BD][190710]
 
@@ -305,6 +324,7 @@ COP CRAFT | コップクラフト | COP CRAFT | 12+SP / [BD][190709]
 [190703]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sounan_desu_ka
 [190704]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Hensuki
 [190705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Kengan-Ashura
+[190708]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Machikado
 [190709]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/COP_CRAFT
 [190710]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Starlight
 
