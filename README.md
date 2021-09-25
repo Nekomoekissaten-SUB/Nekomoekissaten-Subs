@@ -262,7 +262,7 @@ Rebirth | Rebirth | Rebirth | 50+集 / Web
 [200101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Eizouken
 [200102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Runway_de_Waratte
 [200103]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Heya_Camp
-[200104]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/koiastv
+[200104]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Koiastv
 [200105]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/pet
 [200107]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kyokou_Suiri
 [200108]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/227anime
