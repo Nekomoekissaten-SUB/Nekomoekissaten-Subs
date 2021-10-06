@@ -43,14 +43,14 @@ SAKUGAN | サクガン | SAKUGAN
 加油吧同期酱 | がんばれ同期ちゃん | Ganbare Douki-chan
 平家物语 | 平家物語 | Heike Monogatari | 11集 / Web
 SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web
-半妖的夜叉姬 二之章 | 半妖の夜叉姫 弐の章 | Hanyou no Yashahime: Sengoku Otogizoushi S2 | Web
 86 -不存在的战区- 第二部分 | 86－エイティシックス－ 第2クール | 86 -Eighty Six- Part 2 | Web
-美妙魔法！ | ワッチャプリマジ！ | Waccha PriMagi! | Web
-阴阳眼见子 | 見える子ちゃん | Mieruko-chan | Web
-无职转生 到了异世界就拿出真本事 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
 月与莱卡与吸血姬 | 月とライカと吸血姫 | Tsuki to Laika to Nosferatu
 宿命回响 | takt op. Destiny | takt op. Destiny
+逆转世界的电池少女 | 逆転世界ノ電池少女 | Gyakuten Sekai no Denchi Shoujo
+阴阳眼见子 | 見える子ちゃん | Mieruko-chan | Web
+无职转生 到了异世界就拿出真本事 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
 古见同学，有交流障碍症。 | 古見さんは、コミュ症です。 | Komi Can't Communicate
+半妖的夜叉姬 二之章 | 半妖の夜叉姫 弐の章 | Hanyou no Yashahime: Sengoku Otogizoushi S2 | Web
 大正处女御伽话 | 大正オトメ御伽話 | Taishou Otome Otogibanashi
 180秒能让你的耳朵感到幸福吗？ | 180秒で君の耳を幸せにできるか？ | 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?
 
@@ -58,11 +58,11 @@ SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-Sonny Boy | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / Web
+Sonny Boy / LIGHTYEAR | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / [Web][210701]
 桃子男孩渡海而来 | ピーチボーイリバーサイド | Peach Boy Riverside | 12集 / Web
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐…X | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…X / hamehura X / hamefura X | 12集<sup>α</sup> / Web
 女友成堆 | カノジョも彼女 | Kanojo mo Kanojo | 12集<sup>α</sup> / Web
-侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. | 12集<sup>α</sup> / Web
+侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. | 12集<sup>α</sup> / [Web][210705]
 现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki | 13集 / Web
 歌剧少女!! | かげきしょうじょ!! | Kageki Shoujo!! | 13集 / Web
 我是怼大哥 | 俺、つしま | Ore, Tsushima | Web
@@ -74,6 +74,9 @@ Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! 
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits | <sup>α</sup> / Web
 迦希女王不会放弃！ | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! | 20集 / Web
 海盗公主 | 海賊王女 | Fena: Pirate Princess / Kaizoku Oujo | 12集 / Web
+
+[210701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sonny-Boy
+[210705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tanmoshi
 
 ### <span id="2104"> 2021年04月</span>
 
@@ -90,7 +93,6 @@ Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [Web][210402]
 大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART! | 12集<sup>β</sup> / Web
 青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集 / Web
 EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
-烧窑的话也要马克杯 | やくならマグカップも | Yakunara Mug Cup mo | 12集
 佐贺偶像是传奇 卷土重来 | ゾンビランドサガ リベンジ | Zombie Land Saga Revenge | 12集<sup>α</sup> / BD
 
 [210401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
@@ -144,7 +146,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12集<sup>α</sup> / [BD][201007]
 魔女之旅 | 魔女の旅々 | Majo no Tabitabi | 12集<sup>β</sup> / [BD][201008]
 我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集<sup>β</sup> / 坑
-总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / [Web][201010]
+总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / [BD][201010]
 养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集<sup>β</sup> / [Web][201011]
 半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [Web][201012]
 战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa / Senyoku no Sigrdrifa | 12集<sup>α</sup> / [BD][201013]
@@ -442,7 +444,7 @@ Slow Start | スロウスタート | Slow Start | 12集 / [Web][180103TV]<br>12�
 牙斗兽娘 | キリングバイツ | Killing Bites | 12集 / [BD][180105]
 粗点心战争2 | だがしかし2 | Dagashi Kashi 2 | 12集<sup>β</sup>
 爆肝工程师的异世界狂想曲 | デスマーチからはじまる異世界狂想曲 | Death March kara Hajimaru Isekai Kyousoukyoku | 12集<sup>β</sup>
-妖精森林的小不点<sup>*</sup> | ハクメイとミコチ | Hakumei to Mikochi | 12+OVA / [Web][180108]
+妖精森林的小不点<sup>*</sup> | ハクメイとミコチ | Hakumei to Mikochi | 12+OVA / [BD][180108]
 魔卡少女樱 / 庫洛魔法使 / 百变小樱魔术卡-透明卡牌篇 | カードキャプターさくら クリアカード編 | Cardcaptor Sakura Clear Card Hen | 22集<sup>α</sup>+OAD / [BD][180109]
 
 [180101TV]: https://github.com/Nekomoekissaten-SUB/Koi-wa-Ameagari-no-You-ni
