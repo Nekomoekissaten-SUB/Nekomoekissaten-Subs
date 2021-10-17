@@ -51,8 +51,9 @@ SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web
 无职转生 到了异世界就拿出真本事 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
 古见同学，有交流障碍症。 | 古見さんは、コミュ症です。 | Komi Can't Communicate
 半妖的夜叉姬 二之章 | 半妖の夜叉姫 弐の章 | Hanyou no Yashahime: Sengoku Otogizoushi S2 | Web
-大正处女御伽话 | 大正オトメ御伽話 | Taishou Otome Otogibanashi
-180秒能让你的耳朵感到幸福吗？ | 180秒で君の耳を幸せにできるか？ | 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?
+百万吨级武藏 | メガトン級ムサシ | Megaton-kyuu Musashi |
+大正处女御伽话 | 大正オトメ御伽話 | Taishou Otome Otogibanashi |
+180秒能让你的耳朵感到幸福吗？ | 180秒で君の耳を幸せにできるか？ | 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka? |
 
 ### <span id="2107"> 2021年07月</span>
 
@@ -70,13 +71,14 @@ Sonny Boy / LIGHTYEAR | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / [We
 死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid | 12集
 转生到异世界也要996 / 暗黑企业的迷宫 | 迷宮ブラックカンパニー | Meikyuu Black Company | 12集 / Web
 Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! Superstar!! | 12集<sup>α</sup> / Web
-幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 13集<sup>α</sup> / Web
+幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 13集<sup>α</sup> / [Web][210713]
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits | <sup>α</sup> / Web
 迦希女王不会放弃！ | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! | 20集 / Web
 海盗公主 | 海賊王女 | Fena: Pirate Princess / Kaizoku Oujo | 12集 / Web
 
 [210701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sonny-Boy
 [210705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tanmoshi
+[210713]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/D_CIDE
 
 ### <span id="2104"> 2021年04月</span>
 
@@ -84,7 +86,7 @@ Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
 --- | --- | --------- | :-:
 水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集<sup>β</sup> / [Web][210401]
 Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [Web][210402]
-刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / Web
+刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / BD
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / [Web][210404]
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
 异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集 / [Web][210406]
@@ -119,7 +121,7 @@ BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [BD][210112]
 无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / BD
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / [Web][210114]
-碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [Web][210115]
+碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [BD][210115]
 奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集+SP / BD
 记录的地平线 圆桌崩坏 | ログ・ホライズン　円卓崩壊 | Log Horizon: Entaku Houkai | 12集<sup>α</sup> / Web
 VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
@@ -140,7 +142,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 熊熊勇闯异世界 | くまクマ熊ベアー | Kuma Kuma Kuma Bear | 12集 / Web
 铁路浪漫谭 / 爱上火车 | レヱル・ロマネスク | Rail Romanesque | 12集 / BD
 在魔王城说晚安 | 魔王城でおやすみ | Sleepy Princess in the Demon Castle / Maoujou de Oyasumi | 12集<sup>β</sup> / [BD][201003]
-满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / 坑？
+满溢的水果挞 | おちこぼれフルーツタルト | Ochikobore Fruit Tart / Dropout Idol Fruit Tart | 12集 / BD
 第501统合战斗航空团 强袭魔女 ROAD to BERLIN | 第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN | Strike Witches: Road to Berlin | 12集 / Web
 无能的奈奈 | 無能なナナ | Munou na Nana | 13集<sup>α</sup> / [Web][201006]
 Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12集<sup>α</sup> / [BD][201007]
@@ -148,7 +150,7 @@ Assault Lily BOUQUET | アサルトリリィ BOUQUET | Assault Lily BOUQUET | 12
 我立于百万生命之上 | 100万の命の上に俺は立っている | 100-man no Inochi no Ue ni Ore wa Tatteiru | 12集<sup>β</sup> / 坑
 总之就是非常可爱 | トニカクカワイイ | FLY ME TO THE MOON | 12集<sup>α</sup> / [BD][201010]
 养猫又养狗，每天都开心 | 犬と猫どっちも飼ってると毎日たのしい | Inu to Neko Docchi mo Katteru to Mainichi Tanoshii | 24集<sup>β</sup> / [Web][201011]
-半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [Web][201012]
+半妖的夜叉姬 | 半妖の夜叉姫 | Hanyou no Yashahime: Sengoku Otogizoushi | 24集<sup>β</sup> / [BD][201012]
 战翼的希格德莉法 | 戦翼のシグルドリーヴァ | Warlords of Sigrdrifa / Senyoku no Sigrdrifa | 12集<sup>α</sup> / [BD][201013]
 魔法科高校的劣等生 来访者篇 | 魔法科高校の劣等生 来訪者編 | Mahouka Koukou no Rettousei: Raihousha-hen | 13集<sup>β</sup> / Web
 这是你与我的最后战场，或是开创世界的圣战 | キミと僕の最後の戦場、あるいは世界が始まる聖戦 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen | 12集<sup>β</sup> / [BD][201015]
@@ -572,7 +574,7 @@ Birthday Wonderland | バースデー・ワンダーランド | The Wonderland |
 少女与战车 最终章 第1话<sup>*</sup> | ガールズ&パンツァー 最終章 第1話 | Girls und Panzer das Finale Part 1 | [BD][mov036]
 少女与战车 最终章 第2话<sup>*</sup> | ガールズ&パンツァー 最終章 第2話 | Girls und Panzer das Finale Part 2 | [BD][mov037]
 言语如苏打般涌现 | サイダーのように言葉が湧き上がる | Cider no You ni Kotoba ga Wakiagaru | [Web][mov038]<sup>α</sup>
-Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | BD
+Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | [BD][mov039]
 寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 <!--少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>-->
 
@@ -614,6 +616,7 @@ Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fi
 [mov036]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Girls-und-panzer-finale
 [mov037]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Girls-und-panzer-finale
 [mov038]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Cider-Kotoba
+[mov039]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Joseetora
 
 ## <span id="ova"> OVA / ONA</span></span>
 
