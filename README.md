@@ -39,21 +39,21 @@
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
-SAKUGAN | サクガン | SAKUGAN
-加油吧同期酱 | がんばれ同期ちゃん | Ganbare Douki-chan
-平家物语 | 平家物語 | Heike Monogatari | 11集 / Web
-SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web
+SAKUGAN | サクガン | SAKUGAN | 12集<sup>α</sup> / Web
+加油吧同期酱 | がんばれ同期ちゃん | Ganbare Douki-chan | 12集 / Web
+平家物语 | 平家物語 | Heike Monogatari | 11集<sup>α</sup> / Web
+SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web | 13集<sup>α</sup> / Web
 86 -不存在的战区- 第二部分 | 86－エイティシックス－ 第2クール | 86 -Eighty Six- Part 2 | Web
-月与莱卡与吸血姬 | 月とライカと吸血姫 | Tsuki to Laika to Nosferatu
-宿命回响 | takt op. Destiny | takt op. Destiny
-逆转世界的电池少女 | 逆転世界ノ電池少女 | Gyakuten Sekai no Denchi Shoujo
-阴阳眼见子 | 見える子ちゃん | Mieruko-chan | Web
-无职转生 到了异世界就拿出真本事 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
-古见同学，有交流障碍症。 | 古見さんは、コミュ症です。 | Komi Can't Communicate
+月与莱卡与吸血姬 | 月とライカと吸血姫 | Tsuki to Laika to Nosferatu | 12集 / Web
+宿命回响 | takt op. Destiny | takt op. Destiny | 12集<sup>α</sup> / Web
+逆转世界的电池少女 | 逆転世界ノ電池少女 | RUMBLE GARANNDOLL / Gyakuten Sekai no Denchi Shoujo | 12集<sup>α</sup> / Web
+阴阳眼见子 | 見える子ちゃん | Mieruko-chan | 12集 / Web
+无职转生 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 | Web
+古见同学，有交流障碍症。 | 古見さんは、コミュ症です。 | Komi Can't Communicate | 12集<sup>α</sup> / Web
 半妖的夜叉姬 二之章 | 半妖の夜叉姫 弐の章 | Hanyou no Yashahime: Sengoku Otogizoushi S2 | Web
-百万吨级武藏 | メガトン級ムサシ | Megaton-kyuu Musashi |
-大正处女御伽话 | 大正オトメ御伽話 | Taishou Otome Otogibanashi |
-180秒能让你的耳朵感到幸福吗？ | 180秒で君の耳を幸せにできるか？ | 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka? |
+百万吨级武藏 | メガトン級ムサシ | Megaton-kyuu Musashi | Web
+大正处女御伽话 | 大正オトメ御伽話 | Taishou Otome Otogibanashi | Web
+180秒能让你的耳朵感到幸福吗？ | 180秒で君の耳を幸せにできるか？ | 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka? | Web
 
 ### <span id="2107"> 2021年07月</span>
 
@@ -70,7 +70,7 @@ Sonny Boy / LIGHTYEAR | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / [We
 白沙的水族馆 | 白い砂のアクアトープ | Shiroi Suna no Aquatope | 24集<sup>α</sup> / Web
 死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid | 12集
 转生到异世界也要996 / 暗黑企业的迷宫 | 迷宮ブラックカンパニー | Meikyuu Black Company | 12集 / Web
-Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! Superstar!! | 12集<sup>α</sup> / Web
+Love Live! Superstar!! | ラブライブ！スーパースター!! | Love Live! Superstar!! | 12集<sup>α</sup> / [Web][210712]
 幻变梦境 | D_CIDE TRAUMEREI | D_CIDE TRAUMEREI | 13集<sup>α</sup> / [Web][210713]
 Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits | <sup>α</sup> / Web
 迦希女王不会放弃！ | ジャヒー様はくじけない | Jahy-sama wa Kujikenai! | 20集 / Web
@@ -78,6 +78,7 @@ Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
 
 [210701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sonny-Boy
 [210705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tanmoshi
+[210712]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Love_Live
 [210713]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/D_CIDE
 
 ### <span id="2104"> 2021年04月</span>
@@ -86,7 +87,7 @@ Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
 --- | --- | --------- | :-:
 水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集<sup>β</sup> / [Web][210401]
 Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [Web][210402]
-刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / BD
+剃须。然后捡到女高中生。 / 刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / [BD][210403]
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / [Web][210404]
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
 异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集 / [Web][210406]
@@ -99,6 +100,7 @@ EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
 
 [210401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Fruba
 [210402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Vivy
+[210403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Higehiro
 [210404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Seijyonomaryoku
 [210406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekaimaou
 [210411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/EDEN
@@ -119,7 +121,7 @@ BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集<sup>β</sup> / Web
 怪物事变 | 怪物事变 | Kemono Jihen | 12集<sup>β</sup> / [Web][210111]
 IDOLY PRIDE | IDOLY PRIDE | IDOLY PRIDE | 12集<sup>α</sup> / [BD][210112]
-无职转生 到了异世界就拿出真本事 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / BD
+无职转生 | 無職転生-異世界行ったら本気だす- | Mushoku Tensei: Isekai Ittara Honki Dasu | 11集<sup>α</sup> / BD
 悠哉日常大王 Nonstop | のんのんびより　のんすとっぷ | Non Non Biyori Nonstop | 12集<sup>α</sup> / [Web][210114]
 碧蓝航线 微速前进 | アズールレーン　びそくぜんしんっ！ | Azur Lane: Bisoku Zenshin! | 12集 / [BD][210115]
 奇蛋物语 | ワンダーエッグ・プライオリティ | WONDER EGG PRIORITY | 12集+SP / BD
@@ -254,7 +256,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 室内露营△<sup>*</sup> | へやキャン△ | Heya Camp△ | 13集 / [Web][200103]
 恋爱小行星 | 恋する小惑星 | Koisuru Asteroid | 12集<sup>α</sup> / [BD][200104]
 pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
-猫娘乐园 | ネコぱら | Nekopara | 12集 / BD
+猫娘乐园 | ネコぱら | Nekopara | 12集 / [BD][200106]
 虚构推理 | 虚構推理 | Kyokou Suiri | 12<sup>β</sup>+SP / [BD][200107]
 22/7 | 22/7 | Nanabun no Nijuuni | 12集<sup>α</sup> / [BD][200108]
 奇幻☆怪盗 | はてな☆イリュージョン | Hatena☆Illusion | 12集 / Web
@@ -268,6 +270,7 @@ Rebirth | Rebirth | Rebirth | 50+集 / Web
 [200103]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Heya_Camp
 [200104]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Koiastv
 [200105]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/pet
+[200106]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Nekopara
 [200107]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kyokou_Suiri
 [200108]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/227anime
 [200110]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Dorohedoro
@@ -629,7 +632,7 @@ Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fi
 告诉我吧！辣妹子 / 百无禁忌！女高中生私房话 OAD | おしえて! ギャル子ちゃん OAD | Oshiete! Galko-chan OAD | OAD
 干物妹！小埋 OAD2 Ep.14 | 干物妹! うまるちゃん OAD2 Ep.14 | Himouto! Umaru-chan OAD2 Ep.14 | OAD
 高校舰队 / 青春波纹 | ハイスクール・フリート OVA | High School Fleet OVA | [OVA](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Haifuri)
-巧克力与香子兰 OVA | ネコぱらOVA | NEKOPARA OVA | [OVA](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/NEKOPARA-OVA)
+巧克力与香子兰 OVA | ネコぱらOVA | NEKOPARA OVA | [OVA](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Nekopara)
 出包王女 / 天才摔跤手梨斗 OAD 10 | To LOVEる-とらぶる-ダークネス OAD 10 | To Love-Ru Trouble-Darkness OAD 10 | [OAD](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/To_Love-Ru_Trouble_Darkness_OVA)
 政宗君的复仇 OAD | 政宗くんのリベンジ OAD | Masamune-kun no Revenge OAD | OAD
 刀使巫女 刻印一闪的灯火 OVA | 刀使ノ巫女 刻みし一閃の燈火 OVA | Toji no Miko: Kizamishi Issen no Tomoshibi OVA | OVA / [BD](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tojitomo)<sup>α</sup>
