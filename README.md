@@ -62,7 +62,7 @@ SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web | 13集<sup>α</
 Sonny Boy / LIGHTYEAR | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / [Web][210701]
 桃子男孩渡海而来 | ピーチボーイリバーサイド | Peach Boy Riverside | 12集 / Web
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐…X | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…X / hamehura X / hamefura X | 12集<sup>α</sup> / Web
-女友成堆 | カノジョも彼女 | Kanojo mo Kanojo | 12集<sup>α</sup> / Web
+女友成堆 | カノジョも彼女 | Kanojo mo Kanojo | 12集<sup>α</sup> / [Web][210704]
 侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. | 12集<sup>α</sup> / [Web][210705]
 现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki | 13集 / Web
 歌剧少女!! | かげきしょうじょ!! | Kageki Shoujo!! | 13集 / Web
@@ -77,6 +77,7 @@ Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
 海盗公主 | 海賊王女 | Fena: Pirate Princess / Kaizoku Oujo | 12集 / Web
 
 [210701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sonny-Boy
+[210704]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Kanokano
 [210705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tanmoshi
 [210712]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Love_Live
 [210713]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/D_CIDE
@@ -229,7 +230,7 @@ A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SUMMER | A3! SEASON SPRING & SU
 公主连结 Re:Dive | プリンセスコネクト！Re:Dive | Princess Connect! Re:Dive | 13集 / [BD][200413]
 水果篮子 第二季 | フルーツバスケット 2nd season | Fruits Basket 2nd season | 25集<sup>β</sup> / [Web][200414]
 座敷童子榻榻米酱 | ざしきわらしのタタミちゃん | Zashiki Warashi no Tatami-chan | 12集 / [Web][200415]
-男人邦 / 邦男人 | アルゴナビス from BanG Dream! | ARGONAVIS from BanG Dream! | 13集<sup>α</sup> / [Web][200416]
+男人邦 / 邦男人 | アルゴナビス from BanG Dream! | ARGONAVIS from BanG Dream! | 13集<sup>α</sup> / [BD][200416]
 
 [200401]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BNA
 [200402]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Tower_of_God
@@ -295,7 +296,7 @@ XL上司。 | XL上司。 | XL Joushi. | 8集 / [Web][191010]
 我们真的学不来! / 我们无法一起学习! | ぼくたちは勉強ができない! | Bokutachi wa Benkyou ga Dekinai! | 13集<sup>β</sup> / 字幕
 小书痴的下克上<sup>*</sup> | 本好きの下剋上～司書になるためには手段を選んでいられません～ | Honzuki no Gekokujou | 14集 / [Web][191013]
 碧蓝航线 | アズールレーン | Azur Lane | 12集 / [BD][191014]
-超级小白 | SUPER SHIRO | SUPER SHIRO | 48集 / [Web][191015]
+超级小白 | SUPER SHIRO | SUPER SHIRO | 48集 / [ND][191015]
 
 [191001]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
 [191002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Houkago_Saikoro_Club
