@@ -60,13 +60,13 @@ SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web | 13集<sup>α</
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 Sonny Boy / LIGHTYEAR | Sonny Boy -サニーボーイ- | Sonny Boy | 12集 / [Web][210701]
-桃子男孩渡海而来 | ピーチボーイリバーサイド | Peach Boy Riverside | 12集 / Web
+桃子男孩渡海而来 | ピーチボーイリバーサイド | Peach Boy Riverside | 12集<sup>β</sup> / [BD][210702]
 转生成为了只有乙女游戏破灭Flag的邪恶大小姐…X | 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X | Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…X / hamehura X / hamefura X | 12集<sup>α</sup> / Web
 女友成堆 | カノジョも彼女 | Kanojo mo Kanojo | 12集<sup>α</sup> / [Web][210704]
 侦探已经，死了。 | 探偵はもう、死んでいる。 | Tantei wa Mou, Shindeiru. | 12集<sup>α</sup> / [Web][210705]
-现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki | 13集 / Web
+现实主义勇者的王国重建记 | 現実主義勇者の王国再建記 | Genjitsu Shugi Yuusha no Oukoku Saikenki | 13集 / BD
 歌剧少女!! | かげきしょうじょ!! | Kageki Shoujo!! | 13集 / Web
-我是怼大哥 | 俺、つしま | Ore, Tsushima | Web
+我是怼大哥 | 俺、つしま | Ore, Tsushima | 12集 / [Web][210708]
 白沙的水族馆 | 白い砂のアクアトープ | Shiroi Suna no Aquatope | 24集<sup>α</sup> / Web
 死神少爷与黑女仆 | 死神坊ちゃんと黒メイド | Shinigami Bocchan to Kuro Maid | 12集
 转生到异世界也要996 / 暗黑企业的迷宫 | 迷宮ブラックカンパニー | Meikyuu Black Company | 12集 / Web
@@ -77,8 +77,10 @@ Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
 海盗公主 | 海賊王女 | Fena: Pirate Princess / Kaizoku Oujo | 12集 / Web
 
 [210701]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sonny-Boy
+[210702]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Peach_Boy_Riverside
 [210704]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Kanokano
 [210705]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tanmoshi
+[210708]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Tsushima
 [210712]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Love_Live
 [210713]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/D_CIDE
 
@@ -92,7 +94,7 @@ Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [Web][210402]
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / [Web][210404]
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
 异世界魔王与召唤少女的奴隶魔术Ω | 異世界魔王と召喚少女の奴隷魔術Ω | Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω | 10集 / [Web][210406]
-持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / BD
+持续狩猎史莱姆三百年，不知不觉就练到LV MAX | スライム倒して300年、知らないうちにレベルMAXになってました | Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita | 12集<sup>β</sup> / [BD][210407]
 86 -不存在的战区- | 86－エイティシックス－ | 86 -Eighty Six- | 11集<sup>β</sup>
 大运动会 ReSTART!<sup>*</sup> | バトルアスリーテス大運動会 ReSTART! | Battle Athletess Daiundoukai ReSTART! | 12集<sup>β</sup> / Web
 青梅竹马绝对不会输的恋爱喜剧 | 幼なじみが絶対に負けないラブコメ | Osananajimi ga Zettai ni Makenai Love Comedy | 12集 / Web
@@ -104,6 +106,7 @@ EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
 [210403]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Higehiro
 [210404]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Seijyonomaryoku
 [210406]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Isekaimaou
+[210407]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Slime300
 [210411]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/EDEN
 
 ### <span id="2101"> 2021年01月</span>
@@ -111,12 +114,12 @@ EDEN | エデン | EDEN | 4集<sup>α</sup> / [Web][210411]
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 演剧偶像 | ゲキドル | Gekidol | 12集+OVA<sup>α</sup> / [BD][210101]
-BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | 12集<sup>β</sup> / [Web][210102]
+BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | 12集<sup>β</sup> / [BD][210102]
 轻旅轻营△ SEASON2<sup>*</sup> | ゆるキャン△SEASON2 | Yuru Camp△ S2 | 12集 / Web
 约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | 11集<sup>β</sup> / BD
 五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | 12集<sup>β</sup> / Web
 弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集<sup>β</sup> / BD
-BACK ARROW | バック・アロウ | Back Arrow | 24集 / Web
+BACK ARROW | バック・アロウ | Back Arrow | 24集 / BD
 只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | 12集<sup>β</sup> / BD
 工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集<sup>β</sup> / Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集<sup>β</sup> / Web
@@ -262,7 +265,7 @@ pet | pet | pet | 13集<sup>β</sup> / [BD][200105]
 22/7 | 22/7 | Nanabun no Nijuuni | 12集<sup>α</sup> / [BD][200108]
 奇幻☆怪盗 | はてな☆イリュージョン | Hatena☆Illusion | 12集 / Web
 异兽魔都 | ドロヘドロ | Dorohedoro | 12集<sup>β</sup> / [BD][200110]
-索玛丽与森林之神 | ソマリと森の神様 | Somali to Mori no Kamisama | 12集<sup>β</sup> / [Web][200111]
+索玛丽与森林之神 | ソマリと森の神様 | Somali to Mori no Kamisama | 12集<sup>β</sup> / [BD][200111]
 Rebirth | Rebirth | Rebirth | 50+集 / Web
 试证明理科生已坠入情网。 | 理系が恋に落ちたので証明してみた。 | Rikei ga Koi ni Ochita no de Shoumei shitemita. | 12集<sup>β</sup> / [BD][200113]
 
