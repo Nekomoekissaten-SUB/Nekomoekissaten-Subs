@@ -89,7 +89,7 @@ Assault Lily Fruits | アサルトリリィ ふるーつ | Assault Lily Fruits |
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
 --- | --- | --------- | :-:
 水果篮子 The Final | フルーツバスケット The Final | Fruits Basket The Final | 13集<sup>β</sup> / [Web][210401]
-Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [Web][210402]
+Vivy | Vivy -Fluorite Eye’s Song- | Vivy | 13集 / [BD][210402]
 剃须。然后捡到女高中生。 / 刮掉胡子的我与捡到的女高中生 | ひげを剃る。そして女子高生を拾う。 | Hige wo Soru. Soshite Joshikousei wo Hirou. | 13集<sup>β</sup> / [BD][210403]
 圣女魔力无所不能 | 聖女の魔力は万能です | Seijo no Maryoku wa Bannou desu | 12集<sup>β</sup> / [Web][210404]
 本田小狼与我 | スーパーカブ | Super Cub | 12集<sup>α</sup>
@@ -119,7 +119,7 @@ BEASTARS 第二季 | BEASTARS 二期 | BEASTARS S2 | 12集<sup>β</sup> / [BD][2
 约定的梦幻岛 第二季 | 約束のネバーランド 2期 | Yakusoku no Neverland 2 / The Promised Neverland 2 | 11集<sup>β</sup> / BD
 五等分的新娘∬ | 五等分の花嫁∬ | Go-Toubun no Hanayome S2 | 12集<sup>β</sup> / Web
 弱角友崎同学 | 弱キャラ友崎くん | Jaku-Chara Tomozaki-kun | 12集<sup>β</sup> / BD
-BACK ARROW | バック・アロウ | Back Arrow | 24集 / BD
+BACK ARROW | バック・アロウ | Back Arrow | 24集 / [BD][210107]
 只有我能进入的隐藏迷宫 | 俺だけ入れる隠しダンジョン -こっそり鍛えて世界最強- | Ore dake Haireru Kakushi Dungeon | 12集<sup>β</sup> / BD
 工作细胞!! | はたらく細胞!! | Hataraku Saibou S2 | 8集<sup>β</sup> / Web
 工作细胞Black | はたらく細胞Black | Hataraku Saibou Black | 13集<sup>β</sup> / Web
@@ -135,6 +135,7 @@ VLADLOVE | ぶらどらぶ | Vlad Love | 12集 / Web
 
 [210101]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Gekidol
 [210102]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BEASTARS
+[210107]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/BACK-ARROW
 [210111]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Kemono_Jihen
 [210112]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/IDOLY_PRIDE
 [210114]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Other-Subs/tree/master/Nonnon
