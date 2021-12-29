@@ -4,6 +4,7 @@
 - [注意事项](#notice)
 - [番剧索引](#title)
 	- [TV动画](#tva)
+		-  2022年 : 10月🍂 - 7月☀️ - 4月🌸 - [1月](#2201)❄️
 		-  2021年 : [10月](#2110)🍂 - [7月](#2107)☀️ - [4月](#2104)🌸 - [1月](#2101)❄️
 		-  2020年 : [10月](#2010)🍂 - [7月](#2007)☀️ - [4月](#2004)🌸 - [1月](#2001)❄️
 		-  2019年 : [10月](#1910)🍂 - [7月](#1907)☀️ - [4月](#1904)🌸 - [1月](#1901)❄️
@@ -35,6 +36,22 @@
 
 ## <span id="tva"> TV动画</span>
 
+### <span id="2201"> 2022年01月</span>
+
+中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
+--- | --- | --------- | :-:
+irodorimidori | イロドリミドリ | irodorimidori
+里亚德录大地 | リアデイルの大地にて
+慢钓生活 | スローループ | SLOW LOOP
+CUE! | CUE! | CUE!
+更衣人偶坠入爱河 | その着せ替え人形は恋をする
+明日同学的水手服 | 明日ちゃんのセーラー服
+现实主义勇者的王国再建记 第二部 | 現実主義勇者の王国再建記 第二部
+怪人开发部的黑井津 | 怪人開発部の黒井津さん
+公主连接Re：dive 第二季 | プリンセスコネクト！Re:Dive Season2
+天才王子的赤字国家再生术 | 天才王子の赤字国家再生術
+平凡职业成就世界最强 第二季 | ありふれた職業で世界最強 S2
+
 ### <span id="2110"> 2021年10月</span>
 
 中文名 | 日文名 | 英文名 | 字幕<br><img align="right" width=300/>
@@ -42,18 +59,21 @@
 SAKUGAN | サクガン | SAKUGAN | 12集<sup>α</sup> / Web
 加油吧同期酱 | がんばれ同期ちゃん | Ganbare Douki-chan | 12集 / Web
 平家物语 | 平家物語 | Heike Monogatari | 11集<sup>α</sup> / Web
-SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web | 13集<sup>α</sup> / Web
-86 -不存在的战区- 第二部分 | 86－エイティシックス－ 第2クール | 86 -Eighty Six- Part 2 | Web
+SELECTION PROJECT | SELECTION PROJECT | SELECTION PROJECT | Web | 13集<sup>α</sup> / [Web][211004]
+86 -不存在的战区- 第二部分 | 86－エイティシックス－ 第2クール | 86 -Eighty Six- Part 2 | 12集 / Web
 月与莱卡与吸血姬 | 月とライカと吸血姫 | Tsuki to Laika to Nosferatu | 12集 / Web
-宿命回响 | takt op. Destiny | takt op. Destiny | 12集<sup>α</sup> / Web
+宿命回响 | takt op.Destiny | takt op.Destiny | 12集<sup>α</sup> / [Web][211007]
 逆转世界的电池少女 | 逆転世界ノ電池少女 | RUMBLE GARANNDOLL / Gyakuten Sekai no Denchi Shoujo | 12集<sup>α</sup> / Web
 阴阳眼见子 | 見える子ちゃん | Mieruko-chan | 12集 / Web
-无职转生 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 | Web
+无职转生 第二部分 | 無職転生-異世界行ったら本気だす- 第2クール | Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 | 12集<sup>α</sup> / Web
 古见同学，有交流障碍症。 | 古見さんは、コミュ症です。 | Komi Can't Communicate | 12集<sup>α</sup> / Web
 半妖的夜叉姬 二之章 | 半妖の夜叉姫 弐の章 | Hanyou no Yashahime: Sengoku Otogizoushi S2 | Web
-百万吨级武藏 | メガトン級ムサシ | Megaton-kyuu Musashi | Web
+百万吨级武藏 | メガトン級ムサシ | Megaton-kyuu Musashi | 13集 / Web
 大正处女御伽话 | 大正オトメ御伽話 | Taishou Otome Otogibanashi | Web
 180秒能让你的耳朵感到幸福吗？ | 180秒で君の耳を幸せにできるか？ | 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka? | Web
+
+[211004]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/SelPro
+[211007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/takt-op
 
 ### <span id="2107"> 2021年07月</span>
 
