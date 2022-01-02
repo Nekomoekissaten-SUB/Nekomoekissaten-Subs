@@ -603,6 +603,7 @@ Birthday Wonderland | バースデー・ワンダーランド | The Wonderland |
 少女与战车 最终章 第2话<sup>*</sup> | ガールズ&パンツァー 最終章 第2話 | Girls und Panzer das Finale Part 2 | [BD][mov037]
 言语如苏打般涌现 | サイダーのように言葉が湧き上がる | Cider no You ni Kotoba ga Wakiagaru | [Web][mov038]<sup>α</sup>
 Josee、老虎和鱼 | ジョゼと虎と魚たち | Josee, the Tiger and the Fish / Joze to Tora to Sakana-tachi | [BD][mov039]
+烟囱城的普贝尔 | えんとつ町のプペル | Entotsu Machi no Poupelle | BD
 寻找见习魔女 | 魔女見習いをさがして | Looking for Magical Doremi / Majo Minarai wo Sagashite | BD
 <!--少女☆歌剧 再生产总集篇 | 少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド | Shoujo Kageki Revue Starlight Rondo Rondo Rondo | BD<sup>α</sup>-->
 
@@ -674,6 +675,7 @@ KITE LIBERATOR | カイト リベレイター | KITE LIBERATOR | OVA / [BD][ova0
 A KITE | カイト | KITE | OVA / [BD][ova006]
 池袋PR动画 | 池袋PRアニメ | Ikebukuro PR Anime | [ONA][ova007]
 樱花革命 华丽绽放的少女们 特别动画 | サクラ革命 ～華咲く乙女たち～ | Sakura Kakumei | [ONA][ova008]<sup>α</sup>
+一杆青空 / 空色Utility / 天空色的多功能杆 | 空色ユーティリティ | Sorairo Utility | [OVA][ova009]<sup>α</sup>
 
 [ova001]: https://github.com/Nekomoekissaten-SUB/Aru-Zombie-Shoujo-no-Sainan
 [ova002]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/tree/master/Escha-Chron
@@ -685,6 +687,7 @@ A KITE | カイト | KITE | OVA / [BD][ova006]
 [ova006]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/KITE
 [ova007]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Ikebukuro_PR
 [ova008]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sakura_Taisen
+[ova009]: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-MIR-Subs/tree/master/Sorairo_Utility
 
 ## <span id="other">非动画类</span></span>
 
