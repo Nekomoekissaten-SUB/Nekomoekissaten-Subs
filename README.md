@@ -49,3 +49,16 @@
 	Dead | 不会继续制作
 
 5. `Subs Link` 为外挂字幕的 GitHub 页面
+
+## 字幕存储说明
+
+公开的字幕均上传至 [Nekomoekissaten-Storage](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage)，并打包上传至 [Subtitles Packages](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/tag/subtitle_pkg)，推荐从项目表访问至相应的目录，各目录中的 README 会提供下载的链接。
+
+1. 一般将合并特效后的成品打包至 tag subtitle_pkg 下，特效等大文本文件上传至 subtitle_effect，单语字幕的日文字幕可能上传到 subtitle_jpn
+2. 打包的命名是按以下顺序排列，使用 `_` 连接
+	1. 文件夹名称。如果文件夹内有多个同系列或多季度作品，可能会使用片名缩写或增加季度缩写
+	2. 根据字幕时间轴的匹配使用 Web 或 BD（实际可能匹配的是 WebRip 或 BDRip）
+	3. 简繁中文为 zho，简繁日双语为 JPCH，单简体为 chs / CHS
+	4. 如果后续更改可能会添加打包时的 commit 或者修改日期（YYYYMMDD）
+3. 如果字幕本身偏大，不适合 git 管理，可能不会上传到 repo 内而是直接打包到 subtitle_pkg。一般改动会在 readme 中记录 changelog
+4. 如果字幕本身只有 1-4 个，可能不会打包上传至 subtitle_pkg，可以直接从 git repo 下载。（目前在减少这种现象）
