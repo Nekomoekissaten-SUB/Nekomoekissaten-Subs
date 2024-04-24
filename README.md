@@ -1,10 +1,10 @@
-![](BANNER.jpg)
+![](NO_MILKTEA.jpg)
 
-<p align="left"> <b>简体中文</b> | <a href="README_zh-tw.md">繁體中文</a> </p>
+<p align="left"> <b>简体中文</b> | <a href="README_ZH-HANT.md">繁體中文</a> </p>
 
 # 字幕计划
 
-所有制作过或正在进行的字幕计划及链接请查看 [项目表](https://github.com/orgs/Nekomoekissaten-SUB/projects/1)，如若发现错误欢迎通过 [issue](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues/new/choose) 进行回报。
+所有制作过或正在进行的字幕计划及链接请查看 [项目表](https://github.com/orgs/Nekomoekissaten-SUB/projects/1)。如若发现错误欢迎通过 [issue](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues) 回报。
 
 ## 注意事项
 
@@ -20,6 +20,7 @@
 	- 发布同为文本字幕的修改版字幕演绎遵循上述第二点
 	- 禁止发布一切未经同意的不可逆的文本转图像修改版字幕（包括但不限于外挂结构、加流重灌）
 	- 本组所有字幕（除直接转载的官方日文字幕）无特殊声明外均遵循上述协议进行许可，如有疑问请联系本组
+5. 回报错误前建议先检查一遍 [issue](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues) 列表，避免出现重复回报
 
 ## 项目表说明
 
