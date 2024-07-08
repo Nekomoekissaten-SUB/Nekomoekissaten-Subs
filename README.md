@@ -4,7 +4,7 @@
 
 # 字幕计划
 
-所有制作过或正在进行的字幕计划及链接请查看 [项目表](https://github.com/orgs/Nekomoekissaten-SUB/projects/1)。如若发现错误欢迎通过 [Issues](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues) 或 [Google Form](https://forms.gle/PQVM8p8SxvgKUco48) 进行回报。
+所有制作过或正在进行的字幕计划及链接请查看 [项目表](https://github.com/orgs/Nekomoekissaten-SUB/projects/1)。如若发现错误欢迎通过 [Issues](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues) 或 [Google 表单](https://forms.gle/PQVM8p8SxvgKUco48) 进行回报。
 
 ## 注意事项
 
