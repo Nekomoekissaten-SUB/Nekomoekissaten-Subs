@@ -1,6 +1,6 @@
 ![](NO_MILKTEA.jpg)
 
-<p align="left"> <a href="README.md">简体中文</a> | <b>繁體中文</b> </p>
+[简体中文](README.md) | **繁體中文**
 
 # 字幕計劃
 
