@@ -1,4 +1,4 @@
-![](NO_MILKTEA.jpg)
+![NO_MILKTEA](NO_MILKTEA.jpg)
 
 <p align="left"> <b>简体中文</b> | <a href="README_ZH-HANT.md">繁體中文</a> </p>
 
@@ -38,15 +38,15 @@
 
 	| Status        | 状态             | 附录              |
 	| ------------- | ---------------- | ----------------- |
-	| ToDo          | 计划制作         |
-	| Maybe         | 也许制作         |
-	| Sync Update   | 同步更新         |
-	| In Production | 制作中           |
-	| Update Done   | 更新完成但未合集 |
+	| ToDo          | 计划制作         |                   |
+	| Maybe         | 也许制作         |                   |
+	| Sync Update   | 同步更新         |                   |
+	| In Production | 制作中           |                   |
+	| Update Done   | 更新完成但未合集 |                   |
 	| Web ver. Done | 已完成 Web 合集  | 也可能是 TV 合集  |
 	| BD ver. Done  | 已完成 BD 合集   | 也可能是 DVD 合集 |
-	| Maybe Dead    | 也许不会再制作   |
-	| Dead          | 不会继续制作     |
+	| Maybe Dead    | 也许不会再制作   |                   |
+	| Dead          | 不会继续制作     |                   |
 
 5. `Subs Link` 为外挂字幕的 GitHub 页面
 
