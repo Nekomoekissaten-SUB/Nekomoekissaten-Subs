@@ -1,6 +1,6 @@
 ![NO_MILKTEA](NO_MILKTEA.jpg)
 
-<p align="left"> <b>简体中文</b> | <a href="README_ZH-HANT.md">繁體中文</a> </p>
+**简体中文** | [繁體中文](README_ZH-HANT.md)
 
 # 字幕计划
 
